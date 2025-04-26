@@ -1,0 +1,1501 @@
+Product_ID,Brand,Price,Quantity (L),Consume_Region,Packaging_Type,Water_Type,pH_Level,TDS (ppm),Source,Retailer_Type,Sales_Channel,Temperature_Storage (°C),Consumer_Age_Group,Annual_Sales
+PW1000,Fiji,1.45,0.93,Europe,Bottle,Purified,8.46,88,Filtered,Convenience Store,Online,4.8,Teenagers,721
+PW1001,Nestle Pure Life,1.79,1.97,Africa,Pouch,Purified,6.59,246,Rainwater,Wholesale,Offline,8.9,Elderly,49650
+PW1002,Perrier,3.88,1.21,Australia,Can,Spring,8.2,483,Rainwater,Online,Online,9.8,Children,47078
+PW1003,Smartwater,4.56,1.48,North America,Bottle,Distilled,6.95,184,Municipal,Pharmacy,Offline,21.3,Elderly,27270
+PW1004,Aquafina,2.5,0.59,Asia,Bottle,Spring,7.16,418,Rainwater,Supermarket,Online,13,Elderly,28087
+PW1005,San Pellegrino,1.77,1.95,North America,Bottle,Purified,6.16,298,Well,Pharmacy,Offline,11,Elderly,21943
+PW1006,Perrier,2.66,0.44,Europe,Pouch,Alkaline,7.54,76,Well,Pharmacy,Online,5.5,Elderly,25834
+PW1007,Smartwater,4.26,0.89,Europe,Bottle,Spring,6.51,215,Natural Spring,Convenience Store,Online,18,Elderly,41231
+PW1008,Dasani,2.77,0.4,Europe,Bottle,Alkaline,7.9,480,Municipal,Online,Offline,13,Elderly,13741
+PW1009,Smartwater,3.38,0.95,South America,Can,Mineral,6.75,199,Well,Pharmacy,Online,15.1,Teenagers,9984
+PW1010,Nestle Pure Life,2,0.63,Europe,Box,Distilled,8.66,181,Filtered,Convenience Store,Online,7.7,Elderly,45091
+PW1011,Voss,2.58,1.34,Australia,Can,Alkaline,7.06,286,Rainwater,Convenience Store,Online,6.7,Elderly,41561
+PW1012,Perrier,2.93,1.72,South America,Can,Alkaline,8.51,352,Filtered,Pharmacy,Offline,17.9,Children,11162
+PW1013,Smartwater,1.35,1.69,Australia,Box,Distilled,8.8,239,Natural Spring,Convenience Store,Online,16.7,Adults,10918
+PW1014,Dasani,3.44,0.46,Australia,Box,Spring,6.53,302,Filtered,Online,Offline,10,Teenagers,9137
+PW1015,Evian,3.88,1.83,North America,Can,Sparkling,6.91,239,Natural Spring,Pharmacy,Online,4.3,Children,9886
+PW1016,Fiji,4.68,0.49,Africa,Bottle,Sparkling,7.68,225,Municipal,Wholesale,Online,17.3,Elderly,12641
+PW1017,Evian,4.95,0.62,Africa,Pouch,Sparkling,8.1,449,Municipal,Convenience Store,Online,10.3,Elderly,13808
+PW1018,Dasani,2.99,1.76,Asia,Pouch,Distilled,8.13,288,Municipal,Convenience Store,Offline,20.1,Elderly,13950
+PW1019,San Pellegrino,2.06,1.11,Asia,Can,Sparkling,8.09,84,Municipal,Online,Online,7.1,Children,38769
+PW1020,Fiji,1.25,0.69,Australia,Pouch,Alkaline,7.64,227,Filtered,Pharmacy,Offline,19.9,Children,19907
+PW1021,Smartwater,2.15,1.22,South America,Pouch,Alkaline,8.07,276,Natural Spring,Wholesale,Online,22.7,Adults,42705
+PW1022,Perrier,1.44,0.64,North America,Can,Purified,7.35,457,Filtered,Supermarket,Online,22.1,Children,7607
+PW1023,Perrier,2.05,1.76,Africa,Pouch,Mineral,7.46,153,Municipal,Pharmacy,Offline,12.7,Teenagers,29983
+PW1024,Voss,3.55,1.13,Asia,Bottle,Sparkling,7.54,338,Natural Spring,Supermarket,Online,4.8,Children,743
+PW1025,Voss,4.2,0.54,Europe,Can,Spring,8.14,312,Filtered,Online,Offline,24.4,Adults,27273
+PW1026,Voss,4.46,1.95,Australia,Bottle,Spring,6.96,154,Well,Convenience Store,Offline,13.2,Children,26532
+PW1027,Nestle Pure Life,4.52,0.8,Australia,Box,Spring,7.54,209,Natural Spring,Convenience Store,Offline,17.4,Adults,48677
+PW1028,Voss,1.42,1.78,Asia,Box,Purified,7.62,360,Rainwater,Wholesale,Online,19.8,Adults,14883
+PW1029,Aquafina,2.29,1.06,North America,Box,Mineral,6.3,494,Rainwater,Online,Online,18.8,Children,36011
+PW1030,Evian,3.55,0.74,Asia,Bottle,Mineral,7.21,475,Rainwater,Online,Online,17.7,Children,19402
+PW1031,Voss,1.32,1.05,Europe,Box,Alkaline,7.24,430,Municipal,Supermarket,Offline,5.8,Elderly,3559
+PW1032,Perrier,2.69,1.06,South America,Pouch,Mineral,7.98,469,Municipal,Online,Offline,4.8,Children,10979
+PW1033,Nestle Pure Life,2.18,1.01,South America,Can,Sparkling,7.31,98,Natural Spring,Wholesale,Offline,9,Teenagers,33222
+PW1034,Evian,1.91,0.75,North America,Box,Mineral,6.16,292,Well,Online,Offline,18.7,Adults,3023
+PW1035,Voss,3.18,1.77,Asia,Box,Alkaline,6.97,489,Municipal,Wholesale,Online,13.5,Elderly,31643
+PW1036,Nestle Pure Life,0.72,0.88,Europe,Box,Mineral,7.91,134,Rainwater,Online,Offline,12.9,Adults,1335
+PW1037,Perrier,1.19,0.94,Africa,Box,Alkaline,6.05,279,Rainwater,Convenience Store,Online,4.3,Children,8582
+PW1038,Perrier,1.82,1.05,Australia,Box,Spring,7.75,303,Rainwater,Supermarket,Offline,10.3,Adults,12201
+PW1039,Fiji,3.2,0.56,South America,Bottle,Alkaline,8.05,495,Rainwater,Online,Offline,9.1,Adults,12136
+PW1040,San Pellegrino,4.06,0.93,Australia,Can,Mineral,8.6,67,Natural Spring,Online,Online,17.8,Children,15211
+PW1041,Nestle Pure Life,1.42,0.91,South America,Pouch,Mineral,8.07,323,Filtered,Convenience Store,Offline,22.7,Teenagers,15192
+PW1042,Aquafina,3.14,0.62,North America,Can,Sparkling,7.42,443,Filtered,Online,Online,10.2,Adults,32061
+PW1043,Voss,1.87,1.87,Asia,Box,Mineral,7.04,277,Municipal,Online,Offline,23.7,Children,24841
+PW1044,Perrier,2.82,1.47,Africa,Can,Distilled,7.93,148,Rainwater,Wholesale,Online,10.4,Elderly,7680
+PW1045,Nestle Pure Life,1.94,1.06,South America,Pouch,Purified,8.81,313,Rainwater,Wholesale,Offline,15.1,Teenagers,19705
+PW1046,Nestle Pure Life,3.64,0.22,North America,Bottle,Purified,7.93,148,Rainwater,Pharmacy,Online,12.3,Children,3668
+PW1047,Nestle Pure Life,1.57,0.45,Africa,Box,Mineral,6.47,166,Filtered,Wholesale,Online,16.2,Elderly,15903
+PW1048,Evian,2.49,1.01,Australia,Can,Spring,8.91,368,Filtered,Convenience Store,Online,12.3,Children,10042
+PW1049,Nestle Pure Life,2.48,1.42,South America,Pouch,Mineral,7.79,480,Filtered,Convenience Store,Online,24.7,Children,6999
+PW1050,Nestle Pure Life,2.62,0.87,Europe,Can,Distilled,7.81,94,Natural Spring,Convenience Store,Offline,6.1,Teenagers,33887
+PW1051,Evian,3.27,1.36,North America,Bottle,Spring,7.04,355,Rainwater,Pharmacy,Offline,22.4,Children,30185
+PW1052,San Pellegrino,3.91,1.89,Asia,Box,Distilled,7.18,180,Municipal,Wholesale,Offline,16.7,Children,7107
+PW1053,Dasani,2.68,1.88,North America,Box,Purified,8.56,399,Rainwater,Supermarket,Online,11.2,Elderly,19655
+PW1054,Nestle Pure Life,1.71,1.03,South America,Bottle,Spring,7.77,151,Well,Online,Offline,6.8,Elderly,32369
+PW1055,San Pellegrino,3.54,0.28,Asia,Can,Sparkling,7.37,144,Rainwater,Supermarket,Online,24.5,Teenagers,5255
+PW1056,Smartwater,2.43,0.63,Africa,Box,Alkaline,6.81,260,Municipal,Convenience Store,Online,19.5,Children,37706
+PW1057,Dasani,1.25,1.98,Australia,Can,Mineral,7.46,223,Filtered,Pharmacy,Online,11.9,Adults,12743
+PW1058,Fiji,1.62,1.55,North America,Bottle,Distilled,7.03,193,Rainwater,Pharmacy,Online,21.5,Children,7880
+PW1059,Dasani,2.57,0.79,Australia,Bottle,Distilled,7.01,173,Well,Convenience Store,Online,11.5,Adults,37826
+PW1060,Fiji,1.56,1.28,Africa,Bottle,Spring,6.6,204,Natural Spring,Convenience Store,Offline,6.5,Children,14086
+PW1061,Smartwater,1.01,1.8,North America,Bottle,Purified,6.75,125,Municipal,Online,Online,19,Elderly,2739
+PW1062,Smartwater,2.21,1.38,North America,Pouch,Spring,6.63,129,Well,Wholesale,Online,24.3,Children,4939
+PW1063,Dasani,3.67,0.39,Australia,Bottle,Spring,8.94,81,Natural Spring,Convenience Store,Online,23.4,Children,25402
+PW1064,San Pellegrino,2.37,1.66,Africa,Bottle,Spring,6.92,89,Municipal,Wholesale,Offline,9.1,Children,15625
+PW1065,Evian,2.08,1.54,Australia,Bottle,Alkaline,6.2,114,Municipal,Wholesale,Offline,9.1,Adults,6212
+PW1066,Dasani,1.05,1.68,South America,Box,Alkaline,7.99,152,Filtered,Wholesale,Offline,16.1,Adults,30831
+PW1067,Dasani,4.57,1.88,South America,Pouch,Distilled,6.58,439,Municipal,Pharmacy,Online,17.6,Children,36287
+PW1068,Fiji,4.03,1.97,South America,Box,Distilled,7.05,289,Filtered,Supermarket,Online,21.5,Teenagers,18712
+PW1069,Aquafina,3.64,1.76,North America,Can,Alkaline,7.54,318,Well,Supermarket,Online,8,Elderly,5145
+PW1070,Aquafina,0.69,0.65,North America,Bottle,Spring,7.63,388,Natural Spring,Supermarket,Offline,9.7,Elderly,48283
+PW1071,Perrier,4.03,1.53,Australia,Box,Purified,7.25,97,Natural Spring,Supermarket,Offline,23.6,Adults,19024
+PW1072,Smartwater,1.83,1.69,South America,Bottle,Mineral,8.32,439,Rainwater,Wholesale,Online,16.6,Adults,37638
+PW1073,Voss,2.93,1.16,South America,Bottle,Mineral,8.11,238,Municipal,Supermarket,Offline,21.6,Teenagers,24160
+PW1074,Smartwater,4.12,0.26,Europe,Box,Purified,6.02,133,Filtered,Wholesale,Online,18.9,Children,28155
+PW1075,Evian,2.43,1.28,Asia,Pouch,Alkaline,7.7,446,Rainwater,Online,Offline,9.7,Adults,17224
+PW1076,Fiji,3.33,0.48,Europe,Box,Mineral,8.08,100,Municipal,Wholesale,Online,17.5,Teenagers,1895
+PW1077,Evian,3.16,1.73,Asia,Bottle,Distilled,6.68,207,Filtered,Convenience Store,Offline,10.1,Elderly,39803
+PW1078,Fiji,2.16,0.98,South America,Pouch,Mineral,8.73,297,Municipal,Online,Offline,17.3,Teenagers,2348
+PW1079,Dasani,1.37,0.78,Australia,Box,Mineral,6.98,51,Municipal,Convenience Store,Offline,10.5,Teenagers,9356
+PW1080,Smartwater,2.49,1.01,North America,Can,Purified,6.68,343,Well,Wholesale,Online,11.5,Children,17346
+PW1081,Dasani,4.49,1.51,Africa,Pouch,Purified,7.05,272,Filtered,Wholesale,Online,19.9,Adults,31086
+PW1082,Voss,1.69,0.64,Asia,Box,Distilled,6.15,228,Natural Spring,Online,Offline,11.7,Teenagers,37150
+PW1083,Evian,2.14,0.87,Australia,Pouch,Alkaline,8.98,257,Natural Spring,Online,Online,19,Children,17668
+PW1084,Perrier,1.58,0.42,North America,Can,Spring,7.23,299,Natural Spring,Pharmacy,Offline,5.9,Teenagers,9917
+PW1085,Nestle Pure Life,3.52,1.41,North America,Bottle,Sparkling,7.51,316,Rainwater,Wholesale,Online,21,Elderly,40533
+PW1086,Voss,4.3,1.27,North America,Box,Spring,7.34,151,Rainwater,Wholesale,Online,5.7,Teenagers,49438
+PW1087,Smartwater,2.83,0.69,Europe,Bottle,Sparkling,7.12,224,Well,Supermarket,Online,4.8,Adults,18347
+PW1088,Evian,2.77,0.52,South America,Box,Spring,8.34,298,Municipal,Pharmacy,Offline,24.3,Adults,40889
+PW1089,Perrier,0.69,1.82,South America,Bottle,Alkaline,7.85,411,Natural Spring,Convenience Store,Offline,4.2,Children,26969
+PW1090,Perrier,4.98,1.61,South America,Box,Alkaline,7.53,433,Well,Pharmacy,Offline,18.9,Teenagers,30244
+PW1091,Evian,1.24,1.45,South America,Can,Purified,7.78,186,Natural Spring,Wholesale,Offline,10,Adults,15642
+PW1092,Voss,3.84,1.62,Africa,Box,Mineral,6.11,220,Well,Wholesale,Offline,9,Children,27827
+PW1093,Evian,3.54,0.49,Australia,Box,Mineral,8.33,240,Well,Supermarket,Offline,19,Adults,13952
+PW1094,Nestle Pure Life,2.37,1.85,Asia,Box,Mineral,6.96,138,Natural Spring,Online,Online,13.3,Elderly,7708
+PW1095,Voss,0.88,0.65,Europe,Pouch,Purified,8.29,53,Rainwater,Wholesale,Online,12.3,Elderly,23188
+PW1096,Fiji,2.83,0.58,Asia,Can,Sparkling,8.33,455,Filtered,Supermarket,Online,22.7,Elderly,14501
+PW1097,Nestle Pure Life,2.97,1.43,South America,Bottle,Spring,8.83,249,Well,Convenience Store,Online,13.4,Teenagers,20265
+PW1098,Voss,1.37,1.44,Australia,Box,Alkaline,8.36,358,Municipal,Supermarket,Online,12.1,Children,19067
+PW1099,Nestle Pure Life,1.84,1.98,South America,Box,Purified,6.17,445,Rainwater,Wholesale,Offline,11.6,Children,8515
+PW1100,Fiji,2.43,1.19,North America,Pouch,Spring,7.65,161,Municipal,Convenience Store,Online,15,Children,9394
+PW1101,Perrier,4.43,1.53,Australia,Pouch,Distilled,6.61,82,Natural Spring,Pharmacy,Offline,12.1,Teenagers,21920
+PW1102,Nestle Pure Life,1.96,1.81,South America,Pouch,Sparkling,8.55,489,Municipal,Supermarket,Online,13.3,Children,31633
+PW1103,Perrier,3.52,0.97,North America,Can,Purified,8.39,412,Municipal,Supermarket,Offline,14.1,Elderly,46954
+PW1104,Nestle Pure Life,2.48,1.74,Africa,Pouch,Distilled,6.18,213,Filtered,Wholesale,Online,4.2,Children,27811
+PW1105,Fiji,0.75,1.15,South America,Bottle,Sparkling,8.97,166,Municipal,Supermarket,Online,19.7,Adults,41758
+PW1106,Fiji,4.75,0.65,Australia,Bottle,Sparkling,7.26,247,Well,Wholesale,Online,11.6,Adults,12691
+PW1107,San Pellegrino,4.18,1.13,Asia,Can,Mineral,7.08,307,Municipal,Supermarket,Offline,24.1,Children,5494
+PW1108,Aquafina,4.24,1.48,Asia,Can,Spring,6.14,447,Municipal,Supermarket,Offline,14.7,Elderly,46450
+PW1109,Dasani,2.39,1.83,Asia,Can,Alkaline,8.68,263,Well,Convenience Store,Offline,4.9,Elderly,48468
+PW1110,San Pellegrino,0.75,1.85,Asia,Can,Spring,6.65,222,Municipal,Wholesale,Online,17.4,Adults,44891
+PW1111,Voss,1.86,1.88,Australia,Can,Alkaline,7.88,148,Filtered,Online,Online,14.1,Elderly,35928
+PW1112,Smartwater,2.59,1.75,Australia,Can,Purified,6.15,461,Natural Spring,Wholesale,Online,22.1,Adults,4655
+PW1113,Voss,4.68,0.87,North America,Box,Distilled,6.09,350,Well,Wholesale,Offline,11.7,Elderly,42555
+PW1114,Perrier,2.85,1.75,Africa,Pouch,Distilled,7.37,125,Natural Spring,Supermarket,Offline,22.5,Elderly,12176
+PW1115,Smartwater,3.06,1.97,North America,Can,Spring,8.56,339,Filtered,Supermarket,Online,21,Elderly,34648
+PW1116,San Pellegrino,2.39,1.22,South America,Box,Distilled,6.38,152,Natural Spring,Pharmacy,Offline,9.1,Elderly,22403
+PW1117,Fiji,0.91,0.4,North America,Can,Sparkling,7.32,343,Filtered,Online,Offline,19.1,Children,12909
+PW1118,Smartwater,4.91,1.41,North America,Can,Distilled,6.8,466,Rainwater,Pharmacy,Offline,12.5,Teenagers,3242
+PW1119,Voss,2.39,0.68,Africa,Bottle,Mineral,8.74,70,Natural Spring,Supermarket,Offline,18.3,Elderly,42112
+PW1120,Nestle Pure Life,0.98,1.14,North America,Box,Distilled,7.11,251,Municipal,Pharmacy,Offline,20.7,Children,30050
+PW1121,Fiji,2.63,1.42,Australia,Box,Spring,8.13,442,Rainwater,Convenience Store,Online,16.3,Adults,13719
+PW1122,Aquafina,0.9,1.42,Asia,Box,Sparkling,8.39,312,Municipal,Wholesale,Online,17.5,Teenagers,38498
+PW1123,Dasani,2.12,0.46,Australia,Pouch,Mineral,8.23,62,Well,Online,Offline,15.4,Elderly,3669
+PW1124,Dasani,4.11,1.92,North America,Pouch,Alkaline,7.75,494,Filtered,Supermarket,Offline,17.9,Adults,13381
+PW1125,San Pellegrino,3.48,1.2,South America,Pouch,Spring,9,351,Municipal,Convenience Store,Offline,23.1,Adults,11551
+PW1126,Perrier,2.06,1.03,South America,Can,Alkaline,6.17,391,Municipal,Supermarket,Online,17.4,Adults,17259
+PW1127,Smartwater,2.17,0.3,South America,Can,Purified,6.56,260,Municipal,Pharmacy,Offline,5.4,Children,28446
+PW1128,Voss,1.81,0.53,Europe,Pouch,Spring,6.33,105,Municipal,Online,Offline,7.2,Adults,1249
+PW1129,Nestle Pure Life,4.89,1.03,Europe,Can,Mineral,8.15,134,Filtered,Supermarket,Offline,22,Adults,48503
+PW1130,Aquafina,2.29,1.5,South America,Bottle,Spring,6.11,322,Rainwater,Online,Online,11.5,Teenagers,26181
+PW1131,Nestle Pure Life,3.76,0.24,North America,Can,Alkaline,8.2,327,Municipal,Supermarket,Online,16.3,Elderly,22395
+PW1132,Smartwater,1.08,1.99,Europe,Box,Spring,8.71,151,Municipal,Wholesale,Offline,23.2,Elderly,28618
+PW1133,Dasani,2.3,1.62,Europe,Bottle,Sparkling,6.1,396,Filtered,Wholesale,Online,6.9,Children,3627
+PW1134,Voss,1.56,1.9,South America,Pouch,Alkaline,6.95,165,Filtered,Pharmacy,Offline,4.8,Elderly,37624
+PW1135,Smartwater,3.79,0.26,South America,Pouch,Alkaline,8.94,207,Municipal,Wholesale,Online,7,Teenagers,6195
+PW1136,Evian,4.84,0.37,Europe,Bottle,Mineral,6.88,323,Rainwater,Wholesale,Online,11.4,Adults,47756
+PW1137,Nestle Pure Life,1.63,1.89,North America,Can,Distilled,6.81,227,Natural Spring,Pharmacy,Offline,9.9,Adults,21105
+PW1138,San Pellegrino,4.79,1.65,Asia,Box,Spring,8.08,433,Natural Spring,Pharmacy,Offline,19.8,Children,44023
+PW1139,Nestle Pure Life,3.17,0.3,South America,Box,Mineral,8.91,483,Municipal,Convenience Store,Offline,22.4,Adults,1813
+PW1140,Fiji,1.15,0.64,North America,Box,Sparkling,6.91,423,Rainwater,Pharmacy,Online,20.4,Children,30456
+PW1141,Nestle Pure Life,4.06,0.68,North America,Bottle,Spring,8.1,263,Natural Spring,Online,Online,16.3,Children,46746
+PW1142,Evian,2.41,0.3,Asia,Bottle,Sparkling,6.95,191,Natural Spring,Supermarket,Online,7.7,Teenagers,6455
+PW1143,Fiji,1.44,1.12,North America,Bottle,Purified,8.12,380,Municipal,Wholesale,Offline,7.7,Adults,40874
+PW1144,Aquafina,3.81,0.3,Asia,Bottle,Purified,7.87,429,Well,Online,Online,16.5,Adults,8230
+PW1145,Nestle Pure Life,1.71,0.24,Australia,Bottle,Spring,7.04,57,Natural Spring,Wholesale,Online,10.8,Teenagers,32373
+PW1146,Smartwater,1.11,1.98,Asia,Pouch,Mineral,7.1,391,Rainwater,Supermarket,Online,9,Adults,48667
+PW1147,Dasani,4.03,1.63,Australia,Box,Mineral,6.62,236,Well,Wholesale,Online,7.6,Elderly,23195
+PW1148,Fiji,2.6,1.28,Africa,Pouch,Alkaline,8.15,161,Natural Spring,Supermarket,Online,4.3,Teenagers,48301
+PW1149,Voss,4.49,1.13,Asia,Can,Sparkling,8.04,199,Natural Spring,Wholesale,Offline,16.2,Elderly,19673
+PW1150,Dasani,4.65,1.2,Europe,Bottle,Alkaline,6.93,338,Rainwater,Online,Offline,9.4,Adults,43815
+PW1151,Evian,3.82,1.34,Asia,Can,Distilled,7.53,110,Municipal,Online,Online,16,Teenagers,8025
+PW1152,Dasani,3.31,1.24,Asia,Can,Sparkling,7.49,463,Rainwater,Pharmacy,Offline,11,Children,30598
+PW1153,Nestle Pure Life,2.16,0.94,North America,Pouch,Distilled,8.44,314,Well,Supermarket,Online,18.3,Elderly,20246
+PW1154,Evian,2.42,1.49,Africa,Box,Purified,8.99,150,Rainwater,Convenience Store,Online,5,Children,38931
+PW1155,Fiji,3.98,0.53,North America,Bottle,Spring,7.34,330,Municipal,Supermarket,Offline,13,Adults,47302
+PW1156,Nestle Pure Life,4.07,1.7,Africa,Box,Purified,8.91,199,Rainwater,Convenience Store,Offline,10.3,Teenagers,16695
+PW1157,Aquafina,2.82,0.63,South America,Box,Mineral,7.67,254,Well,Online,Offline,19.2,Teenagers,27964
+PW1158,Aquafina,0.99,0.91,Africa,Pouch,Sparkling,6.77,348,Well,Wholesale,Online,14.3,Children,7935
+PW1159,Perrier,3.31,1.78,Australia,Box,Spring,6.22,203,Well,Online,Online,7,Teenagers,37199
+PW1160,Perrier,4.15,1.22,South America,Box,Distilled,8.59,187,Filtered,Wholesale,Online,20.1,Children,29767
+PW1161,Aquafina,3.35,1.09,North America,Pouch,Distilled,8.07,60,Well,Pharmacy,Offline,7.1,Teenagers,28634
+PW1162,Nestle Pure Life,1.95,1.7,Europe,Pouch,Spring,7.36,366,Rainwater,Supermarket,Online,13.2,Adults,28200
+PW1163,Perrier,4.67,1.91,Africa,Bottle,Alkaline,7.24,232,Natural Spring,Pharmacy,Online,9.7,Adults,26086
+PW1164,San Pellegrino,2.82,1.63,North America,Can,Alkaline,6.44,189,Well,Convenience Store,Offline,11.3,Elderly,11882
+PW1165,San Pellegrino,0.52,0.94,South America,Box,Spring,6.83,149,Filtered,Supermarket,Online,8.2,Children,44113
+PW1166,Evian,3.06,1.79,Europe,Box,Mineral,8.44,244,Municipal,Supermarket,Offline,23.8,Elderly,18365
+PW1167,Nestle Pure Life,1.18,0.49,Africa,Box,Sparkling,8.45,232,Filtered,Supermarket,Offline,19.2,Children,32859
+PW1168,Evian,3.1,0.28,North America,Box,Distilled,6.35,307,Natural Spring,Online,Online,19.2,Children,42350
+PW1169,Dasani,3.89,0.97,North America,Box,Alkaline,6.72,145,Well,Supermarket,Offline,17.6,Adults,43160
+PW1170,Evian,2.8,0.25,Australia,Box,Distilled,6.59,94,Filtered,Supermarket,Offline,20.7,Elderly,38867
+PW1171,Dasani,4.53,0.97,South America,Box,Mineral,7.14,103,Natural Spring,Convenience Store,Online,24.6,Adults,14122
+PW1172,Voss,3.65,1.41,North America,Can,Alkaline,8.59,172,Filtered,Convenience Store,Online,19.2,Adults,10704
+PW1173,Smartwater,4.12,1.1,Europe,Bottle,Spring,7.84,77,Filtered,Convenience Store,Offline,7.1,Children,27091
+PW1174,Nestle Pure Life,4.3,0.73,South America,Can,Purified,6.73,438,Natural Spring,Supermarket,Offline,22.2,Elderly,34999
+PW1175,Voss,1.8,1.84,Australia,Box,Distilled,8.13,374,Natural Spring,Supermarket,Online,7.2,Adults,44273
+PW1176,Evian,4.86,0.63,Africa,Bottle,Alkaline,6.42,281,Filtered,Online,Offline,12.4,Elderly,49521
+PW1177,Dasani,4.22,1.57,South America,Pouch,Purified,7.05,55,Rainwater,Online,Offline,24.5,Children,17895
+PW1178,Nestle Pure Life,0.89,1.61,South America,Can,Sparkling,7.04,130,Well,Supermarket,Offline,19.9,Children,30401
+PW1179,Fiji,3.76,1.69,North America,Box,Mineral,7.28,74,Filtered,Pharmacy,Offline,20.6,Adults,17327
+PW1180,Evian,1.54,1.66,Europe,Bottle,Alkaline,7.73,385,Rainwater,Online,Offline,22.8,Teenagers,49461
+PW1181,Dasani,4.74,0.26,Europe,Box,Spring,6.26,145,Municipal,Pharmacy,Online,16.5,Adults,27975
+PW1182,Aquafina,3.84,1.82,Asia,Can,Distilled,8.64,360,Rainwater,Supermarket,Online,23.7,Adults,34765
+PW1183,Fiji,0.92,1.74,Australia,Bottle,Purified,8.56,94,Well,Convenience Store,Offline,13.4,Adults,22566
+PW1184,Fiji,2.02,1.43,Australia,Pouch,Sparkling,8.77,460,Well,Supermarket,Online,16.9,Teenagers,45815
+PW1185,Voss,1.08,1.65,Asia,Box,Spring,7.88,180,Natural Spring,Pharmacy,Online,12.6,Children,40664
+PW1186,Aquafina,4.66,1.13,North America,Can,Sparkling,6.63,114,Rainwater,Supermarket,Offline,15.4,Children,25427
+PW1187,Evian,2.29,1.96,Africa,Pouch,Spring,7.67,436,Rainwater,Supermarket,Offline,17.2,Elderly,27487
+PW1188,Voss,0.65,0.67,Australia,Bottle,Alkaline,7.49,103,Rainwater,Supermarket,Online,10.8,Adults,35852
+PW1189,Aquafina,1.97,1.57,Africa,Box,Sparkling,8.25,458,Well,Online,Offline,5.2,Elderly,16405
+PW1190,Dasani,3.49,1.47,Europe,Box,Distilled,7.13,303,Natural Spring,Pharmacy,Online,9.7,Children,24197
+PW1191,Fiji,4.66,0.71,Australia,Can,Sparkling,8.6,377,Well,Pharmacy,Online,15.7,Teenagers,16517
+PW1192,Nestle Pure Life,4.64,0.94,Africa,Box,Distilled,7.95,395,Municipal,Wholesale,Offline,13.4,Teenagers,19321
+PW1193,Aquafina,0.61,0.52,Asia,Can,Purified,7.37,389,Rainwater,Online,Offline,7.2,Adults,14979
+PW1194,Aquafina,3.19,0.42,Asia,Can,Sparkling,6.08,162,Municipal,Wholesale,Online,18.8,Teenagers,37194
+PW1195,Aquafina,4.11,0.39,Europe,Can,Distilled,8.35,293,Natural Spring,Online,Offline,19.2,Children,37258
+PW1196,Aquafina,4.57,0.55,South America,Can,Spring,7.36,131,Municipal,Online,Online,24.9,Children,33576
+PW1197,Aquafina,1.96,0.29,Africa,Can,Mineral,8.56,132,Well,Online,Online,23.5,Adults,31313
+PW1198,Smartwater,1.59,1.43,South America,Box,Purified,8.47,214,Well,Online,Online,9.7,Children,21274
+PW1199,Evian,1.71,1.36,Africa,Box,Spring,7.39,251,Municipal,Convenience Store,Online,15,Adults,30969
+PW1200,Aquafina,4.6,1.6,Africa,Box,Sparkling,7.21,216,Well,Wholesale,Online,10,Adults,2013
+PW1201,Evian,2.9,0.71,Europe,Bottle,Purified,8.81,160,Natural Spring,Convenience Store,Offline,11.7,Children,3159
+PW1202,Aquafina,3.24,0.55,Asia,Pouch,Purified,7.06,252,Natural Spring,Convenience Store,Offline,9.6,Adults,14566
+PW1203,San Pellegrino,1.06,1.94,Asia,Bottle,Purified,7.07,141,Filtered,Pharmacy,Online,10.5,Adults,30616
+PW1204,Aquafina,0.6,1.29,North America,Pouch,Distilled,8.74,240,Well,Supermarket,Offline,8.9,Teenagers,17032
+PW1205,Evian,0.51,1.66,Africa,Pouch,Sparkling,8.53,306,Well,Wholesale,Online,10.2,Teenagers,36918
+PW1206,Perrier,1.73,1.76,Asia,Can,Distilled,6.79,289,Rainwater,Pharmacy,Offline,6.9,Adults,21349
+PW1207,Dasani,3.62,1.53,Africa,Box,Purified,6.52,408,Rainwater,Online,Online,10.4,Children,12059
+PW1208,Voss,1.46,1.64,South America,Box,Mineral,8.83,326,Well,Pharmacy,Online,12.3,Children,19634
+PW1209,Fiji,3.24,0.28,North America,Can,Distilled,8.23,494,Natural Spring,Supermarket,Online,8.1,Adults,12738
+PW1210,Voss,4.81,1.98,North America,Pouch,Alkaline,6.41,414,Natural Spring,Online,Online,15.8,Adults,18503
+PW1211,Evian,3.28,1.23,North America,Bottle,Spring,7.88,97,Rainwater,Pharmacy,Online,22.8,Adults,39596
+PW1212,Voss,3.54,1.13,Australia,Pouch,Alkaline,7.89,494,Municipal,Supermarket,Online,4.5,Children,21017
+PW1213,San Pellegrino,3.92,0.63,Europe,Bottle,Purified,8.88,392,Rainwater,Online,Online,16.6,Adults,34808
+PW1214,Smartwater,2.96,1.9,Australia,Bottle,Mineral,8.03,383,Well,Online,Online,10.7,Adults,42751
+PW1215,San Pellegrino,2.29,1.14,Europe,Bottle,Distilled,7.79,411,Rainwater,Supermarket,Online,23.2,Children,25083
+PW1216,Nestle Pure Life,2.28,1.06,Africa,Can,Distilled,6.91,354,Well,Pharmacy,Offline,10.5,Children,4608
+PW1217,Nestle Pure Life,3.34,0.46,Africa,Can,Distilled,7.02,240,Natural Spring,Pharmacy,Offline,24.6,Teenagers,48511
+PW1218,Nestle Pure Life,3.23,0.79,Africa,Can,Mineral,8.47,315,Filtered,Online,Offline,5.1,Adults,21865
+PW1219,Evian,4.87,1.2,Australia,Bottle,Purified,6.96,469,Filtered,Convenience Store,Offline,24.9,Adults,32603
+PW1220,San Pellegrino,0.91,1.74,Europe,Can,Mineral,6.26,411,Rainwater,Supermarket,Online,15.2,Adults,29889
+PW1221,Aquafina,4.7,1.92,Australia,Box,Purified,8.24,432,Municipal,Supermarket,Online,15.5,Children,26806
+PW1222,Perrier,0.55,0.7,Asia,Can,Sparkling,7.71,255,Rainwater,Online,Offline,18.5,Children,25544
+PW1223,Evian,3.39,0.89,Africa,Bottle,Mineral,8.69,438,Well,Supermarket,Online,23.1,Teenagers,8341
+PW1224,Perrier,1.83,0.33,North America,Bottle,Sparkling,8.63,345,Filtered,Pharmacy,Offline,24.3,Teenagers,6883
+PW1225,Evian,2.83,1.33,Africa,Can,Mineral,7.69,367,Municipal,Wholesale,Offline,5.5,Adults,41442
+PW1226,Perrier,1.55,1.34,Australia,Can,Purified,6.25,195,Rainwater,Convenience Store,Online,4.8,Children,7826
+PW1227,Nestle Pure Life,3.28,1.76,Europe,Box,Spring,6.26,342,Rainwater,Online,Offline,20.1,Adults,1774
+PW1228,San Pellegrino,2.39,1.28,Africa,Can,Spring,7.91,143,Municipal,Wholesale,Online,4.4,Children,38216
+PW1229,Perrier,1.37,0.61,South America,Bottle,Spring,8.52,217,Natural Spring,Online,Online,18,Adults,48025
+PW1230,Aquafina,0.97,0.91,Africa,Pouch,Spring,6.9,195,Well,Online,Offline,18.6,Adults,46991
+PW1231,San Pellegrino,4.7,1.25,Asia,Pouch,Mineral,8.88,454,Well,Convenience Store,Online,13.7,Teenagers,40191
+PW1232,Fiji,3.44,0.21,Europe,Can,Alkaline,7.47,371,Well,Wholesale,Offline,18.8,Adults,4150
+PW1233,Fiji,0.94,0.84,North America,Pouch,Distilled,8.75,108,Natural Spring,Pharmacy,Online,18.4,Children,38954
+PW1234,Evian,1.78,0.92,North America,Bottle,Mineral,8.69,402,Rainwater,Online,Offline,18.4,Children,37373
+PW1235,Voss,4.48,1.55,Asia,Pouch,Mineral,7.63,450,Municipal,Supermarket,Offline,4.2,Teenagers,9178
+PW1236,Voss,4.5,1.48,Australia,Can,Spring,7.58,390,Natural Spring,Convenience Store,Online,11.1,Children,9406
+PW1237,Fiji,4.92,0.23,Australia,Bottle,Purified,8.7,292,Natural Spring,Supermarket,Online,21.4,Teenagers,47906
+PW1238,Perrier,4.59,1.47,Africa,Pouch,Distilled,7.67,139,Rainwater,Pharmacy,Online,24.6,Elderly,22722
+PW1239,San Pellegrino,3.18,0.61,Africa,Bottle,Spring,6.78,247,Rainwater,Convenience Store,Online,13.1,Teenagers,35237
+PW1240,Dasani,4.86,1.52,South America,Bottle,Sparkling,6.87,136,Municipal,Pharmacy,Online,4,Elderly,23746
+PW1241,Fiji,1.05,1.98,South America,Pouch,Sparkling,8.03,394,Natural Spring,Online,Offline,6.6,Adults,44496
+PW1242,Aquafina,4.91,1.19,Europe,Bottle,Spring,7.3,249,Natural Spring,Wholesale,Online,11.7,Adults,4717
+PW1243,Smartwater,1.22,0.93,Australia,Box,Mineral,6.03,299,Municipal,Online,Online,5.6,Adults,28219
+PW1244,Evian,1.52,0.44,Africa,Pouch,Spring,7.09,244,Filtered,Online,Online,21.4,Adults,35505
+PW1245,Dasani,4.02,1.82,Asia,Box,Purified,8.44,118,Rainwater,Wholesale,Offline,5.2,Adults,39590
+PW1246,San Pellegrino,1.43,0.3,Australia,Bottle,Alkaline,7.1,66,Filtered,Wholesale,Offline,23.3,Adults,5214
+PW1247,Evian,1.66,0.44,Europe,Box,Distilled,6.91,77,Well,Online,Online,24.9,Adults,28139
+PW1248,Voss,1.39,1.1,Australia,Pouch,Mineral,7.2,496,Natural Spring,Wholesale,Online,13.4,Teenagers,34596
+PW1249,Perrier,1.07,0.4,Europe,Can,Spring,6.98,223,Rainwater,Convenience Store,Online,6.2,Adults,16824
+PW1250,Fiji,2.13,1,South America,Can,Distilled,7.53,229,Rainwater,Online,Online,16,Elderly,7605
+PW1251,Dasani,1.87,0.74,Australia,Box,Distilled,6.57,215,Rainwater,Pharmacy,Offline,4.2,Elderly,38753
+PW1252,Voss,1.4,1.1,Australia,Box,Spring,6.17,222,Natural Spring,Online,Offline,15,Elderly,8258
+PW1253,Nestle Pure Life,3.09,0.3,Africa,Bottle,Sparkling,8.86,212,Natural Spring,Wholesale,Offline,20.8,Children,6533
+PW1254,Fiji,4.9,1.19,North America,Pouch,Distilled,8.55,436,Natural Spring,Online,Online,4.6,Teenagers,32648
+PW1255,Fiji,3.41,1.62,Africa,Can,Distilled,6.92,192,Rainwater,Convenience Store,Online,11.9,Children,3793
+PW1256,Evian,0.74,0.76,South America,Can,Alkaline,6.13,112,Municipal,Pharmacy,Offline,13,Adults,41413
+PW1257,San Pellegrino,4.32,0.49,Europe,Box,Spring,6.38,447,Natural Spring,Supermarket,Offline,6.3,Adults,21716
+PW1258,Aquafina,4.22,1.92,South America,Bottle,Distilled,8.44,132,Filtered,Pharmacy,Offline,20.9,Adults,15780
+PW1259,Fiji,3.34,1.79,Europe,Can,Sparkling,8.58,342,Filtered,Pharmacy,Online,13.5,Adults,47387
+PW1260,Voss,3.07,0.57,Europe,Box,Purified,7.69,422,Filtered,Pharmacy,Online,12,Elderly,24997
+PW1261,Smartwater,2.16,0.2,Asia,Bottle,Mineral,8,336,Well,Online,Online,4.5,Teenagers,4657
+PW1262,Dasani,3.36,1.61,Europe,Box,Mineral,6.62,214,Municipal,Pharmacy,Online,10.4,Elderly,13735
+PW1263,Evian,1.68,0.47,Europe,Bottle,Purified,6.12,393,Rainwater,Supermarket,Online,4.2,Adults,20734
+PW1264,Fiji,3.1,1.45,Africa,Can,Distilled,6.77,283,Municipal,Supermarket,Online,20.4,Elderly,19574
+PW1265,Voss,1.4,1.99,South America,Can,Spring,7.12,390,Filtered,Pharmacy,Offline,20.3,Teenagers,5107
+PW1266,Smartwater,1.34,0.9,North America,Box,Distilled,8.48,389,Natural Spring,Supermarket,Offline,20.8,Adults,24684
+PW1267,Perrier,4.23,0.8,South America,Box,Sparkling,6.42,283,Municipal,Pharmacy,Offline,8.2,Children,41192
+PW1268,Perrier,1.14,0.78,South America,Bottle,Purified,8.31,291,Well,Pharmacy,Offline,21.8,Teenagers,35746
+PW1269,Perrier,2.93,1.45,Asia,Can,Sparkling,6.92,98,Municipal,Pharmacy,Offline,11.9,Teenagers,29128
+PW1270,Evian,3.16,1.31,Europe,Box,Purified,8.85,378,Well,Pharmacy,Online,12,Teenagers,16541
+PW1271,Perrier,0.78,1.28,Asia,Pouch,Alkaline,7.43,350,Municipal,Online,Online,22,Children,9073
+PW1272,Fiji,1.66,1.6,Asia,Pouch,Distilled,7.4,432,Filtered,Wholesale,Offline,16.7,Teenagers,916
+PW1273,Perrier,1.86,0.57,South America,Bottle,Mineral,6.59,473,Rainwater,Convenience Store,Offline,24.9,Teenagers,16130
+PW1274,Fiji,3.98,1.07,South America,Bottle,Sparkling,8.49,81,Municipal,Wholesale,Offline,16.3,Adults,7404
+PW1275,Fiji,2.67,0.22,North America,Box,Sparkling,6.43,462,Well,Online,Offline,10.4,Children,34032
+PW1276,Dasani,0.73,0.37,Europe,Can,Sparkling,8.8,261,Rainwater,Pharmacy,Online,5.6,Elderly,11463
+PW1277,Dasani,4.83,0.8,South America,Pouch,Purified,8.95,385,Rainwater,Online,Offline,13.6,Teenagers,40265
+PW1278,Evian,1.03,1.78,Africa,Bottle,Mineral,7.59,215,Filtered,Supermarket,Offline,8.1,Elderly,13374
+PW1279,Smartwater,4.97,1.11,Asia,Box,Purified,8.29,112,Well,Online,Offline,12.2,Elderly,1802
+PW1280,Voss,0.51,1.52,Australia,Box,Distilled,7.57,479,Filtered,Convenience Store,Online,17.7,Adults,47608
+PW1281,Fiji,2.73,1.97,Europe,Can,Mineral,6.5,381,Natural Spring,Online,Offline,10,Teenagers,11531
+PW1282,Evian,3.83,1.55,Europe,Can,Sparkling,7.32,445,Well,Convenience Store,Offline,15.2,Teenagers,14107
+PW1283,Perrier,2.33,1.57,Europe,Can,Mineral,6.5,476,Well,Supermarket,Online,17.4,Elderly,37271
+PW1284,Smartwater,2.61,1.88,Africa,Bottle,Sparkling,7.57,204,Well,Online,Offline,20.9,Teenagers,19165
+PW1285,Evian,2.91,0.72,North America,Pouch,Purified,6.87,188,Well,Convenience Store,Online,22.3,Adults,19609
+PW1286,Evian,0.58,1.2,South America,Bottle,Alkaline,6.88,336,Natural Spring,Convenience Store,Online,21.9,Adults,13314
+PW1287,Smartwater,4.27,1.31,Africa,Can,Alkaline,6.92,447,Natural Spring,Online,Online,15.4,Children,30755
+PW1288,Smartwater,2.84,0.57,North America,Box,Sparkling,7.79,459,Municipal,Pharmacy,Offline,24.9,Adults,36649
+PW1289,Fiji,3.92,1.72,Australia,Bottle,Mineral,7.65,312,Filtered,Convenience Store,Offline,24.9,Teenagers,30695
+PW1290,Dasani,4.05,0.92,Australia,Pouch,Purified,6.83,266,Municipal,Online,Online,23,Teenagers,24494
+PW1291,San Pellegrino,2.24,0.45,South America,Bottle,Spring,8.53,270,Rainwater,Online,Online,24.6,Elderly,49867
+PW1292,Smartwater,1.15,1.07,Australia,Bottle,Alkaline,8.09,353,Natural Spring,Pharmacy,Online,10.6,Adults,45504
+PW1293,Perrier,2.51,0.92,Asia,Bottle,Sparkling,7.44,450,Natural Spring,Convenience Store,Offline,17.8,Teenagers,13840
+PW1294,Evian,1.57,1.42,Asia,Bottle,Sparkling,8.07,61,Well,Supermarket,Offline,15.1,Elderly,44934
+PW1295,San Pellegrino,4.47,1.34,South America,Can,Purified,7.55,495,Rainwater,Wholesale,Online,20.2,Adults,30670
+PW1296,Voss,1.56,0.61,North America,Pouch,Distilled,8.49,476,Well,Wholesale,Online,21.4,Adults,3217
+PW1297,Voss,4.8,0.4,Asia,Box,Sparkling,7,438,Rainwater,Pharmacy,Offline,21.9,Elderly,44594
+PW1298,San Pellegrino,3.65,0.63,Europe,Box,Alkaline,6.72,454,Municipal,Pharmacy,Offline,10.5,Elderly,18931
+PW1299,Aquafina,2.71,1.37,Africa,Pouch,Distilled,6.41,301,Rainwater,Supermarket,Online,9.5,Adults,12843
+PW1300,Evian,4.79,1.92,Australia,Can,Mineral,6.22,440,Filtered,Wholesale,Online,21.9,Teenagers,10603
+PW1301,Voss,4.09,1.87,Europe,Pouch,Spring,8.67,438,Rainwater,Online,Offline,13.3,Teenagers,15161
+PW1302,Voss,2.81,1.32,North America,Can,Distilled,8.93,98,Municipal,Wholesale,Offline,24.5,Adults,30145
+PW1303,San Pellegrino,0.66,0.29,South America,Pouch,Alkaline,6.39,72,Municipal,Supermarket,Offline,17.5,Adults,33399
+PW1304,Nestle Pure Life,4.09,1.42,Africa,Can,Spring,7.78,152,Rainwater,Online,Online,21.8,Teenagers,3973
+PW1305,Voss,4.34,1.55,North America,Bottle,Mineral,8.52,52,Rainwater,Pharmacy,Online,8.4,Elderly,12747
+PW1306,San Pellegrino,2.8,0.78,Europe,Bottle,Purified,6.42,484,Natural Spring,Pharmacy,Online,18.2,Adults,27323
+PW1307,Evian,0.72,0.55,Asia,Box,Sparkling,6.82,235,Natural Spring,Convenience Store,Online,22,Children,44187
+PW1308,Fiji,0.68,1.18,North America,Can,Alkaline,6.94,353,Well,Online,Offline,21.8,Adults,8075
+PW1309,Aquafina,0.85,1.15,Europe,Box,Distilled,6.04,208,Natural Spring,Supermarket,Online,10.6,Teenagers,12785
+PW1310,Evian,4.2,1.93,Asia,Box,Spring,6.41,142,Well,Wholesale,Online,23.5,Elderly,15746
+PW1311,San Pellegrino,3.26,1.32,Europe,Box,Mineral,6.45,241,Municipal,Supermarket,Offline,15.2,Elderly,6703
+PW1312,Perrier,4.19,1.72,North America,Box,Mineral,7.73,373,Filtered,Supermarket,Online,12.5,Adults,11791
+PW1313,Perrier,2.58,0.28,South America,Can,Spring,7.64,264,Well,Online,Offline,4,Adults,14486
+PW1314,Smartwater,0.87,1.21,South America,Box,Spring,6.59,322,Municipal,Supermarket,Online,17.4,Elderly,46600
+PW1315,Nestle Pure Life,3.99,0.6,South America,Box,Purified,8.42,250,Well,Online,Offline,6.4,Adults,16377
+PW1316,Aquafina,1,0.42,South America,Can,Distilled,6.45,194,Well,Online,Offline,18,Elderly,46615
+PW1317,Fiji,3.8,0.71,South America,Pouch,Spring,8.13,289,Filtered,Convenience Store,Online,13.6,Teenagers,16459
+PW1318,Evian,3.76,1.13,Africa,Bottle,Sparkling,7.15,310,Natural Spring,Wholesale,Online,22,Teenagers,28263
+PW1319,Fiji,3.87,1.07,South America,Pouch,Spring,7.32,50,Municipal,Wholesale,Offline,24.9,Adults,30694
+PW1320,Aquafina,3.85,0.35,Australia,Pouch,Mineral,8.1,346,Rainwater,Online,Offline,20.6,Teenagers,32378
+PW1321,Smartwater,4.17,0.28,Australia,Bottle,Distilled,8.43,296,Natural Spring,Online,Online,12.3,Elderly,29664
+PW1322,Perrier,0.71,1.96,South America,Can,Spring,7.75,248,Municipal,Wholesale,Offline,20.5,Elderly,8441
+PW1323,San Pellegrino,1.49,1.82,Europe,Can,Sparkling,8.1,321,Well,Pharmacy,Online,23.6,Elderly,39032
+PW1324,Voss,2.57,1.29,Africa,Can,Spring,7.75,151,Rainwater,Pharmacy,Offline,18,Elderly,19306
+PW1325,Aquafina,3.64,1.01,North America,Box,Purified,7.25,156,Natural Spring,Convenience Store,Offline,10.3,Teenagers,44440
+PW1326,Dasani,1.49,0.9,Europe,Pouch,Alkaline,6.14,336,Rainwater,Online,Online,14.5,Teenagers,17154
+PW1327,Evian,1.21,0.47,South America,Box,Mineral,6.58,328,Rainwater,Convenience Store,Online,7.9,Children,12999
+PW1328,Fiji,1.54,0.28,Asia,Bottle,Spring,8.26,423,Natural Spring,Wholesale,Offline,23.7,Elderly,2875
+PW1329,Smartwater,2.76,0.6,North America,Bottle,Purified,8.94,372,Natural Spring,Convenience Store,Offline,16.1,Teenagers,28083
+PW1330,Perrier,2.21,1.98,North America,Pouch,Alkaline,6.51,211,Well,Pharmacy,Offline,6.3,Adults,28144
+PW1331,Evian,4.58,0.46,North America,Box,Alkaline,7.04,324,Filtered,Pharmacy,Online,11.3,Elderly,23812
+PW1332,Fiji,1.96,0.98,North America,Box,Distilled,7.37,225,Municipal,Wholesale,Online,4.7,Elderly,1725
+PW1333,Fiji,1.44,1.72,South America,Pouch,Distilled,6.62,270,Municipal,Convenience Store,Online,18.6,Elderly,9889
+PW1334,Nestle Pure Life,0.55,1.03,Asia,Box,Spring,8.28,319,Filtered,Online,Offline,22.1,Children,18956
+PW1335,Fiji,2.91,1.54,Asia,Pouch,Sparkling,8.41,325,Municipal,Supermarket,Online,18,Children,8893
+PW1336,Dasani,0.5,1.71,Australia,Pouch,Alkaline,6.27,301,Municipal,Wholesale,Online,11.6,Elderly,27249
+PW1337,Evian,2.31,0.79,Asia,Box,Sparkling,8.59,142,Rainwater,Convenience Store,Offline,5.4,Elderly,34618
+PW1338,Evian,2.12,0.23,South America,Box,Spring,8.56,138,Natural Spring,Convenience Store,Online,22.8,Children,20480
+PW1339,Aquafina,4.25,1.37,Asia,Pouch,Sparkling,8.53,62,Municipal,Online,Online,13.4,Elderly,33620
+PW1340,Dasani,4.18,0.8,Europe,Pouch,Spring,7.41,310,Well,Online,Offline,23.4,Children,48694
+PW1341,Dasani,1.89,1.34,North America,Can,Purified,7.62,374,Municipal,Wholesale,Offline,15.2,Elderly,5526
+PW1342,Dasani,2.34,1.71,Africa,Box,Spring,7.99,367,Rainwater,Convenience Store,Online,12.8,Adults,36992
+PW1343,Perrier,3.8,0.77,Africa,Bottle,Distilled,7.64,181,Natural Spring,Wholesale,Online,14,Adults,21400
+PW1344,Voss,3.09,1.96,South America,Pouch,Spring,7.63,155,Filtered,Pharmacy,Offline,8.6,Elderly,37140
+PW1345,Dasani,4.76,0.92,Europe,Pouch,Distilled,8,102,Rainwater,Online,Offline,9.2,Teenagers,42061
+PW1346,Nestle Pure Life,3.31,1.06,North America,Can,Distilled,8.77,495,Rainwater,Supermarket,Online,20.2,Adults,28685
+PW1347,Nestle Pure Life,2.35,1.85,Africa,Box,Distilled,7.24,89,Municipal,Online,Offline,17.9,Children,27119
+PW1348,Evian,2.2,0.92,Asia,Pouch,Mineral,8.83,137,Rainwater,Pharmacy,Online,7.6,Teenagers,29681
+PW1349,Fiji,3.35,1.32,Asia,Pouch,Mineral,7.1,171,Municipal,Online,Offline,23.6,Elderly,38063
+PW1350,Voss,0.67,0.87,Australia,Can,Purified,8.72,313,Municipal,Supermarket,Offline,9.7,Adults,32409
+PW1351,Perrier,3.03,1.63,Asia,Bottle,Purified,8.8,51,Rainwater,Wholesale,Online,9.7,Adults,36231
+PW1352,Fiji,1.64,0.22,Africa,Pouch,Purified,8.56,248,Filtered,Supermarket,Online,7.1,Teenagers,827
+PW1353,Evian,2.65,1.63,Africa,Can,Sparkling,8.17,156,Filtered,Online,Online,24.5,Teenagers,30130
+PW1354,Evian,2.02,0.94,Asia,Pouch,Purified,7.58,263,Filtered,Wholesale,Online,24.2,Teenagers,48782
+PW1355,Dasani,2.26,1.25,Europe,Box,Mineral,8.51,271,Rainwater,Supermarket,Offline,5.2,Elderly,14999
+PW1356,Nestle Pure Life,2.57,1.89,Europe,Pouch,Distilled,7.31,152,Municipal,Online,Offline,9.4,Elderly,6649
+PW1357,Fiji,2.1,0.4,Australia,Box,Alkaline,7.89,244,Well,Online,Offline,9,Children,42207
+PW1358,Evian,1.88,0.57,Australia,Can,Sparkling,7.89,188,Municipal,Wholesale,Offline,10.8,Adults,2546
+PW1359,San Pellegrino,2.16,1.92,Africa,Can,Distilled,7.95,188,Filtered,Wholesale,Online,15.1,Teenagers,20109
+PW1360,Perrier,2.9,0.5,Africa,Box,Spring,6.25,168,Rainwater,Online,Online,10.2,Teenagers,4851
+PW1361,Nestle Pure Life,0.53,0.7,Australia,Can,Distilled,8.21,268,Municipal,Online,Online,9.3,Children,27151
+PW1362,Voss,2.78,0.62,Europe,Can,Mineral,8.53,421,Natural Spring,Supermarket,Online,21.7,Teenagers,28183
+PW1363,San Pellegrino,3.38,1.29,North America,Pouch,Mineral,6.91,362,Municipal,Convenience Store,Offline,4,Elderly,27666
+PW1364,San Pellegrino,4.68,0.85,South America,Bottle,Distilled,8.04,378,Municipal,Online,Offline,10.3,Children,17238
+PW1365,Evian,1.57,0.87,Australia,Box,Mineral,8.28,401,Well,Pharmacy,Online,15.2,Children,48372
+PW1366,Smartwater,4.6,1.38,South America,Can,Purified,7.87,193,Rainwater,Pharmacy,Online,8.2,Children,30120
+PW1367,Voss,1.43,1.91,North America,Pouch,Spring,6.68,276,Well,Pharmacy,Offline,18.1,Adults,41917
+PW1368,Voss,0.68,1.47,Africa,Pouch,Spring,6.47,489,Filtered,Convenience Store,Online,21.5,Children,11703
+PW1369,Dasani,3.25,1.4,Africa,Can,Mineral,6.11,76,Municipal,Wholesale,Online,10.4,Teenagers,18944
+PW1370,Perrier,3.5,1.45,South America,Can,Sparkling,6.14,420,Municipal,Supermarket,Offline,5.1,Teenagers,6873
+PW1371,Nestle Pure Life,0.65,1.13,Asia,Pouch,Sparkling,7.35,427,Municipal,Convenience Store,Online,18.2,Elderly,3746
+PW1372,Dasani,4.86,1.62,North America,Bottle,Alkaline,8.06,345,Natural Spring,Convenience Store,Online,17.3,Children,39564
+PW1373,Fiji,3.33,0.23,North America,Bottle,Mineral,7.21,127,Municipal,Convenience Store,Online,19.2,Adults,10812
+PW1374,Voss,1.67,1.62,Asia,Bottle,Alkaline,6.77,215,Rainwater,Wholesale,Online,9.2,Teenagers,39640
+PW1375,Perrier,4.02,1.65,Europe,Box,Distilled,8.52,204,Municipal,Convenience Store,Offline,4.3,Teenagers,30752
+PW1376,Nestle Pure Life,1.94,0.86,Africa,Bottle,Mineral,7.35,312,Filtered,Supermarket,Online,19.5,Children,15184
+PW1377,Smartwater,4.98,0.31,Europe,Bottle,Purified,7.96,206,Municipal,Wholesale,Online,18.2,Adults,47299
+PW1378,Aquafina,4.31,0.59,Asia,Can,Sparkling,7.44,107,Rainwater,Pharmacy,Online,9.7,Children,45450
+PW1379,Voss,1.13,1.28,Europe,Pouch,Sparkling,8.07,409,Filtered,Supermarket,Online,11.1,Teenagers,13017
+PW1380,San Pellegrino,2.78,1.2,North America,Pouch,Spring,6.29,83,Natural Spring,Supermarket,Offline,13.9,Adults,48598
+PW1381,San Pellegrino,4.59,0.21,Europe,Box,Mineral,8.11,93,Well,Online,Offline,7.2,Teenagers,24012
+PW1382,Evian,3.03,0.21,Australia,Pouch,Mineral,7.04,208,Municipal,Convenience Store,Offline,15,Adults,46258
+PW1383,Nestle Pure Life,3.47,1.65,Australia,Can,Spring,8.45,384,Municipal,Pharmacy,Offline,23.7,Elderly,21046
+PW1384,Evian,0.71,1.12,Africa,Box,Spring,6.89,80,Municipal,Wholesale,Online,10.9,Elderly,27358
+PW1385,Aquafina,4.23,1.09,Australia,Box,Purified,7.72,472,Municipal,Supermarket,Online,6,Adults,39902
+PW1386,San Pellegrino,4.67,1.4,Africa,Pouch,Spring,7.92,243,Natural Spring,Convenience Store,Offline,18.8,Elderly,29492
+PW1387,Aquafina,3.01,1.69,South America,Bottle,Spring,6.49,221,Rainwater,Pharmacy,Offline,15,Adults,2851
+PW1388,Dasani,4.2,0.51,Australia,Can,Spring,8.76,205,Municipal,Online,Offline,12.9,Elderly,21706
+PW1389,Nestle Pure Life,0.77,1.32,South America,Pouch,Purified,8.15,309,Filtered,Wholesale,Offline,12.1,Children,35088
+PW1390,Fiji,1.53,1.75,Africa,Bottle,Sparkling,8.68,283,Well,Pharmacy,Online,20.8,Children,30336
+PW1391,Fiji,4.85,1.16,Asia,Can,Mineral,6.39,217,Well,Convenience Store,Offline,7.2,Children,36553
+PW1392,San Pellegrino,0.74,0.59,Asia,Bottle,Sparkling,6.89,288,Natural Spring,Convenience Store,Offline,9.8,Children,43651
+PW1393,Dasani,2.07,1.72,South America,Bottle,Purified,6.85,102,Filtered,Convenience Store,Offline,24.3,Teenagers,21580
+PW1394,Dasani,3.19,1.19,Europe,Pouch,Spring,7.03,348,Rainwater,Convenience Store,Offline,20.3,Adults,15804
+PW1395,Smartwater,3.06,1.61,Africa,Bottle,Sparkling,6.06,159,Well,Online,Online,18.9,Elderly,45592
+PW1396,Nestle Pure Life,2.42,0.76,Europe,Bottle,Sparkling,6.03,448,Rainwater,Wholesale,Offline,24.4,Adults,37324
+PW1397,Fiji,2.5,1.69,Australia,Can,Alkaline,8.3,473,Municipal,Wholesale,Offline,12.6,Elderly,7616
+PW1398,Aquafina,3.11,0.46,Australia,Pouch,Sparkling,6.15,443,Natural Spring,Pharmacy,Offline,18.7,Teenagers,29882
+PW1399,Evian,2.23,0.27,Europe,Pouch,Purified,6.76,386,Municipal,Pharmacy,Offline,8.6,Elderly,13656
+PW1400,Aquafina,3.5,0.89,Asia,Can,Spring,7.04,414,Rainwater,Pharmacy,Online,6.7,Adults,19813
+PW1401,Voss,3.06,0.43,South America,Can,Spring,6.33,297,Municipal,Supermarket,Offline,5.6,Adults,28191
+PW1402,Evian,4,1.17,Africa,Box,Distilled,8.75,158,Well,Supermarket,Online,22,Elderly,14169
+PW1403,Aquafina,3.86,1.18,Europe,Box,Distilled,8.57,457,Municipal,Convenience Store,Offline,22.8,Adults,38621
+PW1404,San Pellegrino,4.8,1.26,Europe,Box,Sparkling,6.19,117,Filtered,Supermarket,Offline,22.8,Children,30147
+PW1405,Voss,2.51,1.43,Australia,Bottle,Distilled,8.29,186,Well,Pharmacy,Online,8,Children,19179
+PW1406,Nestle Pure Life,1.26,0.86,Asia,Bottle,Distilled,6.74,448,Well,Online,Online,24.7,Children,47429
+PW1407,San Pellegrino,3.34,0.91,Africa,Box,Sparkling,8.25,206,Filtered,Wholesale,Offline,11.2,Children,18196
+PW1408,Nestle Pure Life,2.88,0.86,Africa,Pouch,Sparkling,7.05,499,Municipal,Convenience Store,Offline,12.4,Teenagers,22852
+PW1409,San Pellegrino,1.67,1.82,South America,Pouch,Spring,8.56,307,Well,Wholesale,Offline,4.5,Teenagers,27650
+PW1410,Fiji,1.72,1.98,Asia,Box,Distilled,8.27,124,Rainwater,Pharmacy,Offline,23,Teenagers,12154
+PW1411,Smartwater,4.57,0.59,Asia,Can,Purified,7.35,158,Municipal,Supermarket,Offline,14.4,Children,5136
+PW1412,Fiji,3.57,1.82,Asia,Pouch,Mineral,7.98,400,Natural Spring,Convenience Store,Online,5.9,Elderly,29027
+PW1413,Voss,3.66,1.66,Africa,Pouch,Sparkling,8.53,218,Well,Wholesale,Offline,21.7,Adults,14307
+PW1414,Perrier,3.37,1.93,North America,Bottle,Sparkling,6.75,279,Well,Supermarket,Online,12.4,Adults,46847
+PW1415,Nestle Pure Life,3.02,0.95,South America,Pouch,Purified,6.89,181,Natural Spring,Convenience Store,Online,7.6,Teenagers,6804
+PW1416,Voss,1.95,1.39,Africa,Can,Purified,7.4,449,Rainwater,Wholesale,Online,14.3,Adults,19729
+PW1417,Evian,4.93,1.44,North America,Can,Alkaline,6.66,448,Filtered,Online,Offline,21.3,Teenagers,24561
+PW1418,Fiji,2.16,1.7,South America,Pouch,Sparkling,6.7,324,Well,Supermarket,Online,13.6,Children,16905
+PW1419,Perrier,4.64,0.91,Australia,Bottle,Mineral,8.18,126,Natural Spring,Supermarket,Online,10.4,Elderly,3539
+PW1420,Aquafina,2.35,0.35,South America,Bottle,Sparkling,8.17,478,Well,Online,Online,13.7,Adults,47100
+PW1421,Perrier,0.81,1.88,Asia,Can,Purified,6.06,62,Filtered,Convenience Store,Offline,6.9,Teenagers,2925
+PW1422,Smartwater,3.84,0.57,South America,Bottle,Distilled,7.55,463,Municipal,Online,Online,23.4,Adults,11402
+PW1423,Evian,2.61,0.93,Australia,Pouch,Spring,8.49,453,Natural Spring,Supermarket,Online,17,Teenagers,45591
+PW1424,Perrier,4.52,0.26,South America,Can,Spring,7.23,224,Rainwater,Convenience Store,Online,19.8,Children,23606
+PW1425,San Pellegrino,4.27,1.7,Asia,Box,Spring,6.74,317,Municipal,Convenience Store,Offline,15.3,Elderly,31009
+PW1426,Dasani,3.56,0.27,North America,Can,Distilled,6.14,246,Well,Online,Online,17.2,Adults,1354
+PW1427,San Pellegrino,3.53,1.42,Australia,Can,Sparkling,6.11,108,Municipal,Convenience Store,Offline,23.3,Elderly,17578
+PW1428,San Pellegrino,3.59,0.68,North America,Can,Mineral,7.18,130,Municipal,Supermarket,Online,23.7,Elderly,3017
+PW1429,San Pellegrino,4.9,0.52,Africa,Can,Alkaline,8.19,364,Rainwater,Convenience Store,Offline,7,Elderly,49081
+PW1430,Aquafina,2.11,1.66,Australia,Can,Alkaline,6.62,260,Well,Wholesale,Online,9.9,Teenagers,11675
+PW1431,Dasani,4.13,1.2,Asia,Bottle,Spring,6.95,386,Well,Pharmacy,Online,11.6,Adults,26230
+PW1432,Smartwater,4.09,1.81,Asia,Box,Spring,7.6,398,Rainwater,Supermarket,Offline,24.8,Adults,28116
+PW1433,Evian,2.28,1.62,Africa,Bottle,Mineral,7.34,106,Well,Pharmacy,Offline,8.8,Adults,31344
+PW1434,Fiji,4.82,1.32,Asia,Bottle,Purified,7,492,Filtered,Wholesale,Online,12.2,Elderly,39588
+PW1435,Evian,3.68,1.08,Australia,Bottle,Spring,7.63,373,Rainwater,Convenience Store,Offline,6.6,Children,33761
+PW1436,Smartwater,0.65,0.38,Asia,Bottle,Distilled,7.07,373,Municipal,Convenience Store,Online,15.6,Children,28257
+PW1437,Fiji,2.47,0.65,Australia,Can,Purified,8.69,494,Well,Supermarket,Offline,14.3,Teenagers,15877
+PW1438,Nestle Pure Life,2.72,0.91,Asia,Can,Purified,6.5,66,Municipal,Wholesale,Offline,23.1,Adults,36479
+PW1439,Perrier,2.19,1.92,Africa,Box,Alkaline,7.76,322,Natural Spring,Supermarket,Online,11.5,Elderly,20628
+PW1440,Voss,3.04,1.7,Europe,Can,Purified,8.1,116,Municipal,Supermarket,Online,19.7,Teenagers,36042
+PW1441,Smartwater,3.79,1.44,Asia,Bottle,Alkaline,7.34,158,Well,Convenience Store,Online,17.8,Adults,22379
+PW1442,Dasani,3.52,0.96,Australia,Bottle,Purified,8.66,399,Well,Pharmacy,Online,8.5,Children,9065
+PW1443,Fiji,1.05,0.8,South America,Bottle,Spring,6.76,484,Municipal,Supermarket,Online,22.5,Children,42890
+PW1444,Dasani,2.4,0.46,North America,Pouch,Alkaline,6.52,467,Well,Convenience Store,Offline,23.3,Adults,12294
+PW1445,Perrier,3.4,1.18,Australia,Can,Distilled,8.55,382,Rainwater,Convenience Store,Offline,17.1,Adults,10666
+PW1446,Fiji,3.47,0.65,Africa,Box,Alkaline,6.59,183,Well,Supermarket,Online,14.3,Teenagers,24231
+PW1447,Voss,4.86,1.37,Australia,Bottle,Spring,6.2,319,Filtered,Pharmacy,Online,8.1,Children,44982
+PW1448,Smartwater,3.13,1.56,North America,Can,Purified,7.39,83,Natural Spring,Supermarket,Offline,13.1,Teenagers,40616
+PW1449,Voss,1.65,1.17,North America,Pouch,Distilled,7.51,126,Municipal,Supermarket,Offline,15,Teenagers,31650
+PW1450,Perrier,4.33,1.02,Asia,Box,Purified,8.79,444,Well,Online,Offline,10.2,Adults,44904
+PW1451,Nestle Pure Life,2.39,1.85,Africa,Pouch,Alkaline,7.22,291,Municipal,Supermarket,Offline,16.1,Teenagers,15844
+PW1452,Aquafina,1.12,0.89,North America,Bottle,Spring,6.64,408,Municipal,Wholesale,Online,22.8,Elderly,46276
+PW1453,Nestle Pure Life,1.68,1.06,Europe,Bottle,Mineral,7.51,276,Well,Convenience Store,Online,11.2,Adults,4060
+PW1454,Dasani,4.14,1.71,Australia,Bottle,Distilled,8.79,215,Well,Convenience Store,Offline,12.9,Adults,33125
+PW1455,San Pellegrino,1.68,0.24,Australia,Bottle,Sparkling,7.57,322,Well,Wholesale,Offline,10,Teenagers,18246
+PW1456,Voss,3.21,1.63,Australia,Bottle,Spring,8.08,369,Well,Supermarket,Online,24,Elderly,3902
+PW1457,Dasani,1.16,1.94,Africa,Box,Alkaline,6.65,441,Rainwater,Supermarket,Online,5.1,Children,15844
+PW1458,Fiji,3.67,1.79,Africa,Can,Sparkling,6.97,61,Well,Supermarket,Offline,24.7,Adults,11699
+PW1459,Evian,1.7,1.52,Asia,Pouch,Purified,8.56,52,Rainwater,Online,Online,15.7,Adults,10006
+PW1460,Dasani,0.58,0.98,Africa,Box,Sparkling,6.32,462,Municipal,Convenience Store,Online,17.9,Adults,15515
+PW1461,Nestle Pure Life,3.64,0.43,Asia,Box,Mineral,6.02,378,Natural Spring,Supermarket,Offline,20.5,Elderly,39641
+PW1462,Smartwater,1.6,0.42,Africa,Pouch,Alkaline,7.46,390,Municipal,Wholesale,Offline,22.7,Teenagers,45555
+PW1463,Aquafina,3.46,1.71,Australia,Pouch,Purified,7.6,471,Natural Spring,Supermarket,Offline,21.4,Adults,36000
+PW1464,San Pellegrino,0.78,1.95,Africa,Bottle,Alkaline,6.58,233,Rainwater,Wholesale,Offline,17.4,Children,1294
+PW1465,Perrier,1.16,0.23,South America,Pouch,Sparkling,6.6,221,Natural Spring,Wholesale,Offline,19.4,Children,43925
+PW1466,Smartwater,4.27,1.47,Asia,Box,Spring,6.14,485,Rainwater,Online,Online,4.7,Elderly,49221
+PW1467,San Pellegrino,2.16,0.68,North America,Box,Mineral,6.53,373,Rainwater,Wholesale,Offline,10,Adults,38274
+PW1468,Perrier,4.37,1.16,Asia,Pouch,Distilled,6.51,362,Natural Spring,Wholesale,Online,21.2,Elderly,7083
+PW1469,San Pellegrino,4.33,0.84,South America,Box,Spring,7.23,221,Municipal,Pharmacy,Online,16.9,Teenagers,46116
+PW1470,Aquafina,3.79,0.88,North America,Pouch,Purified,6.53,287,Rainwater,Pharmacy,Online,17.1,Teenagers,17347
+PW1471,Evian,0.57,1.9,Europe,Bottle,Sparkling,6.21,195,Filtered,Convenience Store,Offline,9.5,Adults,22715
+PW1472,Dasani,0.63,0.9,North America,Box,Purified,7.81,51,Municipal,Convenience Store,Offline,19.8,Adults,10907
+PW1473,Fiji,4.25,0.92,Australia,Box,Sparkling,8.65,421,Natural Spring,Convenience Store,Offline,6.9,Adults,26443
+PW1474,Perrier,3.41,1.66,Asia,Can,Mineral,6.1,332,Well,Supermarket,Offline,12.4,Children,26157
+PW1475,San Pellegrino,3.36,1.4,Australia,Bottle,Mineral,7.58,141,Municipal,Convenience Store,Offline,24.7,Elderly,20671
+PW1476,Voss,1.48,0.55,Africa,Pouch,Distilled,7.12,430,Rainwater,Online,Online,8.1,Elderly,34957
+PW1477,Nestle Pure Life,3.93,1.13,North America,Box,Sparkling,7.63,241,Natural Spring,Supermarket,Online,10.7,Adults,25002
+PW1478,Evian,2.39,1.23,Europe,Pouch,Spring,8.69,248,Rainwater,Wholesale,Offline,22.3,Adults,46239
+PW1479,Aquafina,1.41,0.32,South America,Can,Spring,7.28,322,Municipal,Convenience Store,Online,24.3,Children,21068
+PW1480,Perrier,2.69,0.78,South America,Pouch,Distilled,7.05,411,Natural Spring,Convenience Store,Offline,10.8,Teenagers,26935
+PW1481,San Pellegrino,4.27,1,North America,Can,Sparkling,7.06,377,Filtered,Pharmacy,Online,4.4,Adults,27966
+PW1482,Dasani,1.08,0.49,North America,Box,Alkaline,8.6,451,Natural Spring,Pharmacy,Offline,14.9,Adults,31343
+PW1483,Voss,1.61,0.32,Australia,Box,Spring,8.68,134,Filtered,Convenience Store,Offline,7.7,Teenagers,22305
+PW1484,Dasani,0.98,1.25,North America,Pouch,Mineral,7.07,407,Municipal,Convenience Store,Online,14.3,Adults,9457
+PW1485,San Pellegrino,0.55,1.47,North America,Can,Sparkling,8.29,203,Filtered,Convenience Store,Offline,14,Teenagers,34410
+PW1486,Aquafina,0.95,0.24,Asia,Can,Distilled,7.67,151,Filtered,Pharmacy,Online,11.2,Teenagers,30431
+PW1487,Perrier,3.53,1.15,South America,Can,Sparkling,7.63,370,Well,Online,Offline,23.7,Teenagers,7711
+PW1488,Perrier,4.89,0.59,North America,Pouch,Sparkling,7.2,282,Municipal,Convenience Store,Offline,17.4,Teenagers,24184
+PW1489,Evian,3.51,0.65,Europe,Can,Mineral,7.76,354,Natural Spring,Convenience Store,Online,6.1,Adults,32184
+PW1490,Aquafina,2.94,1.12,Australia,Can,Alkaline,8,123,Rainwater,Convenience Store,Offline,9.9,Teenagers,31497
+PW1491,Voss,4.76,0.77,North America,Bottle,Sparkling,6.84,169,Filtered,Wholesale,Online,9.1,Adults,1853
+PW1492,Evian,3.64,1.03,South America,Bottle,Alkaline,7.14,233,Natural Spring,Online,Online,8.3,Adults,29476
+PW1493,Aquafina,1.98,1.26,Asia,Can,Sparkling,8.59,167,Well,Pharmacy,Online,23.8,Teenagers,568
+PW1494,Nestle Pure Life,3.51,0.32,North America,Pouch,Mineral,6.98,365,Rainwater,Pharmacy,Online,12,Teenagers,16982
+PW1495,Nestle Pure Life,1.28,1.57,Australia,Bottle,Sparkling,6.08,98,Natural Spring,Supermarket,Online,13.8,Adults,3786
+PW1496,San Pellegrino,4.37,1.75,Asia,Bottle,Spring,6.89,331,Well,Supermarket,Offline,10.1,Children,22813
+PW1497,Evian,2.92,1.2,North America,Box,Purified,8.5,488,Rainwater,Convenience Store,Offline,21.2,Elderly,22043
+PW1498,Dasani,4,1.46,Asia,Bottle,Distilled,8.92,455,Well,Supermarket,Offline,15.5,Children,8061
+PW1499,Fiji,0.58,0.3,Australia,Pouch,Spring,6.5,487,Well,Supermarket,Offline,22.2,Adults,2410
+PW1500,Perrier,1.97,1.52,South America,Box,Sparkling,6.2,482,Natural Spring,Supermarket,Offline,11.1,Teenagers,39410
+PW1501,Perrier,2.13,1.99,Europe,Pouch,Alkaline,6.6,238,Well,Wholesale,Online,11.8,Elderly,30429
+PW1502,Fiji,1,1.52,Africa,Pouch,Sparkling,8.01,83,Natural Spring,Convenience Store,Offline,21.8,Adults,44344
+PW1503,Perrier,4.65,1.58,South America,Bottle,Mineral,8.8,184,Natural Spring,Pharmacy,Online,24.7,Children,736
+PW1504,Aquafina,4.75,0.69,Australia,Box,Alkaline,8.99,337,Well,Pharmacy,Offline,11.6,Adults,6161
+PW1505,Evian,1.5,1.85,Asia,Bottle,Spring,8.05,199,Filtered,Online,Online,7,Teenagers,35203
+PW1506,Fiji,2.14,0.92,Africa,Pouch,Distilled,7.94,215,Rainwater,Wholesale,Offline,19.2,Adults,11996
+PW1507,Smartwater,3.02,1.42,Europe,Pouch,Distilled,8.9,331,Well,Wholesale,Online,9.2,Elderly,17513
+PW1508,Dasani,3.35,1.28,Africa,Pouch,Sparkling,6.2,75,Well,Pharmacy,Online,5.9,Elderly,16915
+PW1509,Dasani,1.55,1.42,Europe,Can,Sparkling,6.05,391,Well,Supermarket,Offline,11.5,Children,4622
+PW1510,Perrier,0.95,1.37,South America,Pouch,Sparkling,7.41,339,Well,Pharmacy,Offline,7.9,Teenagers,35108
+PW1511,Dasani,3.52,1.83,Asia,Bottle,Distilled,7.52,394,Natural Spring,Wholesale,Online,9.8,Teenagers,20501
+PW1512,Fiji,4.92,0.52,North America,Box,Sparkling,8.8,419,Rainwater,Pharmacy,Online,24.2,Adults,28737
+PW1513,San Pellegrino,1.88,1.06,Europe,Can,Alkaline,8.27,97,Well,Wholesale,Online,8.4,Children,28353
+PW1514,Fiji,2.13,0.61,South America,Box,Purified,6.73,139,Municipal,Convenience Store,Offline,6.3,Teenagers,25474
+PW1515,Evian,1.56,1.86,Australia,Bottle,Mineral,8.17,230,Natural Spring,Wholesale,Offline,10.9,Elderly,45780
+PW1516,Fiji,3.31,0.96,Asia,Bottle,Distilled,8.02,70,Filtered,Supermarket,Online,14.8,Teenagers,32112
+PW1517,Voss,2.43,0.39,Africa,Pouch,Mineral,8.98,343,Well,Supermarket,Offline,20.9,Children,13453
+PW1518,Evian,2.84,0.64,Australia,Bottle,Sparkling,8.45,431,Well,Supermarket,Offline,24.3,Children,12306
+PW1519,Smartwater,4.88,1.26,Australia,Can,Sparkling,7.97,417,Well,Online,Offline,6.1,Elderly,18252
+PW1520,Voss,3.15,0.75,Europe,Box,Spring,6.05,331,Rainwater,Supermarket,Online,21.6,Adults,36823
+PW1521,Smartwater,3.32,1.94,Africa,Box,Sparkling,6.79,450,Municipal,Supermarket,Offline,17.5,Adults,42622
+PW1522,Smartwater,3.15,1.65,Europe,Pouch,Sparkling,7.81,306,Well,Wholesale,Offline,10.8,Elderly,36531
+PW1523,Perrier,3.22,1.23,Australia,Bottle,Spring,7.7,168,Well,Online,Offline,6.1,Children,3046
+PW1524,Perrier,3.62,1.71,Australia,Can,Distilled,7.49,466,Filtered,Wholesale,Online,11.6,Elderly,36756
+PW1525,Aquafina,1.95,1.56,North America,Box,Sparkling,6.09,428,Municipal,Supermarket,Offline,7.7,Elderly,29988
+PW1526,Perrier,1.29,1.31,Asia,Pouch,Mineral,8.73,304,Rainwater,Wholesale,Offline,23.9,Elderly,23474
+PW1527,Perrier,1.65,1.61,North America,Can,Sparkling,6.98,381,Filtered,Supermarket,Online,14.2,Teenagers,9628
+PW1528,Fiji,3.36,1.4,Europe,Pouch,Purified,7.27,61,Rainwater,Pharmacy,Offline,18.5,Children,39127
+PW1529,Fiji,3.62,1.76,Asia,Can,Distilled,7.08,410,Well,Online,Online,7,Elderly,25616
+PW1530,Nestle Pure Life,2.12,1,North America,Pouch,Sparkling,6.99,70,Filtered,Online,Offline,17,Elderly,18667
+PW1531,Fiji,3.9,0.59,Australia,Bottle,Spring,6.19,495,Rainwater,Convenience Store,Offline,22.6,Elderly,45723
+PW1532,Aquafina,3.49,1.12,Africa,Pouch,Distilled,6.6,170,Filtered,Convenience Store,Online,9.4,Children,13743
+PW1533,Evian,2.39,1.13,Africa,Can,Alkaline,6.79,398,Municipal,Convenience Store,Offline,7.6,Teenagers,49019
+PW1534,San Pellegrino,1,0.8,Africa,Can,Distilled,7.45,226,Filtered,Wholesale,Offline,23,Adults,7721
+PW1535,Nestle Pure Life,2.25,0.31,Europe,Bottle,Distilled,7.24,279,Well,Convenience Store,Offline,10,Teenagers,48953
+PW1536,San Pellegrino,0.76,1.56,Asia,Bottle,Purified,6.76,286,Filtered,Convenience Store,Offline,7.7,Adults,19350
+PW1537,Smartwater,1.46,0.93,North America,Bottle,Mineral,8.63,111,Rainwater,Online,Offline,4.6,Teenagers,33780
+PW1538,Nestle Pure Life,4.13,1.23,Asia,Box,Spring,8.47,113,Natural Spring,Online,Offline,17,Teenagers,9271
+PW1539,Voss,1.8,1.64,North America,Bottle,Mineral,7.12,416,Well,Pharmacy,Offline,20.8,Teenagers,3523
+PW1540,Evian,4.29,0.69,Africa,Pouch,Spring,7.22,135,Natural Spring,Online,Online,21.7,Elderly,47542
+PW1541,San Pellegrino,1.2,1.25,Asia,Pouch,Alkaline,8.5,175,Rainwater,Convenience Store,Online,13.4,Adults,11511
+PW1542,Dasani,1.1,0.93,South America,Bottle,Spring,8.24,144,Natural Spring,Convenience Store,Online,4.2,Teenagers,42924
+PW1543,Nestle Pure Life,0.66,1.87,North America,Pouch,Mineral,8.91,355,Natural Spring,Pharmacy,Online,21.8,Children,2219
+PW1544,Nestle Pure Life,0.62,0.98,North America,Bottle,Spring,6.39,182,Rainwater,Online,Offline,8.3,Elderly,43691
+PW1545,Evian,0.75,1.86,Australia,Pouch,Mineral,8.63,157,Municipal,Wholesale,Offline,14.6,Adults,30139
+PW1546,Dasani,2.79,0.6,North America,Pouch,Distilled,6.26,226,Municipal,Convenience Store,Offline,16.3,Adults,21976
+PW1547,Smartwater,3.95,1.73,South America,Pouch,Distilled,7.47,87,Well,Online,Online,6.6,Adults,36541
+PW1548,San Pellegrino,0.61,0.57,Australia,Box,Purified,6.5,368,Municipal,Wholesale,Online,16,Teenagers,24464
+PW1549,Nestle Pure Life,4.23,0.76,North America,Pouch,Sparkling,8.8,424,Well,Convenience Store,Offline,24.3,Children,42719
+PW1550,Perrier,0.72,0.63,South America,Bottle,Alkaline,7.91,440,Rainwater,Convenience Store,Online,10.7,Teenagers,30247
+PW1551,Fiji,3.5,0.95,South America,Bottle,Mineral,7.03,428,Municipal,Convenience Store,Offline,4.4,Teenagers,30466
+PW1552,Voss,4.85,0.3,Europe,Pouch,Sparkling,7.75,442,Filtered,Wholesale,Online,8.9,Children,13512
+PW1553,Voss,2.84,0.89,North America,Pouch,Distilled,8.88,76,Municipal,Online,Offline,20.1,Teenagers,8547
+PW1554,Evian,1.41,0.76,Europe,Can,Alkaline,6.26,477,Rainwater,Wholesale,Offline,4.3,Elderly,9626
+PW1555,Evian,1.05,0.41,Asia,Pouch,Alkaline,7.53,425,Filtered,Supermarket,Online,4.7,Children,5133
+PW1556,Voss,4.77,0.93,Europe,Bottle,Sparkling,8.05,309,Filtered,Supermarket,Offline,8.2,Teenagers,46107
+PW1557,Nestle Pure Life,2.28,1.92,Asia,Pouch,Purified,8.09,255,Natural Spring,Wholesale,Online,13.2,Elderly,27698
+PW1558,Fiji,2.12,1.02,Africa,Box,Purified,7,269,Municipal,Online,Online,11.9,Teenagers,37885
+PW1559,Fiji,0.92,1.29,Asia,Can,Purified,7.73,149,Municipal,Wholesale,Offline,8.3,Teenagers,8032
+PW1560,Voss,2.11,0.38,Asia,Bottle,Sparkling,7.36,340,Municipal,Pharmacy,Online,18.4,Teenagers,20164
+PW1561,Fiji,3.45,0.69,Europe,Can,Purified,6.11,200,Municipal,Pharmacy,Offline,23.4,Elderly,16825
+PW1562,Nestle Pure Life,0.91,0.76,South America,Box,Alkaline,7.59,493,Municipal,Online,Offline,6.2,Elderly,28853
+PW1563,Nestle Pure Life,2.35,0.72,North America,Can,Alkaline,7.47,398,Municipal,Convenience Store,Online,14.3,Teenagers,15915
+PW1564,Evian,3.78,0.6,Australia,Can,Purified,6.12,180,Well,Wholesale,Online,6.8,Adults,6912
+PW1565,Voss,3.48,0.41,Africa,Bottle,Spring,6.18,190,Filtered,Convenience Store,Offline,14,Elderly,44976
+PW1566,Fiji,0.53,0.86,Africa,Can,Sparkling,6.9,486,Rainwater,Pharmacy,Offline,24.5,Teenagers,36301
+PW1567,Voss,1.5,1.78,South America,Bottle,Purified,8.97,245,Rainwater,Wholesale,Online,10.1,Elderly,40340
+PW1568,Nestle Pure Life,0.51,0.42,South America,Pouch,Sparkling,7.85,250,Well,Online,Online,13.9,Adults,1499
+PW1569,Evian,2.53,0.98,Australia,Bottle,Spring,6.01,264,Natural Spring,Wholesale,Online,17.1,Children,8772
+PW1570,Fiji,4.98,0.7,South America,Pouch,Alkaline,8.75,217,Filtered,Supermarket,Offline,7.2,Adults,23082
+PW1571,Aquafina,1.44,1.7,North America,Can,Alkaline,8.9,443,Rainwater,Wholesale,Online,19.8,Children,2741
+PW1572,Nestle Pure Life,3.8,1.21,Asia,Can,Mineral,7.55,158,Well,Online,Offline,21.7,Teenagers,7237
+PW1573,Nestle Pure Life,4.51,0.45,Africa,Box,Purified,8.65,183,Well,Wholesale,Offline,19.1,Elderly,7487
+PW1574,Evian,4.05,1.29,Asia,Box,Distilled,7.36,301,Rainwater,Supermarket,Online,5.8,Adults,27355
+PW1575,Voss,1.75,1.88,North America,Bottle,Alkaline,8.16,234,Municipal,Online,Offline,21.5,Adults,20296
+PW1576,Dasani,3.47,0.65,North America,Pouch,Sparkling,7.92,186,Municipal,Convenience Store,Online,6.2,Teenagers,48015
+PW1577,Perrier,1.73,0.21,Africa,Can,Purified,6.8,322,Well,Wholesale,Online,21.3,Teenagers,1471
+PW1578,Dasani,1.07,1.81,Australia,Bottle,Spring,7.63,327,Municipal,Convenience Store,Online,4.8,Teenagers,44711
+PW1579,Evian,2.08,0.21,Australia,Pouch,Distilled,8.7,139,Well,Online,Offline,19.8,Elderly,17276
+PW1580,Fiji,3.51,0.99,Europe,Pouch,Spring,6.25,478,Filtered,Online,Offline,15.3,Elderly,21789
+PW1581,Nestle Pure Life,1.64,1.09,South America,Box,Spring,7.96,388,Filtered,Convenience Store,Online,9.8,Adults,5353
+PW1582,Perrier,4.59,1.42,Asia,Can,Distilled,6.42,436,Well,Online,Online,10.5,Children,39713
+PW1583,Dasani,4.19,0.84,South America,Can,Mineral,7.67,350,Municipal,Supermarket,Offline,18.2,Elderly,44063
+PW1584,Perrier,2.57,0.62,North America,Can,Alkaline,8.08,343,Filtered,Online,Online,8.8,Elderly,10343
+PW1585,Fiji,0.66,1.99,Australia,Box,Spring,8.75,79,Municipal,Supermarket,Offline,5.2,Children,44832
+PW1586,Fiji,4.36,1.23,South America,Pouch,Alkaline,6.67,437,Natural Spring,Supermarket,Online,10.6,Teenagers,10903
+PW1587,Aquafina,3.89,1.07,Australia,Box,Mineral,7.49,279,Filtered,Pharmacy,Offline,6.9,Children,34738
+PW1588,Aquafina,1.34,1.69,South America,Box,Sparkling,8.54,426,Filtered,Wholesale,Online,5.5,Elderly,8519
+PW1589,Evian,2.06,0.84,Africa,Box,Spring,8.05,66,Natural Spring,Online,Online,17.3,Adults,42453
+PW1590,Evian,4.02,0.92,Europe,Box,Spring,7.27,323,Rainwater,Supermarket,Online,8.5,Children,26943
+PW1591,San Pellegrino,3.49,1.52,Africa,Pouch,Purified,7.11,153,Filtered,Convenience Store,Offline,7.2,Adults,32904
+PW1592,Dasani,1.62,0.53,Africa,Pouch,Purified,8.34,255,Rainwater,Pharmacy,Online,21.7,Adults,15521
+PW1593,Fiji,1.88,1.48,North America,Can,Mineral,7.7,394,Well,Supermarket,Online,4.1,Teenagers,44063
+PW1594,Voss,4.33,1.91,Africa,Bottle,Purified,7.58,315,Municipal,Wholesale,Offline,17.4,Adults,7052
+PW1595,Voss,3.36,1.22,Europe,Box,Spring,7.25,406,Rainwater,Wholesale,Offline,13.8,Children,49553
+PW1596,Aquafina,2.64,1.09,Europe,Pouch,Mineral,6.27,260,Natural Spring,Online,Offline,12.8,Elderly,47312
+PW1597,Voss,4.32,1.64,Australia,Bottle,Distilled,7.49,138,Filtered,Online,Offline,11.9,Adults,44795
+PW1598,San Pellegrino,1.25,0.97,Australia,Can,Mineral,6.91,361,Rainwater,Online,Online,10.4,Children,12344
+PW1599,Aquafina,4.09,0.32,Australia,Pouch,Sparkling,8.89,302,Filtered,Convenience Store,Offline,18.6,Adults,27167
+PW1600,Dasani,3.59,1.02,Europe,Box,Spring,6.03,375,Natural Spring,Pharmacy,Offline,22.5,Elderly,24806
+PW1601,Perrier,1.16,0.42,Australia,Box,Sparkling,8.38,452,Well,Convenience Store,Offline,9.9,Adults,21225
+PW1602,Voss,1.78,1.59,Australia,Bottle,Spring,6.74,139,Municipal,Supermarket,Offline,7.3,Children,17931
+PW1603,Dasani,4.98,0.22,North America,Box,Spring,7.74,289,Natural Spring,Supermarket,Offline,10.3,Adults,6582
+PW1604,Aquafina,3.53,0.72,Europe,Box,Sparkling,8.84,479,Municipal,Supermarket,Online,20.2,Adults,21311
+PW1605,Perrier,4.5,1.4,Africa,Box,Alkaline,6.68,210,Natural Spring,Pharmacy,Offline,6.3,Children,18919
+PW1606,Nestle Pure Life,3.82,1.72,Asia,Box,Alkaline,7.02,146,Rainwater,Online,Offline,23.4,Children,32368
+PW1607,Nestle Pure Life,0.64,0.46,Europe,Bottle,Distilled,8.42,81,Well,Supermarket,Offline,12.5,Children,911
+PW1608,Smartwater,4.56,1.88,North America,Pouch,Purified,6.29,68,Filtered,Supermarket,Offline,6.4,Elderly,15576
+PW1609,Aquafina,1.29,1.29,Africa,Box,Spring,6.4,369,Rainwater,Supermarket,Offline,5.6,Children,5925
+PW1610,Voss,1.99,0.58,Europe,Can,Purified,8.3,475,Municipal,Supermarket,Online,13.2,Children,15732
+PW1611,Nestle Pure Life,3.45,1.88,Australia,Bottle,Alkaline,8.61,78,Well,Supermarket,Online,4.9,Elderly,19465
+PW1612,Dasani,4.03,1.64,Europe,Pouch,Spring,8.61,166,Municipal,Convenience Store,Online,10.6,Elderly,45171
+PW1613,Voss,1.4,0.71,Australia,Bottle,Distilled,7.76,394,Filtered,Wholesale,Online,12.2,Children,36089
+PW1614,Aquafina,0.58,0.62,Australia,Can,Purified,6.18,334,Rainwater,Pharmacy,Online,21.3,Teenagers,39642
+PW1615,Perrier,2.01,0.61,Africa,Can,Distilled,6.75,161,Municipal,Supermarket,Online,16.8,Adults,6214
+PW1616,Fiji,4.33,1.1,Europe,Bottle,Spring,7.2,309,Municipal,Wholesale,Offline,13.9,Adults,25865
+PW1617,Dasani,2.44,1.75,North America,Bottle,Purified,8.37,158,Rainwater,Supermarket,Online,19.8,Teenagers,16812
+PW1618,Fiji,0.82,0.27,Europe,Pouch,Mineral,8.42,481,Municipal,Convenience Store,Offline,16.7,Adults,35224
+PW1619,Voss,2.06,0.27,South America,Can,Sparkling,6.38,129,Rainwater,Wholesale,Offline,21.5,Adults,40888
+PW1620,Smartwater,2.24,1.46,Australia,Can,Purified,7.45,460,Rainwater,Pharmacy,Offline,17.9,Adults,8701
+PW1621,Perrier,2.25,0.23,North America,Can,Spring,8.03,446,Filtered,Wholesale,Offline,11.6,Elderly,44592
+PW1622,Dasani,2.93,1.98,Asia,Pouch,Distilled,8.61,281,Rainwater,Pharmacy,Online,4.1,Adults,10939
+PW1623,Voss,3.69,1.92,Africa,Can,Purified,8.28,224,Filtered,Supermarket,Offline,19,Teenagers,5033
+PW1624,Voss,2.59,1.13,North America,Can,Spring,6.27,147,Filtered,Supermarket,Online,22.4,Children,29800
+PW1625,San Pellegrino,2.58,0.24,North America,Bottle,Spring,6.18,279,Rainwater,Online,Online,15.8,Elderly,19806
+PW1626,Dasani,4.36,0.44,South America,Pouch,Alkaline,7.94,189,Filtered,Wholesale,Online,5.6,Teenagers,17546
+PW1627,San Pellegrino,0.64,1.3,South America,Pouch,Purified,7.4,185,Filtered,Supermarket,Online,18.8,Adults,36277
+PW1628,Voss,3.75,1.35,North America,Bottle,Spring,8.24,272,Well,Online,Online,14.7,Children,41516
+PW1629,Dasani,0.74,1.07,North America,Can,Alkaline,6.74,206,Filtered,Wholesale,Offline,11.8,Adults,7584
+PW1630,Fiji,4.71,1.88,Australia,Bottle,Alkaline,6.7,342,Filtered,Convenience Store,Offline,20.6,Children,45404
+PW1631,Perrier,2.51,1.6,South America,Pouch,Mineral,6.61,434,Natural Spring,Convenience Store,Online,22.7,Adults,12858
+PW1632,Evian,4.61,1.58,Australia,Box,Sparkling,7.52,203,Municipal,Wholesale,Online,7.7,Elderly,24472
+PW1633,Evian,2.35,1.19,Asia,Can,Sparkling,6.45,426,Filtered,Online,Offline,12.4,Elderly,39183
+PW1634,San Pellegrino,0.73,0.64,South America,Can,Alkaline,8.75,244,Natural Spring,Online,Offline,24,Children,7122
+PW1635,Voss,1.72,1.24,Asia,Bottle,Purified,7.48,155,Filtered,Online,Offline,24.4,Elderly,47373
+PW1636,Fiji,3.65,1.81,Africa,Can,Distilled,8.58,111,Rainwater,Convenience Store,Online,8.2,Teenagers,12482
+PW1637,Evian,2.57,0.38,Asia,Pouch,Sparkling,8.19,128,Filtered,Pharmacy,Online,24,Adults,10293
+PW1638,Smartwater,2.26,0.4,Asia,Can,Distilled,7.7,249,Rainwater,Supermarket,Online,21.5,Children,47172
+PW1639,Perrier,2.85,1.31,North America,Can,Purified,6.8,395,Municipal,Supermarket,Offline,17.7,Adults,25941
+PW1640,Evian,1.04,1.4,Australia,Can,Mineral,6.55,327,Filtered,Convenience Store,Offline,13.2,Teenagers,44106
+PW1641,Dasani,2.56,0.57,North America,Can,Mineral,7.16,90,Well,Supermarket,Online,5.3,Teenagers,41489
+PW1642,San Pellegrino,4.6,1.89,South America,Box,Purified,7.2,255,Rainwater,Online,Online,5.8,Teenagers,20411
+PW1643,Dasani,4.33,1.8,North America,Can,Spring,8.71,220,Municipal,Online,Offline,19.2,Children,23635
+PW1644,Evian,3.75,1.91,Europe,Pouch,Sparkling,8.81,447,Well,Supermarket,Online,13.8,Elderly,39009
+PW1645,Voss,1.32,1.49,Asia,Can,Purified,7.78,219,Well,Convenience Store,Online,13.9,Children,43362
+PW1646,Perrier,2.36,1.71,North America,Can,Spring,8,276,Well,Supermarket,Online,7.6,Teenagers,7881
+PW1647,Voss,1.07,1.31,Australia,Bottle,Purified,7.88,335,Rainwater,Pharmacy,Online,19.8,Children,34274
+PW1648,Nestle Pure Life,4.56,0.78,South America,Box,Purified,8.95,145,Filtered,Pharmacy,Offline,20.5,Adults,14969
+PW1649,Voss,4.12,1.18,Africa,Can,Mineral,6.12,235,Filtered,Convenience Store,Online,14.3,Children,20419
+PW1650,Fiji,4.53,0.55,Asia,Can,Sparkling,6.52,193,Rainwater,Pharmacy,Offline,22.7,Children,49339
+PW1651,Perrier,0.59,1.89,Europe,Can,Mineral,7.03,472,Well,Wholesale,Offline,4.7,Teenagers,12105
+PW1652,Fiji,1.59,1.8,Asia,Pouch,Alkaline,7.12,109,Rainwater,Online,Offline,24.5,Teenagers,46921
+PW1653,Nestle Pure Life,4.78,0.46,Europe,Pouch,Mineral,7.08,421,Natural Spring,Pharmacy,Online,17.8,Adults,6923
+PW1654,Fiji,2.95,1.59,Asia,Box,Alkaline,7.81,225,Municipal,Online,Online,11.6,Adults,34299
+PW1655,Voss,2.26,1.41,Africa,Box,Sparkling,7.97,272,Filtered,Wholesale,Offline,22.9,Children,10702
+PW1656,San Pellegrino,2.62,1.62,South America,Box,Alkaline,7.01,475,Municipal,Pharmacy,Online,6.4,Elderly,23431
+PW1657,Nestle Pure Life,3.51,0.23,North America,Box,Distilled,6.44,311,Well,Wholesale,Online,11,Children,46812
+PW1658,Voss,2.81,1.16,North America,Bottle,Sparkling,7.44,289,Rainwater,Online,Offline,11.9,Adults,40786
+PW1659,Dasani,0.86,1.84,South America,Bottle,Mineral,8.18,480,Rainwater,Wholesale,Online,5,Elderly,47705
+PW1660,Perrier,0.75,1.8,Asia,Can,Mineral,8.61,484,Filtered,Wholesale,Online,11.8,Adults,32227
+PW1661,Aquafina,2.27,0.85,Australia,Box,Mineral,7.84,314,Rainwater,Supermarket,Online,12.9,Elderly,21110
+PW1662,Fiji,0.98,1.93,Asia,Pouch,Alkaline,6.52,498,Natural Spring,Pharmacy,Offline,10.2,Adults,29311
+PW1663,Smartwater,1.29,0.48,South America,Pouch,Spring,8.01,102,Municipal,Convenience Store,Offline,23.1,Children,21299
+PW1664,Fiji,3.28,1.71,Asia,Bottle,Distilled,7.97,271,Municipal,Convenience Store,Online,13.9,Teenagers,11104
+PW1665,Dasani,1.66,1.77,Asia,Pouch,Alkaline,7.46,372,Natural Spring,Convenience Store,Online,21,Adults,42373
+PW1666,Voss,2.54,1.91,Africa,Can,Sparkling,7.6,466,Rainwater,Online,Online,19.1,Teenagers,38341
+PW1667,Smartwater,3.08,0.58,Australia,Bottle,Distilled,7.92,357,Municipal,Supermarket,Online,5.4,Teenagers,28143
+PW1668,Aquafina,0.69,0.52,Asia,Bottle,Alkaline,6.9,388,Rainwater,Wholesale,Online,9.5,Adults,44053
+PW1669,San Pellegrino,3.61,1.09,South America,Pouch,Purified,7.33,385,Rainwater,Pharmacy,Online,12.9,Teenagers,6374
+PW1670,Evian,3.48,0.31,Africa,Pouch,Mineral,7.2,291,Filtered,Online,Online,24,Adults,41419
+PW1671,San Pellegrino,1.34,0.74,Asia,Can,Purified,7.09,170,Well,Online,Online,12.8,Children,30603
+PW1672,Aquafina,4.15,1.25,Asia,Can,Distilled,8.69,286,Well,Pharmacy,Online,9,Adults,46735
+PW1673,Voss,1.52,1.4,Africa,Bottle,Alkaline,7.69,246,Well,Online,Online,7.2,Teenagers,34207
+PW1674,Dasani,4.24,1.14,Africa,Bottle,Sparkling,8.23,101,Municipal,Pharmacy,Offline,10,Elderly,49261
+PW1675,Fiji,4.6,1.64,Europe,Bottle,Sparkling,6.77,152,Municipal,Convenience Store,Online,22.4,Adults,1404
+PW1676,Dasani,3.51,1.06,South America,Bottle,Spring,6.34,115,Filtered,Supermarket,Offline,24.5,Adults,30015
+PW1677,Nestle Pure Life,0.98,1.65,Asia,Bottle,Sparkling,8.85,428,Well,Pharmacy,Online,10.6,Teenagers,22431
+PW1678,Voss,1.76,0.34,North America,Bottle,Purified,6.3,129,Rainwater,Pharmacy,Online,8.9,Teenagers,48931
+PW1679,Fiji,3.18,0.58,Asia,Bottle,Sparkling,8.71,134,Natural Spring,Wholesale,Online,15.5,Children,6639
+PW1680,Aquafina,1.16,0.33,Australia,Bottle,Purified,7.11,221,Municipal,Online,Online,10.3,Children,3073
+PW1681,Perrier,2.56,0.68,North America,Bottle,Purified,7.33,205,Well,Convenience Store,Online,9.6,Children,21441
+PW1682,Aquafina,3.34,1.34,North America,Can,Alkaline,6.72,141,Filtered,Pharmacy,Online,24.8,Children,1781
+PW1683,San Pellegrino,2.14,0.32,Australia,Can,Alkaline,7.97,265,Filtered,Online,Online,10.3,Adults,42234
+PW1684,Voss,4.39,1.11,Australia,Can,Purified,7.05,223,Rainwater,Wholesale,Offline,23.1,Teenagers,20082
+PW1685,Smartwater,0.62,1.23,Australia,Bottle,Mineral,8.83,423,Rainwater,Wholesale,Online,21,Elderly,41587
+PW1686,Fiji,4.29,0.39,Australia,Box,Spring,8.75,277,Well,Pharmacy,Offline,21.1,Adults,8270
+PW1687,San Pellegrino,3.93,1.32,Asia,Box,Spring,7.16,52,Rainwater,Wholesale,Online,9.9,Teenagers,45451
+PW1688,Voss,0.56,0.63,Asia,Box,Mineral,7.79,434,Municipal,Online,Offline,15.6,Teenagers,47407
+PW1689,Fiji,2.9,1.68,South America,Box,Mineral,8.82,388,Municipal,Wholesale,Offline,21.7,Adults,47356
+PW1690,Voss,2.91,0.26,Africa,Can,Mineral,7.53,292,Filtered,Online,Offline,13.6,Elderly,45072
+PW1691,Nestle Pure Life,4.66,1.31,North America,Pouch,Spring,8.84,157,Municipal,Pharmacy,Online,16.7,Adults,42818
+PW1692,Nestle Pure Life,0.81,0.25,Australia,Bottle,Distilled,6.52,259,Rainwater,Supermarket,Offline,18.6,Elderly,45451
+PW1693,Perrier,4.07,1.11,Asia,Can,Distilled,6.68,181,Well,Supermarket,Offline,13.8,Teenagers,4548
+PW1694,Perrier,3.48,1.43,Asia,Bottle,Alkaline,8.29,369,Natural Spring,Online,Online,13.4,Teenagers,40786
+PW1695,Voss,3.27,1.5,Africa,Box,Alkaline,6.68,363,Filtered,Wholesale,Online,5.2,Adults,21908
+PW1696,Dasani,3.55,0.32,South America,Can,Distilled,6.14,211,Filtered,Convenience Store,Online,24,Adults,30522
+PW1697,Evian,2.19,1.54,Europe,Can,Spring,6.83,121,Filtered,Wholesale,Offline,17.4,Children,5688
+PW1698,Aquafina,1.25,0.69,South America,Can,Purified,6.93,412,Rainwater,Wholesale,Online,6.3,Adults,4225
+PW1699,Aquafina,4.11,1.93,Africa,Can,Spring,8.78,89,Rainwater,Pharmacy,Offline,20.4,Elderly,21181
+PW1700,Voss,2.62,1.11,Europe,Pouch,Distilled,6.43,342,Well,Wholesale,Online,4.1,Teenagers,22370
+PW1701,Perrier,1.92,1.7,Europe,Box,Distilled,6.85,145,Well,Convenience Store,Offline,8.7,Adults,7489
+PW1702,Nestle Pure Life,0.83,1.82,Asia,Box,Distilled,7.35,447,Municipal,Pharmacy,Offline,18.9,Elderly,39087
+PW1703,Perrier,4.69,0.34,Australia,Bottle,Distilled,8.11,171,Filtered,Pharmacy,Offline,17.4,Adults,39910
+PW1704,Perrier,2.72,0.64,Asia,Bottle,Distilled,8.43,140,Rainwater,Wholesale,Offline,6.4,Elderly,48404
+PW1705,Nestle Pure Life,0.96,1.46,Australia,Can,Spring,7.56,209,Well,Convenience Store,Offline,4.9,Adults,49138
+PW1706,Perrier,3.56,1.26,North America,Bottle,Purified,8.09,382,Filtered,Supermarket,Online,12.8,Elderly,22425
+PW1707,Smartwater,2.88,0.48,South America,Can,Spring,8.67,440,Municipal,Online,Offline,9,Elderly,18046
+PW1708,Aquafina,1.95,0.73,Africa,Bottle,Mineral,6.93,76,Filtered,Pharmacy,Online,20.1,Teenagers,4120
+PW1709,Aquafina,1.03,0.77,South America,Can,Mineral,6.31,62,Rainwater,Pharmacy,Offline,21,Elderly,37641
+PW1710,Aquafina,3.42,0.27,Africa,Box,Mineral,6.16,238,Natural Spring,Wholesale,Online,14,Elderly,39664
+PW1711,Perrier,2.26,1.09,Australia,Box,Spring,8.48,318,Municipal,Convenience Store,Offline,15.4,Children,7548
+PW1712,Evian,4.63,1.34,Africa,Pouch,Sparkling,6.55,407,Filtered,Wholesale,Offline,17.2,Elderly,886
+PW1713,Smartwater,1.74,0.32,North America,Pouch,Mineral,7.55,175,Well,Wholesale,Offline,18,Elderly,17783
+PW1714,Voss,1.25,0.93,Europe,Bottle,Spring,7.33,214,Well,Online,Offline,7.7,Children,20979
+PW1715,Nestle Pure Life,3.53,0.49,Europe,Can,Distilled,6.89,325,Filtered,Online,Offline,5.2,Children,30320
+PW1716,Voss,2.48,1.26,North America,Can,Spring,7.99,57,Municipal,Pharmacy,Offline,8.5,Adults,2840
+PW1717,Perrier,1.39,1.95,Africa,Can,Sparkling,7.55,77,Natural Spring,Wholesale,Offline,13.1,Children,17897
+PW1718,Aquafina,1.49,1.77,Australia,Can,Spring,7.95,293,Municipal,Supermarket,Offline,21,Children,5526
+PW1719,Evian,1.94,1.49,Asia,Box,Alkaline,7.58,467,Well,Pharmacy,Offline,15.2,Adults,44177
+PW1720,Fiji,3.15,0.52,Australia,Box,Purified,8.06,155,Well,Wholesale,Offline,16.4,Children,45026
+PW1721,Evian,4.7,0.49,Africa,Box,Distilled,6.21,409,Well,Supermarket,Offline,19,Children,41123
+PW1722,Smartwater,2.01,0.22,North America,Box,Sparkling,6.28,474,Natural Spring,Pharmacy,Offline,4,Children,17200
+PW1723,Fiji,4.91,1.71,North America,Can,Distilled,8.87,387,Rainwater,Wholesale,Online,23.6,Children,28809
+PW1724,Aquafina,3.13,0.72,Africa,Bottle,Alkaline,7.77,154,Municipal,Convenience Store,Online,6.1,Adults,43439
+PW1725,Voss,2.73,1.47,Asia,Pouch,Sparkling,6.19,277,Well,Supermarket,Offline,7.1,Adults,5424
+PW1726,Perrier,2.95,0.3,South America,Can,Sparkling,6.26,378,Municipal,Convenience Store,Offline,15.3,Elderly,17853
+PW1727,Smartwater,1.85,1.21,South America,Box,Alkaline,6.72,182,Municipal,Supermarket,Offline,16.7,Children,18112
+PW1728,Smartwater,3.83,0.61,North America,Pouch,Distilled,6.18,277,Filtered,Supermarket,Online,20,Children,39601
+PW1729,Smartwater,3.73,0.26,Asia,Pouch,Spring,7.89,425,Filtered,Online,Offline,4.4,Children,49333
+PW1730,Voss,4.92,0.9,Asia,Box,Purified,8.27,315,Natural Spring,Supermarket,Offline,5.8,Elderly,42512
+PW1731,Voss,1.19,0.83,Australia,Pouch,Distilled,7.86,327,Rainwater,Wholesale,Offline,23.8,Children,7015
+PW1732,Smartwater,3.84,1.79,South America,Pouch,Spring,6.14,245,Well,Online,Online,22.2,Adults,13511
+PW1733,Evian,0.83,0.88,Africa,Can,Mineral,8.62,386,Well,Online,Online,13.2,Elderly,47146
+PW1734,Evian,2.93,0.38,North America,Box,Purified,8.08,272,Well,Supermarket,Offline,7.6,Adults,25149
+PW1735,Aquafina,4.56,1.11,North America,Box,Mineral,7.17,373,Rainwater,Wholesale,Online,13.5,Children,30119
+PW1736,Voss,3.22,0.55,South America,Bottle,Spring,6.44,228,Filtered,Convenience Store,Offline,22.7,Teenagers,43425
+PW1737,Aquafina,0.88,1.64,South America,Pouch,Sparkling,7.17,472,Rainwater,Supermarket,Online,15.8,Teenagers,3317
+PW1738,Nestle Pure Life,2.76,0.24,Europe,Box,Alkaline,7.92,208,Well,Wholesale,Offline,14.3,Teenagers,34321
+PW1739,Dasani,2.5,1.18,Australia,Pouch,Distilled,6.19,466,Municipal,Online,Offline,6.8,Adults,22631
+PW1740,Dasani,1.95,0.27,South America,Bottle,Alkaline,6.68,92,Rainwater,Wholesale,Online,20.8,Elderly,1690
+PW1741,Fiji,1.46,1.7,North America,Bottle,Purified,7.82,438,Well,Convenience Store,Online,10.6,Adults,9277
+PW1742,Nestle Pure Life,3.77,1.78,South America,Can,Spring,6.1,191,Municipal,Supermarket,Online,7.2,Elderly,18333
+PW1743,Evian,4.12,0.45,Australia,Can,Alkaline,6.92,228,Well,Supermarket,Online,18.5,Elderly,35040
+PW1744,Voss,4.26,1.31,North America,Can,Sparkling,6.5,476,Rainwater,Online,Offline,13.3,Elderly,20255
+PW1745,Fiji,2.04,1.5,Europe,Box,Sparkling,7.97,273,Natural Spring,Convenience Store,Offline,11.9,Teenagers,18857
+PW1746,Fiji,4.91,1.78,South America,Can,Sparkling,7.94,292,Municipal,Wholesale,Online,13.6,Adults,37752
+PW1747,San Pellegrino,2.43,1.14,Africa,Box,Sparkling,7.67,237,Filtered,Wholesale,Offline,14.4,Teenagers,6935
+PW1748,Evian,3.79,1.81,Asia,Box,Purified,8.88,297,Municipal,Wholesale,Offline,16.9,Teenagers,41782
+PW1749,Evian,1.1,1.93,South America,Can,Spring,7.31,184,Well,Convenience Store,Offline,11.7,Teenagers,3830
+PW1750,Nestle Pure Life,0.85,1.6,Europe,Pouch,Sparkling,6.68,479,Filtered,Wholesale,Offline,23.3,Children,41619
+PW1751,Perrier,3.08,0.44,Asia,Bottle,Alkaline,8.38,214,Filtered,Online,Online,17.9,Children,15524
+PW1752,Dasani,4.75,1.41,Europe,Bottle,Spring,8.79,334,Rainwater,Pharmacy,Offline,16.9,Elderly,36701
+PW1753,San Pellegrino,4.1,1.19,Europe,Bottle,Distilled,7.11,248,Well,Online,Offline,9.2,Adults,18282
+PW1754,Voss,1.79,0.57,Australia,Can,Sparkling,8.78,427,Well,Wholesale,Offline,24.8,Elderly,10485
+PW1755,Fiji,2.52,1.44,Australia,Pouch,Alkaline,6.15,423,Well,Convenience Store,Offline,17.7,Children,43857
+PW1756,Nestle Pure Life,2.19,1.44,North America,Can,Alkaline,7.59,488,Rainwater,Wholesale,Offline,21,Elderly,44463
+PW1757,San Pellegrino,1.86,1.94,North America,Pouch,Purified,8.52,198,Municipal,Supermarket,Online,23.2,Adults,9641
+PW1758,Voss,0.89,1.88,Australia,Bottle,Purified,8.34,125,Municipal,Online,Offline,24.7,Adults,21975
+PW1759,Smartwater,2.58,1.01,Asia,Box,Distilled,6.9,468,Well,Convenience Store,Online,12.1,Children,2263
+PW1760,San Pellegrino,2.09,1.55,Asia,Can,Sparkling,6.37,220,Well,Pharmacy,Offline,24.9,Elderly,7321
+PW1761,Nestle Pure Life,2.01,1.11,Australia,Can,Alkaline,8.22,372,Natural Spring,Wholesale,Online,13.4,Elderly,30328
+PW1762,Dasani,0.73,1.3,Africa,Pouch,Alkaline,8.66,381,Municipal,Online,Offline,14,Elderly,19635
+PW1763,Smartwater,3.63,1.43,Africa,Can,Distilled,7.95,473,Filtered,Supermarket,Offline,22.8,Adults,35073
+PW1764,Perrier,3.97,0.98,North America,Can,Alkaline,7.82,336,Municipal,Pharmacy,Online,11.2,Adults,41359
+PW1765,Nestle Pure Life,3.44,1.77,North America,Box,Mineral,8.8,161,Municipal,Online,Offline,20.4,Elderly,7994
+PW1766,Nestle Pure Life,4.72,1.79,South America,Can,Sparkling,6.39,426,Well,Wholesale,Offline,10.9,Teenagers,42555
+PW1767,Fiji,4.56,0.51,Australia,Pouch,Spring,8.25,363,Filtered,Supermarket,Offline,18.2,Adults,47327
+PW1768,Smartwater,2.68,1.58,Asia,Pouch,Sparkling,8.94,335,Natural Spring,Pharmacy,Online,13.5,Elderly,15976
+PW1769,Voss,4.24,0.42,Australia,Box,Alkaline,7.34,237,Municipal,Pharmacy,Offline,20.2,Elderly,45981
+PW1770,Dasani,4.63,1.22,Asia,Bottle,Sparkling,6.08,70,Municipal,Convenience Store,Offline,24.2,Children,24279
+PW1771,Voss,1.02,1.86,Australia,Can,Purified,6.01,223,Well,Wholesale,Online,9.2,Elderly,39366
+PW1772,Evian,3.96,0.46,Australia,Bottle,Sparkling,7.6,263,Well,Wholesale,Offline,14.2,Teenagers,38039
+PW1773,Smartwater,4.47,0.82,Australia,Box,Alkaline,6.48,399,Natural Spring,Supermarket,Offline,6.1,Children,8357
+PW1774,Smartwater,3.32,1.72,Africa,Bottle,Distilled,7.29,212,Natural Spring,Wholesale,Online,20.4,Adults,31186
+PW1775,Smartwater,2.62,1.18,Africa,Box,Spring,6.05,72,Well,Convenience Store,Online,15.9,Adults,26240
+PW1776,Dasani,4.95,1.33,North America,Can,Purified,8.2,257,Well,Supermarket,Online,20.2,Elderly,19710
+PW1777,Dasani,2.67,1.92,Africa,Pouch,Mineral,9,414,Rainwater,Convenience Store,Online,8.7,Teenagers,32362
+PW1778,Perrier,1.19,1.76,Africa,Bottle,Spring,7.91,139,Well,Pharmacy,Offline,16.4,Adults,8354
+PW1779,San Pellegrino,0.94,0.6,South America,Pouch,Alkaline,7.58,98,Municipal,Convenience Store,Online,9.9,Children,39132
+PW1780,Perrier,2.74,1.08,Australia,Box,Spring,7.98,308,Natural Spring,Supermarket,Offline,5.6,Elderly,4679
+PW1781,Fiji,2.57,0.53,Australia,Can,Spring,6.28,421,Municipal,Pharmacy,Offline,24.2,Teenagers,37965
+PW1782,Nestle Pure Life,1.88,0.38,South America,Bottle,Mineral,8.41,75,Natural Spring,Pharmacy,Online,22.6,Teenagers,40893
+PW1783,Dasani,4.73,1.22,Australia,Pouch,Alkaline,7.14,171,Well,Supermarket,Offline,7.3,Elderly,2810
+PW1784,Perrier,4.71,1.87,Australia,Bottle,Purified,6.42,280,Well,Online,Online,10.6,Teenagers,16059
+PW1785,Nestle Pure Life,1.7,1.08,Asia,Bottle,Alkaline,6.06,261,Natural Spring,Wholesale,Online,5.9,Teenagers,44084
+PW1786,Aquafina,2.29,0.73,Africa,Bottle,Spring,6.55,287,Natural Spring,Wholesale,Online,14.5,Adults,2567
+PW1787,Fiji,4.86,1.93,South America,Pouch,Spring,6.43,59,Filtered,Supermarket,Offline,4.7,Teenagers,11286
+PW1788,Dasani,1.89,1.9,Asia,Box,Purified,6.57,280,Rainwater,Supermarket,Offline,17.2,Elderly,4121
+PW1789,Smartwater,4.39,1.05,Australia,Pouch,Mineral,6.03,166,Municipal,Wholesale,Offline,13.2,Elderly,40642
+PW1790,Smartwater,4.09,1.77,Australia,Can,Sparkling,6.32,493,Well,Pharmacy,Offline,6.5,Children,19500
+PW1791,Evian,0.84,0.38,Australia,Box,Distilled,7.38,317,Natural Spring,Pharmacy,Online,17.6,Children,6281
+PW1792,Dasani,2.13,0.8,Africa,Box,Sparkling,7.17,424,Municipal,Pharmacy,Offline,22,Children,3022
+PW1793,Evian,1.15,0.4,Asia,Bottle,Purified,8.86,255,Filtered,Convenience Store,Online,8,Adults,47810
+PW1794,Smartwater,3.01,0.58,North America,Bottle,Distilled,7.12,248,Natural Spring,Supermarket,Online,7.3,Children,31001
+PW1795,Dasani,3.34,0.6,South America,Can,Spring,8.03,160,Municipal,Pharmacy,Online,17.4,Elderly,25218
+PW1796,San Pellegrino,2.98,0.68,Australia,Can,Purified,6.69,445,Rainwater,Pharmacy,Offline,4.8,Teenagers,8420
+PW1797,Perrier,1.77,0.83,Europe,Pouch,Sparkling,6.35,413,Rainwater,Online,Online,7.4,Elderly,40085
+PW1798,San Pellegrino,1.96,1.95,Europe,Can,Mineral,8.55,165,Rainwater,Online,Online,20.2,Children,8046
+PW1799,Aquafina,2.1,0.91,Australia,Bottle,Alkaline,8.57,87,Filtered,Supermarket,Offline,24.2,Children,42941
+PW1800,Fiji,3.56,0.7,Africa,Can,Purified,7.16,106,Well,Wholesale,Online,17.8,Children,3380
+PW1801,Fiji,3.6,1.51,Asia,Box,Distilled,8.44,190,Well,Pharmacy,Offline,11.8,Adults,39310
+PW1802,Voss,1.97,1.72,South America,Pouch,Spring,7.59,498,Well,Online,Offline,19.3,Adults,13011
+PW1803,Evian,3.92,1.06,North America,Pouch,Alkaline,7.69,247,Municipal,Wholesale,Online,11.2,Adults,4173
+PW1804,Dasani,1.15,0.52,Europe,Pouch,Purified,6.91,379,Natural Spring,Supermarket,Online,10.7,Children,1736
+PW1805,Perrier,2.9,1.12,Europe,Can,Mineral,7.36,380,Rainwater,Pharmacy,Offline,20.7,Elderly,43789
+PW1806,Voss,3.09,1.01,Asia,Pouch,Distilled,7.81,238,Municipal,Pharmacy,Online,16,Elderly,7935
+PW1807,Fiji,3.04,1.99,Africa,Box,Spring,8.65,404,Natural Spring,Convenience Store,Offline,6.8,Elderly,36146
+PW1808,San Pellegrino,2.79,0.95,Australia,Pouch,Mineral,8.83,90,Filtered,Convenience Store,Offline,12.6,Teenagers,17071
+PW1809,Nestle Pure Life,1.1,1.39,South America,Can,Purified,8.15,152,Filtered,Supermarket,Offline,11.5,Adults,37679
+PW1810,San Pellegrino,2.82,1.97,Australia,Bottle,Sparkling,8.97,120,Rainwater,Pharmacy,Online,21.6,Elderly,20624
+PW1811,Smartwater,1.17,1.44,Australia,Can,Purified,7.52,242,Municipal,Online,Offline,21.7,Children,26283
+PW1812,Smartwater,1.18,0.94,Asia,Pouch,Spring,8.36,167,Well,Convenience Store,Online,18.5,Adults,36664
+PW1813,Fiji,0.65,0.34,Asia,Pouch,Distilled,8.47,80,Natural Spring,Supermarket,Offline,9.3,Elderly,39232
+PW1814,Perrier,1.78,0.84,Australia,Box,Alkaline,7.15,317,Municipal,Convenience Store,Offline,9.2,Adults,47194
+PW1815,Fiji,0.99,1.15,Africa,Box,Purified,6.5,322,Well,Pharmacy,Offline,23.5,Elderly,26343
+PW1816,Perrier,4.41,0.94,Europe,Can,Alkaline,7.98,66,Filtered,Supermarket,Online,23.9,Children,14238
+PW1817,Dasani,2.87,1.5,South America,Can,Sparkling,6.18,466,Natural Spring,Pharmacy,Online,21.2,Adults,7180
+PW1818,Perrier,4.83,1.52,Australia,Can,Mineral,8.49,405,Filtered,Supermarket,Offline,12.1,Elderly,33479
+PW1819,Nestle Pure Life,1.93,1.15,Africa,Bottle,Alkaline,8.14,228,Natural Spring,Convenience Store,Online,4.9,Adults,4447
+PW1820,Smartwater,4.73,1.73,South America,Bottle,Purified,7.56,238,Rainwater,Pharmacy,Online,10.2,Adults,27279
+PW1821,Smartwater,1.79,1.33,Africa,Can,Spring,8.04,350,Rainwater,Convenience Store,Online,13.6,Elderly,21567
+PW1822,Fiji,1.56,1.38,Australia,Box,Distilled,7.19,263,Natural Spring,Online,Offline,11.6,Teenagers,7814
+PW1823,Aquafina,3.99,0.45,Europe,Bottle,Distilled,6.6,109,Municipal,Pharmacy,Offline,16.7,Teenagers,30152
+PW1824,Smartwater,1.41,0.35,Europe,Bottle,Purified,8.08,332,Well,Supermarket,Offline,15.4,Teenagers,37286
+PW1825,Aquafina,3.01,0.63,North America,Can,Mineral,7.6,444,Municipal,Supermarket,Offline,18.7,Adults,35898
+PW1826,Perrier,3.75,0.73,Australia,Box,Sparkling,6.49,343,Well,Wholesale,Online,22.1,Elderly,25391
+PW1827,Voss,4.99,1.98,Asia,Bottle,Mineral,6.24,328,Municipal,Wholesale,Offline,14.9,Teenagers,14577
+PW1828,Perrier,2.73,0.78,South America,Box,Mineral,6.65,297,Filtered,Supermarket,Offline,7.7,Elderly,8381
+PW1829,Fiji,2.73,1.64,South America,Can,Spring,6.66,84,Natural Spring,Pharmacy,Online,18.8,Adults,27287
+PW1830,Nestle Pure Life,1.23,1.99,Australia,Bottle,Sparkling,7.97,90,Filtered,Convenience Store,Offline,4,Adults,38770
+PW1831,Smartwater,4.07,0.76,Asia,Box,Mineral,7.74,265,Natural Spring,Online,Online,8.3,Children,21954
+PW1832,Dasani,4.53,1.23,Asia,Box,Spring,8.91,196,Municipal,Convenience Store,Online,13.9,Elderly,19474
+PW1833,Perrier,2.11,1.48,Australia,Box,Mineral,6.33,148,Well,Convenience Store,Offline,18.9,Adults,11344
+PW1834,Voss,2.09,1.37,South America,Box,Spring,8.6,403,Filtered,Wholesale,Offline,10,Teenagers,26141
+PW1835,Dasani,1.57,0.26,Europe,Pouch,Mineral,6.07,437,Well,Wholesale,Offline,9.2,Children,38264
+PW1836,Smartwater,1.22,1.25,Europe,Box,Spring,6.26,384,Municipal,Online,Online,13.6,Children,11412
+PW1837,Voss,2.39,1.85,Asia,Pouch,Distilled,6.42,481,Natural Spring,Wholesale,Online,12.7,Adults,29057
+PW1838,Voss,3.29,0.73,Asia,Can,Sparkling,6.04,175,Rainwater,Online,Offline,17.3,Children,20473
+PW1839,Evian,1.53,1.15,Australia,Can,Sparkling,8.42,310,Municipal,Pharmacy,Offline,13.7,Children,13218
+PW1840,Aquafina,3.16,0.87,Asia,Box,Alkaline,8.05,340,Rainwater,Pharmacy,Online,16.1,Elderly,6609
+PW1841,Voss,2.75,0.79,Australia,Box,Purified,7.32,94,Well,Supermarket,Offline,22.2,Teenagers,28975
+PW1842,San Pellegrino,3.27,0.22,North America,Box,Purified,6.48,427,Natural Spring,Supermarket,Offline,23.6,Elderly,24084
+PW1843,Aquafina,2.29,0.48,Asia,Pouch,Purified,7.52,351,Filtered,Convenience Store,Offline,11.8,Elderly,41393
+PW1844,Fiji,3.38,1.01,Asia,Bottle,Mineral,7.27,225,Rainwater,Convenience Store,Offline,6.4,Adults,4708
+PW1845,Smartwater,1.33,0.92,Australia,Can,Spring,8.64,197,Rainwater,Pharmacy,Online,14.4,Children,38057
+PW1846,Evian,4.24,1.62,South America,Pouch,Spring,7.45,115,Rainwater,Supermarket,Online,12.2,Elderly,28532
+PW1847,Dasani,1.79,1.04,South America,Box,Alkaline,6.56,389,Natural Spring,Convenience Store,Online,14,Elderly,23247
+PW1848,Nestle Pure Life,1.45,1.58,Asia,Can,Distilled,6.34,256,Well,Supermarket,Online,9,Teenagers,28231
+PW1849,Nestle Pure Life,4.66,0.52,South America,Can,Spring,7.82,411,Rainwater,Convenience Store,Online,20.2,Adults,26436
+PW1850,Perrier,2.79,0.39,Europe,Can,Spring,7.64,352,Well,Pharmacy,Online,14.6,Elderly,7837
+PW1851,Nestle Pure Life,4.77,0.69,Australia,Bottle,Distilled,8.38,380,Filtered,Online,Offline,5.1,Teenagers,41664
+PW1852,San Pellegrino,3.71,1.39,North America,Bottle,Alkaline,7.12,67,Filtered,Wholesale,Offline,17.8,Elderly,4270
+PW1853,Fiji,1.64,1.8,North America,Bottle,Purified,8.72,436,Well,Online,Online,12.3,Teenagers,33540
+PW1854,Perrier,0.95,1.46,North America,Pouch,Alkaline,7.37,350,Well,Convenience Store,Offline,19.5,Adults,19558
+PW1855,Nestle Pure Life,2.67,1.01,Africa,Pouch,Distilled,7.23,258,Filtered,Supermarket,Online,18.1,Elderly,48118
+PW1856,Smartwater,4.15,0.74,Europe,Box,Sparkling,6.71,255,Rainwater,Wholesale,Online,23.4,Children,44375
+PW1857,Nestle Pure Life,2.28,1.52,Australia,Can,Alkaline,7.48,280,Natural Spring,Online,Online,22.1,Adults,25182
+PW1858,Dasani,2.31,1.98,Europe,Box,Distilled,7.16,276,Filtered,Convenience Store,Online,20.3,Teenagers,42147
+PW1859,Voss,3.29,0.28,Australia,Can,Mineral,8.04,135,Natural Spring,Online,Online,22.3,Adults,14216
+PW1860,San Pellegrino,2.61,1.13,South America,Bottle,Alkaline,7.55,360,Municipal,Pharmacy,Offline,22.2,Children,10793
+PW1861,Perrier,4.15,1.3,North America,Box,Mineral,7.03,141,Municipal,Convenience Store,Online,9.1,Children,43534
+PW1862,Perrier,4.83,0.84,North America,Bottle,Alkaline,7.55,356,Municipal,Online,Offline,7.1,Elderly,14908
+PW1863,San Pellegrino,3.49,0.53,Asia,Pouch,Alkaline,8.85,293,Filtered,Pharmacy,Offline,24.7,Children,5800
+PW1864,San Pellegrino,4.74,1.38,Europe,Can,Purified,8.11,380,Natural Spring,Online,Online,18.2,Adults,17520
+PW1865,Voss,3.26,0.94,Europe,Box,Alkaline,7.65,309,Rainwater,Pharmacy,Online,17.1,Adults,1634
+PW1866,Fiji,2.77,1.35,Asia,Box,Spring,8.43,236,Natural Spring,Convenience Store,Offline,20.6,Adults,1714
+PW1867,San Pellegrino,3.93,1.48,Australia,Pouch,Mineral,7.25,293,Well,Supermarket,Offline,19.3,Adults,25840
+PW1868,Dasani,2.49,1.15,North America,Can,Mineral,7.73,214,Filtered,Pharmacy,Online,15.1,Elderly,35997
+PW1869,Nestle Pure Life,3.05,1.98,Europe,Bottle,Sparkling,7.41,90,Municipal,Wholesale,Offline,8.5,Children,15169
+PW1870,Evian,2.22,1.8,North America,Box,Alkaline,8.53,81,Well,Supermarket,Offline,22.7,Elderly,15798
+PW1871,Aquafina,1.62,0.83,South America,Bottle,Mineral,7.45,430,Municipal,Pharmacy,Offline,13.7,Adults,36157
+PW1872,Nestle Pure Life,4.93,0.96,South America,Bottle,Spring,8.09,289,Rainwater,Online,Online,6.9,Children,40188
+PW1873,Voss,2,1.42,Australia,Can,Purified,8.44,72,Rainwater,Online,Online,13.9,Children,47226
+PW1874,Fiji,2.97,0.5,Africa,Can,Sparkling,7.69,191,Well,Online,Offline,5.9,Teenagers,35360
+PW1875,Smartwater,2.81,0.76,North America,Can,Alkaline,8.24,64,Municipal,Pharmacy,Online,14.5,Teenagers,44359
+PW1876,Dasani,1.07,0.93,Asia,Bottle,Sparkling,7.08,127,Municipal,Pharmacy,Online,22.6,Adults,25636
+PW1877,Voss,3.3,1.28,Africa,Can,Purified,8.12,219,Natural Spring,Supermarket,Offline,7.4,Adults,35757
+PW1878,Dasani,2.04,0.57,North America,Can,Sparkling,6.88,391,Filtered,Wholesale,Offline,10.8,Elderly,46093
+PW1879,Perrier,0.95,1.49,Africa,Pouch,Sparkling,8.84,445,Rainwater,Online,Online,10.7,Elderly,46306
+PW1880,Dasani,3.33,1.56,Europe,Can,Sparkling,6.43,309,Rainwater,Wholesale,Offline,10.9,Adults,24589
+PW1881,Nestle Pure Life,4.64,0.43,North America,Pouch,Purified,6.3,267,Rainwater,Wholesale,Online,24.8,Elderly,46161
+PW1882,Nestle Pure Life,4.65,1.9,Europe,Pouch,Spring,6.53,451,Rainwater,Convenience Store,Offline,14.4,Elderly,43524
+PW1883,Voss,4.83,1.5,North America,Pouch,Sparkling,8.33,467,Natural Spring,Wholesale,Online,24.8,Children,11184
+PW1884,Fiji,4.5,0.44,North America,Can,Sparkling,6,96,Municipal,Online,Offline,23.6,Elderly,4167
+PW1885,Fiji,1.09,1.81,Africa,Box,Purified,8.69,393,Well,Supermarket,Online,7.8,Children,18664
+PW1886,Fiji,4.77,1.72,Europe,Can,Alkaline,7.05,344,Rainwater,Online,Online,14.8,Children,42096
+PW1887,Aquafina,3.69,0.83,Australia,Box,Sparkling,6.09,300,Filtered,Wholesale,Offline,21.8,Children,46378
+PW1888,Dasani,1.82,1.19,Asia,Pouch,Alkaline,6.82,380,Municipal,Pharmacy,Online,10,Adults,21372
+PW1889,Voss,2.91,1.07,North America,Pouch,Spring,6.73,492,Filtered,Convenience Store,Offline,10.2,Teenagers,16090
+PW1890,Evian,0.66,0.6,Asia,Pouch,Mineral,8.05,273,Well,Convenience Store,Offline,8.3,Elderly,28378
+PW1891,Voss,3.44,0.88,Asia,Can,Alkaline,7.2,211,Natural Spring,Wholesale,Online,15,Children,800
+PW1892,Smartwater,4.7,0.97,Australia,Box,Sparkling,8.05,103,Filtered,Pharmacy,Online,8.9,Children,42431
+PW1893,Perrier,4.29,1.72,Europe,Bottle,Sparkling,6.93,391,Well,Wholesale,Offline,22.8,Teenagers,48720
+PW1894,Voss,2.38,1.58,North America,Box,Distilled,7.18,395,Well,Convenience Store,Online,17.1,Adults,37080
+PW1895,Dasani,1.03,1.52,Australia,Box,Alkaline,8.09,133,Well,Wholesale,Online,22.7,Teenagers,14471
+PW1896,Evian,1.98,0.9,South America,Can,Alkaline,6.61,379,Well,Supermarket,Online,19.2,Children,6648
+PW1897,Aquafina,4.38,0.76,South America,Can,Spring,6.26,174,Natural Spring,Pharmacy,Offline,6,Elderly,1244
+PW1898,Aquafina,4.03,1.86,South America,Box,Distilled,7.03,245,Filtered,Online,Offline,5.7,Adults,14761
+PW1899,Fiji,4.17,1.84,South America,Box,Alkaline,6.22,139,Natural Spring,Pharmacy,Offline,19.4,Teenagers,2536
+PW1900,Aquafina,4.69,1.01,Australia,Can,Alkaline,8.08,415,Well,Wholesale,Offline,4.4,Teenagers,23861
+PW1901,Perrier,1.59,1.95,Europe,Pouch,Sparkling,7.99,228,Natural Spring,Convenience Store,Online,16.4,Children,28034
+PW1902,Voss,0.78,1.08,Asia,Can,Spring,8.02,72,Municipal,Online,Online,23,Adults,30103
+PW1903,San Pellegrino,2.07,0.46,Europe,Box,Mineral,7.4,255,Rainwater,Pharmacy,Online,6.6,Elderly,21285
+PW1904,San Pellegrino,1.9,0.84,Europe,Can,Alkaline,6.46,198,Filtered,Supermarket,Offline,15.9,Teenagers,22748
+PW1905,San Pellegrino,4.86,0.21,Europe,Bottle,Sparkling,6.11,173,Well,Supermarket,Offline,16.6,Adults,24159
+PW1906,Smartwater,2.74,0.64,Africa,Can,Spring,8.88,130,Well,Supermarket,Online,8.1,Elderly,19402
+PW1907,Aquafina,2.78,0.27,Africa,Can,Distilled,6.5,166,Filtered,Supermarket,Offline,7,Elderly,3368
+PW1908,San Pellegrino,1.87,0.57,North America,Bottle,Mineral,6.67,221,Natural Spring,Wholesale,Online,17.5,Children,4859
+PW1909,San Pellegrino,1.68,1.37,Australia,Bottle,Sparkling,7.68,337,Rainwater,Pharmacy,Offline,19.9,Children,31942
+PW1910,Voss,2.28,1.93,South America,Box,Alkaline,8.44,154,Municipal,Wholesale,Offline,21.7,Elderly,21639
+PW1911,San Pellegrino,3,0.3,Europe,Bottle,Sparkling,7.47,328,Filtered,Convenience Store,Online,13.2,Adults,41546
+PW1912,Nestle Pure Life,2.61,0.89,Europe,Pouch,Sparkling,7.53,219,Well,Wholesale,Online,14.5,Children,36141
+PW1913,Nestle Pure Life,2.59,0.73,Australia,Pouch,Purified,6.53,452,Filtered,Pharmacy,Online,9.5,Children,1218
+PW1914,Evian,3.96,1.52,Europe,Pouch,Distilled,7.31,335,Filtered,Convenience Store,Online,15.1,Elderly,43862
+PW1915,San Pellegrino,1.19,0.31,Africa,Box,Purified,6.92,156,Municipal,Pharmacy,Offline,21.5,Elderly,1618
+PW1916,Smartwater,0.59,1.91,Europe,Pouch,Alkaline,8.95,326,Well,Convenience Store,Online,10.4,Elderly,13560
+PW1917,Dasani,4.24,0.24,Asia,Box,Purified,6.03,300,Rainwater,Convenience Store,Offline,19.4,Adults,24917
+PW1918,Smartwater,2.01,1.59,Africa,Box,Mineral,6.22,254,Natural Spring,Online,Offline,4.9,Elderly,7356
+PW1919,Smartwater,0.81,0.62,Australia,Bottle,Purified,7.28,347,Municipal,Online,Online,4.3,Teenagers,6811
+PW1920,Perrier,4.77,1.3,Africa,Can,Sparkling,7.47,120,Rainwater,Online,Offline,15.1,Teenagers,34458
+PW1921,Evian,4.78,0.4,Asia,Bottle,Purified,6.58,307,Well,Pharmacy,Online,12.1,Adults,35393
+PW1922,San Pellegrino,1.28,0.74,North America,Box,Sparkling,7.77,381,Filtered,Pharmacy,Online,24.1,Elderly,48650
+PW1923,Dasani,1.91,1.06,Australia,Bottle,Mineral,7.22,277,Municipal,Wholesale,Offline,6.3,Teenagers,33361
+PW1924,Perrier,3.82,0.54,Asia,Pouch,Sparkling,6.73,396,Filtered,Convenience Store,Online,15.6,Teenagers,14286
+PW1925,Smartwater,3.7,0.44,South America,Pouch,Purified,8.56,324,Filtered,Wholesale,Online,16,Elderly,32279
+PW1926,San Pellegrino,2.4,1.49,Australia,Pouch,Sparkling,8.5,52,Municipal,Pharmacy,Offline,12.8,Adults,21188
+PW1927,Dasani,4.4,1.58,Africa,Pouch,Alkaline,7.35,363,Well,Convenience Store,Offline,24,Teenagers,10842
+PW1928,Dasani,4.54,1.57,Europe,Bottle,Purified,7.13,281,Municipal,Pharmacy,Offline,18.9,Teenagers,33143
+PW1929,Dasani,4.76,1.73,Asia,Box,Sparkling,6.12,226,Municipal,Pharmacy,Online,8.6,Elderly,4617
+PW1930,San Pellegrino,2.57,0.84,South America,Box,Sparkling,7.46,325,Well,Online,Offline,18.2,Adults,16694
+PW1931,Perrier,4.44,0.28,South America,Pouch,Purified,6.31,380,Natural Spring,Online,Online,20.1,Adults,33346
+PW1932,Aquafina,1.39,1.76,Asia,Box,Sparkling,7.79,369,Filtered,Wholesale,Online,7.3,Teenagers,36732
+PW1933,Fiji,3.09,0.94,South America,Bottle,Alkaline,8.53,326,Municipal,Wholesale,Online,6.4,Teenagers,43331
+PW1934,Voss,2.78,0.45,Asia,Pouch,Mineral,7.15,67,Well,Supermarket,Offline,18.3,Teenagers,3799
+PW1935,Perrier,2.53,0.49,Africa,Bottle,Sparkling,7.01,60,Filtered,Pharmacy,Offline,24.9,Elderly,39736
+PW1936,Smartwater,2.48,0.52,South America,Box,Purified,8.8,217,Municipal,Pharmacy,Online,7.1,Children,35034
+PW1937,Fiji,4.95,0.95,Asia,Bottle,Mineral,7.95,294,Well,Online,Offline,7.4,Adults,8983
+PW1938,Evian,3.01,1.57,North America,Box,Distilled,7.15,437,Filtered,Supermarket,Offline,21.9,Teenagers,13186
+PW1939,Nestle Pure Life,2.42,1.22,Australia,Can,Purified,6.73,190,Rainwater,Online,Offline,11.3,Children,11932
+PW1940,Perrier,2.59,0.8,Australia,Can,Mineral,7.32,366,Filtered,Online,Online,15.5,Teenagers,49122
+PW1941,Dasani,3.23,0.22,Asia,Bottle,Mineral,8.53,127,Municipal,Supermarket,Offline,6,Teenagers,10009
+PW1942,Dasani,2.4,1.7,Africa,Pouch,Spring,8.82,148,Municipal,Convenience Store,Online,19.3,Children,10687
+PW1943,Dasani,0.97,0.54,North America,Pouch,Distilled,8.3,494,Natural Spring,Wholesale,Offline,12.3,Elderly,41066
+PW1944,Aquafina,2.12,1.2,South America,Can,Mineral,7.16,104,Well,Convenience Store,Offline,16.1,Children,7593
+PW1945,San Pellegrino,3.75,1.29,North America,Box,Mineral,6.65,418,Rainwater,Online,Offline,4.4,Adults,16384
+PW1946,San Pellegrino,3.88,0.39,Australia,Pouch,Distilled,6.68,284,Rainwater,Convenience Store,Offline,5.8,Adults,14424
+PW1947,Perrier,4.7,0.4,North America,Pouch,Distilled,8.4,224,Natural Spring,Supermarket,Online,6.8,Children,45515
+PW1948,Aquafina,4.73,0.68,Europe,Can,Purified,8.11,134,Natural Spring,Online,Online,21.6,Elderly,48110
+PW1949,Aquafina,2.4,1.42,Africa,Can,Sparkling,8.77,328,Well,Wholesale,Online,8.4,Teenagers,21587
+PW1950,Aquafina,2.86,1.53,Europe,Pouch,Alkaline,8.56,388,Rainwater,Online,Offline,24.4,Adults,31164
+PW1951,Aquafina,2.93,1.7,Europe,Bottle,Alkaline,7.15,291,Natural Spring,Pharmacy,Offline,5.8,Adults,26623
+PW1952,Nestle Pure Life,4.45,1.72,North America,Bottle,Alkaline,8.35,194,Municipal,Wholesale,Offline,5.8,Adults,7050
+PW1953,Voss,3.57,1.15,North America,Pouch,Purified,7.1,356,Filtered,Convenience Store,Offline,9.6,Teenagers,49797
+PW1954,Fiji,2.7,1.17,Australia,Box,Distilled,8.49,387,Well,Wholesale,Offline,12.8,Children,2473
+PW1955,San Pellegrino,4.51,0.38,Australia,Can,Sparkling,6.74,148,Natural Spring,Pharmacy,Offline,12.3,Children,3495
+PW1956,Nestle Pure Life,1.48,0.43,Asia,Bottle,Purified,6.83,466,Rainwater,Online,Online,13.4,Children,29024
+PW1957,Evian,1.42,0.63,South America,Box,Alkaline,6.45,167,Filtered,Convenience Store,Online,7,Adults,18573
+PW1958,Voss,4.85,0.48,South America,Can,Sparkling,7.59,261,Natural Spring,Supermarket,Online,23.5,Children,8581
+PW1959,Dasani,2.26,1.8,Africa,Bottle,Alkaline,7.05,116,Filtered,Wholesale,Offline,6.1,Adults,44203
+PW1960,Nestle Pure Life,4.46,0.59,Europe,Pouch,Distilled,6.47,280,Well,Pharmacy,Online,18.4,Elderly,3073
+PW1961,Aquafina,0.98,1.56,South America,Box,Mineral,8.74,273,Filtered,Wholesale,Offline,22.1,Elderly,34491
+PW1962,Nestle Pure Life,1.82,0.81,Australia,Pouch,Mineral,6.93,164,Rainwater,Wholesale,Online,22.8,Teenagers,48473
+PW1963,Perrier,2.59,1.5,Australia,Box,Purified,8.79,158,Filtered,Wholesale,Offline,7.1,Children,40788
+PW1964,Dasani,3.78,0.32,South America,Can,Distilled,7.49,284,Municipal,Online,Offline,11.5,Teenagers,42306
+PW1965,Smartwater,2.48,1.79,South America,Can,Sparkling,8.45,247,Rainwater,Convenience Store,Offline,7.5,Children,20063
+PW1966,Perrier,2.17,0.7,Australia,Box,Mineral,6.4,427,Rainwater,Online,Offline,13.1,Teenagers,16782
+PW1967,Perrier,3.5,0.76,South America,Box,Purified,6.44,374,Rainwater,Convenience Store,Online,10.6,Children,1819
+PW1968,Smartwater,4.85,1.91,South America,Box,Distilled,8.2,450,Natural Spring,Online,Offline,7.7,Adults,27743
+PW1969,San Pellegrino,0.71,1.93,Africa,Bottle,Spring,6.07,474,Natural Spring,Pharmacy,Online,12.7,Children,7261
+PW1970,Perrier,1.02,0.46,Africa,Bottle,Distilled,7.43,310,Municipal,Supermarket,Offline,23.3,Adults,43748
+PW1971,Voss,3.2,1.96,Australia,Box,Sparkling,8.2,365,Well,Supermarket,Offline,20.1,Teenagers,48547
+PW1972,Perrier,4.93,0.87,Australia,Box,Spring,8.83,344,Rainwater,Supermarket,Online,21.5,Teenagers,42252
+PW1973,Fiji,0.8,1.27,Africa,Pouch,Sparkling,6.96,415,Natural Spring,Wholesale,Offline,15.4,Adults,38661
+PW1974,Dasani,4.5,0.21,Asia,Can,Purified,6.58,165,Well,Pharmacy,Offline,18.8,Teenagers,33414
+PW1975,Smartwater,1.6,1.84,Asia,Box,Sparkling,6.03,282,Well,Supermarket,Online,22.8,Adults,42852
+PW1976,Aquafina,4.8,1.68,Asia,Box,Alkaline,7.86,318,Municipal,Online,Offline,15.3,Teenagers,11767
+PW1977,Smartwater,3.04,1.73,Asia,Can,Sparkling,7.62,389,Rainwater,Pharmacy,Offline,13.7,Elderly,19135
+PW1978,Aquafina,2.08,1.86,Asia,Bottle,Distilled,6.38,71,Filtered,Supermarket,Online,23.3,Children,45727
+PW1979,Evian,3.62,0.87,Africa,Pouch,Spring,6.3,225,Well,Pharmacy,Online,4.3,Teenagers,39035
+PW1980,Perrier,0.74,0.94,Europe,Box,Mineral,6.74,79,Municipal,Wholesale,Online,23.1,Teenagers,38089
+PW1981,San Pellegrino,0.89,0.83,Asia,Can,Mineral,8.46,390,Filtered,Supermarket,Online,16.1,Elderly,18314
+PW1982,Aquafina,2.83,0.98,Europe,Bottle,Alkaline,8.46,383,Filtered,Supermarket,Online,23.8,Adults,46494
+PW1983,San Pellegrino,1.95,1.48,Africa,Can,Mineral,6.94,154,Municipal,Convenience Store,Offline,11.5,Elderly,20399
+PW1984,Nestle Pure Life,4.75,0.34,North America,Pouch,Distilled,8.19,243,Well,Convenience Store,Online,15.8,Adults,11179
+PW1985,Aquafina,3.09,1.27,Australia,Pouch,Alkaline,8.55,219,Well,Pharmacy,Online,23.8,Elderly,25464
+PW1986,Voss,2.94,0.46,Australia,Box,Sparkling,8.52,93,Well,Pharmacy,Online,21.7,Adults,29375
+PW1987,Perrier,1.99,1.53,Africa,Box,Spring,8.36,200,Rainwater,Wholesale,Offline,14.5,Elderly,36433
+PW1988,Aquafina,2.4,1.06,Europe,Pouch,Alkaline,8.28,461,Natural Spring,Pharmacy,Offline,4.8,Children,3577
+PW1989,Dasani,1.64,1.05,Asia,Box,Alkaline,8.57,462,Well,Online,Offline,20.3,Teenagers,36698
+PW1990,Aquafina,4.83,0.43,Australia,Box,Purified,7.81,76,Municipal,Supermarket,Online,4.5,Adults,45893
+PW1991,Smartwater,0.55,1.38,Africa,Bottle,Purified,7.68,285,Natural Spring,Pharmacy,Online,5.9,Teenagers,15289
+PW1992,Evian,3.9,0.42,Australia,Pouch,Mineral,8.57,399,Rainwater,Supermarket,Offline,7.4,Children,45801
+PW1993,Aquafina,0.85,1.08,Asia,Pouch,Spring,7.02,313,Well,Pharmacy,Offline,19.9,Teenagers,8403
+PW1994,Aquafina,0.54,1.2,Australia,Bottle,Mineral,8.42,100,Municipal,Online,Online,15.1,Teenagers,8408
+PW1995,Nestle Pure Life,1.35,1.22,Australia,Pouch,Sparkling,6.55,456,Well,Online,Offline,6.3,Adults,41296
+PW1996,Evian,4.95,1.41,South America,Box,Spring,6.25,118,Natural Spring,Wholesale,Online,10.6,Elderly,25550
+PW1997,Aquafina,3.16,0.9,Europe,Box,Spring,7.73,443,Rainwater,Convenience Store,Online,23.5,Children,44687
+PW1998,Nestle Pure Life,2.1,1.88,Australia,Box,Alkaline,6.58,499,Rainwater,Wholesale,Online,5,Elderly,24898
+PW1999,San Pellegrino,1.45,1.95,Europe,Bottle,Alkaline,6.7,455,Municipal,Online,Online,20.2,Teenagers,37942
+PW2000,Nestle Pure Life,0.74,1.49,Europe,Pouch,Spring,6.49,154,Well,Online,Offline,15.5,Teenagers,27959
+PW2001,San Pellegrino,3.2,1.44,Europe,Can,Alkaline,8.35,209,Rainwater,Supermarket,Offline,13.8,Children,8241
+PW2002,San Pellegrino,1.36,0.99,Europe,Pouch,Purified,6.08,432,Filtered,Pharmacy,Offline,13.2,Adults,22828
+PW2003,San Pellegrino,2.05,0.93,Europe,Can,Mineral,8.94,136,Filtered,Convenience Store,Offline,8.8,Children,15467
+PW2004,Dasani,1.33,1.73,North America,Bottle,Distilled,8.26,366,Natural Spring,Online,Online,22.1,Teenagers,31602
+PW2005,Voss,1.83,1.84,Australia,Can,Sparkling,8.47,489,Municipal,Wholesale,Online,19.8,Children,49702
+PW2006,Dasani,3.64,0.81,North America,Bottle,Distilled,7.36,342,Rainwater,Supermarket,Online,16.9,Teenagers,39059
+PW2007,Nestle Pure Life,0.8,0.42,Europe,Bottle,Distilled,8.24,182,Natural Spring,Pharmacy,Online,10.3,Children,25263
+PW2008,Perrier,3.02,1.19,Africa,Bottle,Alkaline,6.81,343,Rainwater,Wholesale,Offline,9.8,Adults,23606
+PW2009,Evian,4.82,0.61,North America,Can,Sparkling,7.21,482,Well,Supermarket,Online,6.9,Teenagers,49254
+PW2010,Perrier,0.76,0.89,Asia,Can,Mineral,6.24,319,Municipal,Supermarket,Offline,9.2,Adults,17413
+PW2011,San Pellegrino,4.35,1.11,Africa,Box,Purified,6.43,176,Filtered,Wholesale,Offline,19.1,Children,22717
+PW2012,Aquafina,2.52,1.49,Asia,Bottle,Spring,8.54,322,Rainwater,Online,Online,9.1,Teenagers,23922
+PW2013,San Pellegrino,0.81,0.46,South America,Bottle,Sparkling,8.1,177,Municipal,Convenience Store,Online,21.6,Adults,22293
+PW2014,Voss,0.84,1.57,Europe,Can,Purified,6.14,368,Municipal,Wholesale,Offline,14.5,Children,15944
+PW2015,Voss,3.51,0.27,Europe,Box,Sparkling,7.95,144,Rainwater,Online,Offline,17,Adults,17116
+PW2016,Evian,2.6,0.59,Asia,Box,Purified,6.66,176,Rainwater,Pharmacy,Online,9.2,Children,33976
+PW2017,Dasani,3.21,1,Australia,Pouch,Sparkling,8.08,455,Filtered,Online,Offline,5.7,Elderly,16448
+PW2018,Aquafina,4.02,0.44,Australia,Bottle,Purified,6.15,425,Municipal,Online,Online,9.4,Teenagers,41727
+PW2019,Aquafina,0.72,1.4,Asia,Bottle,Alkaline,6.3,255,Well,Convenience Store,Online,14.2,Children,25820
+PW2020,Evian,4.35,1.33,Europe,Can,Alkaline,8.04,309,Municipal,Convenience Store,Online,18.2,Elderly,47118
+PW2021,Fiji,0.7,1.59,Australia,Box,Spring,6.72,259,Filtered,Pharmacy,Offline,18.3,Teenagers,13096
+PW2022,Perrier,3.21,1.19,Africa,Can,Sparkling,6.11,284,Rainwater,Pharmacy,Offline,6.8,Teenagers,15323
+PW2023,Dasani,3.1,1.71,Africa,Box,Alkaline,7.96,88,Natural Spring,Online,Offline,5.6,Children,14392
+PW2024,San Pellegrino,2.48,1.18,Australia,Box,Alkaline,8.92,161,Municipal,Convenience Store,Online,21.7,Elderly,46192
+PW2025,Dasani,4.38,1.7,Africa,Box,Spring,7.47,260,Natural Spring,Wholesale,Online,14,Elderly,14839
+PW2026,Aquafina,0.59,0.64,North America,Can,Alkaline,6.23,157,Natural Spring,Supermarket,Offline,19.7,Children,5505
+PW2027,Evian,2.05,1.7,Australia,Box,Purified,7.29,494,Municipal,Convenience Store,Offline,20.2,Elderly,13509
+PW2028,Voss,4.07,1.66,Africa,Can,Alkaline,8.01,276,Natural Spring,Online,Online,15.3,Elderly,41857
+PW2029,San Pellegrino,2.62,0.65,North America,Bottle,Mineral,6.91,333,Municipal,Online,Offline,22.6,Adults,49029
+PW2030,Smartwater,3.61,0.31,Asia,Can,Sparkling,7.97,460,Well,Online,Offline,17.2,Children,9856
+PW2031,Perrier,1.78,1.06,Australia,Pouch,Spring,7.54,492,Well,Pharmacy,Online,20.9,Teenagers,37849
+PW2032,Perrier,4.38,0.22,Asia,Pouch,Purified,6.67,94,Rainwater,Pharmacy,Online,14.7,Teenagers,3149
+PW2033,Dasani,2.7,0.27,North America,Pouch,Alkaline,8,375,Municipal,Online,Online,12.4,Adults,24306
+PW2034,Evian,1.24,0.72,Asia,Can,Sparkling,7.3,359,Filtered,Pharmacy,Offline,18.5,Elderly,38571
+PW2035,Nestle Pure Life,4.31,0.58,Australia,Box,Spring,7.96,428,Rainwater,Wholesale,Offline,12.2,Adults,36978
+PW2036,Perrier,2.94,1.71,Europe,Pouch,Alkaline,6.56,466,Rainwater,Wholesale,Offline,21,Elderly,20024
+PW2037,Aquafina,2.92,1.13,Europe,Pouch,Alkaline,7.85,324,Well,Supermarket,Online,20.7,Adults,39127
+PW2038,Nestle Pure Life,3.8,0.76,South America,Can,Sparkling,8.92,221,Rainwater,Wholesale,Online,13.3,Elderly,42786
+PW2039,Fiji,2.96,0.95,Africa,Bottle,Alkaline,6.94,291,Well,Convenience Store,Offline,20.3,Elderly,30302
+PW2040,Fiji,4.99,0.44,Australia,Bottle,Alkaline,7.32,284,Natural Spring,Wholesale,Online,12.5,Elderly,26555
+PW2041,Evian,3.07,1.57,Australia,Can,Alkaline,7.59,301,Well,Supermarket,Offline,10.3,Adults,41494
+PW2042,Nestle Pure Life,0.82,1.56,North America,Can,Alkaline,6.48,390,Natural Spring,Pharmacy,Offline,8,Teenagers,29246
+PW2043,San Pellegrino,0.7,1.15,Australia,Can,Sparkling,6.02,301,Well,Convenience Store,Online,20.5,Elderly,25870
+PW2044,Smartwater,0.69,0.4,Australia,Pouch,Alkaline,6.35,290,Municipal,Supermarket,Offline,8.1,Teenagers,20929
+PW2045,San Pellegrino,3.16,1.32,Africa,Can,Mineral,7.3,475,Natural Spring,Wholesale,Offline,14.8,Children,40972
+PW2046,San Pellegrino,1.29,1.56,Asia,Bottle,Purified,8.73,83,Natural Spring,Supermarket,Online,8.5,Elderly,41912
+PW2047,Dasani,4.74,1.93,Africa,Box,Sparkling,8.55,209,Well,Wholesale,Offline,14.1,Adults,30547
+PW2048,Fiji,3.3,0.33,Africa,Can,Alkaline,6.29,194,Municipal,Online,Online,6.1,Adults,2186
+PW2049,Voss,3.29,1.99,North America,Can,Sparkling,7.09,158,Natural Spring,Convenience Store,Offline,11.2,Children,27279
+PW2050,Perrier,4.73,0.56,South America,Bottle,Distilled,7.87,269,Rainwater,Pharmacy,Online,9.3,Elderly,9726
+PW2051,Smartwater,4.27,0.89,Africa,Can,Alkaline,7.26,61,Natural Spring,Wholesale,Online,15.2,Adults,1978
+PW2052,Fiji,2.49,0.31,Australia,Box,Purified,8.06,83,Rainwater,Supermarket,Online,15.6,Elderly,11414
+PW2053,Voss,4.11,1.64,Australia,Box,Mineral,6.55,461,Filtered,Wholesale,Offline,4.8,Children,7194
+PW2054,Dasani,4.04,1.61,Europe,Can,Distilled,7.51,494,Municipal,Supermarket,Online,6.6,Teenagers,6979
+PW2055,Dasani,1.45,0.77,Europe,Box,Distilled,6.11,413,Natural Spring,Wholesale,Online,10.7,Adults,48755
+PW2056,Evian,3.86,0.51,South America,Box,Mineral,8.73,267,Rainwater,Wholesale,Offline,9.1,Teenagers,42592
+PW2057,Perrier,4.16,1.03,Australia,Can,Purified,6.76,333,Natural Spring,Pharmacy,Offline,17.1,Teenagers,23316
+PW2058,Fiji,2.33,1.65,South America,Pouch,Sparkling,7.52,469,Well,Convenience Store,Online,17.8,Teenagers,40513
+PW2059,Dasani,3.65,0.31,North America,Pouch,Spring,8.19,493,Natural Spring,Convenience Store,Offline,11.8,Adults,12247
+PW2060,Dasani,2.76,0.26,Asia,Can,Purified,8.6,424,Filtered,Pharmacy,Online,9.8,Children,39277
+PW2061,Nestle Pure Life,3.94,1.09,North America,Can,Spring,6.2,282,Well,Wholesale,Offline,13.8,Teenagers,5153
+PW2062,Dasani,4.2,1.67,Asia,Pouch,Spring,6.13,308,Municipal,Online,Offline,20.4,Elderly,11372
+PW2063,Voss,1.72,1.85,Africa,Box,Mineral,7.56,290,Rainwater,Supermarket,Offline,18.1,Children,45935
+PW2064,Perrier,3.24,1.15,Africa,Bottle,Purified,8.55,445,Rainwater,Convenience Store,Offline,18.9,Elderly,46391
+PW2065,Voss,2.93,1.44,Europe,Pouch,Purified,8.91,275,Municipal,Wholesale,Online,16.8,Teenagers,35814
+PW2066,Smartwater,2.78,0.23,Africa,Bottle,Mineral,8.84,159,Natural Spring,Online,Online,4.3,Adults,18333
+PW2067,Nestle Pure Life,4.8,1.38,Africa,Bottle,Spring,8.51,165,Well,Convenience Store,Offline,5.6,Teenagers,19005
+PW2068,Voss,3.59,0.94,Africa,Box,Sparkling,6.59,125,Municipal,Convenience Store,Online,21,Elderly,14215
+PW2069,San Pellegrino,1.64,0.39,Africa,Bottle,Distilled,6.48,329,Rainwater,Wholesale,Offline,22.7,Elderly,49473
+PW2070,San Pellegrino,2.63,1.68,Africa,Can,Sparkling,6.75,346,Natural Spring,Supermarket,Offline,6.8,Teenagers,18959
+PW2071,Aquafina,0.66,0.26,Africa,Pouch,Sparkling,8.92,394,Municipal,Convenience Store,Offline,10.6,Adults,45528
+PW2072,Perrier,2.97,0.37,North America,Bottle,Alkaline,7.54,217,Natural Spring,Pharmacy,Online,5.9,Children,28117
+PW2073,Evian,2.66,0.86,Africa,Pouch,Distilled,6.96,214,Well,Online,Online,7.7,Children,26599
+PW2074,Evian,4.62,1.71,Australia,Box,Spring,7.34,342,Natural Spring,Convenience Store,Online,11.1,Elderly,46880
+PW2075,Voss,3.54,0.94,North America,Can,Purified,6.84,128,Filtered,Pharmacy,Offline,9.3,Teenagers,48207
+PW2076,Perrier,1,0.68,South America,Pouch,Mineral,8.39,369,Natural Spring,Pharmacy,Online,22,Teenagers,45943
+PW2077,San Pellegrino,1.3,1.93,Europe,Bottle,Sparkling,7.55,321,Well,Supermarket,Offline,14.5,Elderly,39331
+PW2078,San Pellegrino,4.1,0.75,South America,Pouch,Purified,8.83,334,Natural Spring,Supermarket,Offline,6.4,Teenagers,2829
+PW2079,Smartwater,1.29,1.62,North America,Can,Sparkling,7.29,464,Filtered,Online,Online,6,Elderly,33569
+PW2080,San Pellegrino,3.56,0.76,Europe,Bottle,Mineral,8.44,218,Natural Spring,Online,Online,23.4,Adults,14221
+PW2081,Evian,3.86,1.03,Australia,Pouch,Alkaline,8.72,120,Rainwater,Convenience Store,Online,22.8,Teenagers,11794
+PW2082,Fiji,3.99,0.28,Africa,Box,Mineral,8.52,395,Filtered,Convenience Store,Online,13.8,Adults,8796
+PW2083,Aquafina,2.32,0.87,North America,Pouch,Spring,6.41,102,Municipal,Pharmacy,Online,17.5,Teenagers,33563
+PW2084,Dasani,3.28,1.48,North America,Bottle,Purified,7.09,450,Well,Online,Offline,23.6,Teenagers,28835
+PW2085,Nestle Pure Life,2.58,1.27,Asia,Pouch,Mineral,8.42,149,Municipal,Convenience Store,Offline,6.5,Teenagers,34830
+PW2086,Dasani,1.72,1.49,Asia,Can,Distilled,8.88,323,Municipal,Convenience Store,Offline,20.7,Elderly,48805
+PW2087,Perrier,2.42,1.13,North America,Bottle,Spring,8.46,463,Municipal,Online,Offline,5.6,Children,11427
+PW2088,Voss,4.26,1.65,North America,Pouch,Spring,6.07,169,Rainwater,Supermarket,Offline,5.3,Adults,10222
+PW2089,San Pellegrino,4.64,0.54,South America,Pouch,Distilled,8.86,413,Natural Spring,Pharmacy,Offline,23.7,Elderly,30503
+PW2090,Voss,2.88,1.82,Asia,Can,Purified,8.88,292,Municipal,Supermarket,Offline,24.1,Elderly,27839
+PW2091,Smartwater,0.93,1.93,Africa,Box,Sparkling,8.34,348,Well,Pharmacy,Online,19.2,Adults,49300
+PW2092,Nestle Pure Life,1.27,0.87,Australia,Box,Spring,8.7,120,Natural Spring,Wholesale,Offline,22.1,Elderly,8636
+PW2093,Aquafina,2.97,1.31,North America,Pouch,Distilled,7.76,470,Municipal,Wholesale,Offline,8.7,Teenagers,18370
+PW2094,Smartwater,3.52,1.41,Australia,Box,Mineral,7.93,128,Municipal,Wholesale,Online,23.7,Children,38311
+PW2095,Dasani,4.4,1.35,North America,Box,Distilled,8.51,303,Natural Spring,Supermarket,Online,22.2,Elderly,8540
+PW2096,Nestle Pure Life,3.38,1.1,Africa,Box,Mineral,7.62,422,Natural Spring,Supermarket,Offline,5.5,Adults,26068
+PW2097,Voss,1.5,0.74,Europe,Pouch,Sparkling,6.73,466,Filtered,Supermarket,Online,16.8,Teenagers,1064
+PW2098,Dasani,1.72,0.6,Asia,Box,Purified,7.57,448,Natural Spring,Wholesale,Offline,17.4,Elderly,45310
+PW2099,Evian,0.6,1.85,South America,Can,Alkaline,8.54,301,Filtered,Supermarket,Online,6.5,Teenagers,45823
+PW2100,Perrier,0.65,1.78,Australia,Bottle,Alkaline,8.76,403,Rainwater,Convenience Store,Offline,21.3,Elderly,28918
+PW2101,Dasani,1.21,1.21,Europe,Can,Distilled,7.78,275,Municipal,Convenience Store,Online,12.6,Teenagers,22124
+PW2102,Smartwater,1.72,1.38,North America,Box,Mineral,7.59,139,Rainwater,Pharmacy,Offline,12,Adults,47005
+PW2103,Fiji,2.93,1.04,South America,Can,Distilled,7.78,148,Natural Spring,Convenience Store,Offline,10.1,Elderly,29507
+PW2104,Voss,4.2,1.61,South America,Box,Distilled,8.1,140,Filtered,Convenience Store,Online,13.5,Teenagers,13914
+PW2105,Dasani,1.17,1.85,South America,Can,Purified,7.84,347,Natural Spring,Pharmacy,Online,9.5,Elderly,42829
+PW2106,Voss,2.62,0.5,Africa,Bottle,Spring,8.05,83,Natural Spring,Supermarket,Online,17.8,Children,11434
+PW2107,Smartwater,2.39,1.26,Africa,Bottle,Purified,7.78,328,Well,Convenience Store,Online,23.8,Elderly,41825
+PW2108,Smartwater,2.63,1.37,Asia,Pouch,Distilled,6.72,181,Rainwater,Pharmacy,Online,6.2,Adults,46621
+PW2109,San Pellegrino,1.01,1.53,South America,Can,Mineral,6.18,350,Natural Spring,Supermarket,Offline,19.5,Adults,9410
+PW2110,Voss,3.55,0.51,Asia,Box,Distilled,8.66,170,Well,Convenience Store,Offline,20.6,Adults,2948
+PW2111,Dasani,2.29,1.5,Asia,Bottle,Mineral,8.91,425,Rainwater,Supermarket,Online,18.7,Elderly,18304
+PW2112,Dasani,4.91,1.17,Asia,Pouch,Distilled,6.53,97,Municipal,Supermarket,Online,14.7,Teenagers,46641
+PW2113,Smartwater,2.83,1.81,Asia,Pouch,Distilled,7.72,232,Natural Spring,Online,Online,24.4,Children,25853
+PW2114,Dasani,2.48,1.67,Australia,Bottle,Mineral,6.23,325,Well,Pharmacy,Online,10.3,Children,27763
+PW2115,San Pellegrino,0.87,0.56,Africa,Bottle,Alkaline,7.53,456,Municipal,Wholesale,Online,17.6,Elderly,35934
+PW2116,Perrier,4.77,1.35,North America,Bottle,Sparkling,7.1,376,Filtered,Wholesale,Offline,23.9,Elderly,2613
+PW2117,San Pellegrino,1.14,1.34,Europe,Bottle,Spring,6.36,302,Filtered,Pharmacy,Online,19.3,Elderly,32157
+PW2118,Smartwater,4.64,1.66,South America,Can,Spring,6.5,399,Rainwater,Wholesale,Offline,8,Children,29892
+PW2119,Aquafina,1.95,1.13,Europe,Box,Distilled,8.24,76,Well,Pharmacy,Online,13.5,Teenagers,27730
+PW2120,Perrier,1.88,0.76,Asia,Bottle,Purified,7.92,123,Well,Supermarket,Online,11.7,Elderly,8268
+PW2121,Nestle Pure Life,4.02,1.21,South America,Bottle,Alkaline,8.4,433,Municipal,Supermarket,Online,15,Elderly,24475
+PW2122,Aquafina,1.75,1.62,Europe,Box,Spring,6.44,387,Natural Spring,Supermarket,Offline,11.9,Elderly,1684
+PW2123,Dasani,3.45,0.58,North America,Can,Distilled,8.87,94,Natural Spring,Wholesale,Online,6.7,Adults,24240
+PW2124,Smartwater,4.92,1.76,Europe,Bottle,Sparkling,8.89,467,Rainwater,Wholesale,Online,4.1,Teenagers,28242
+PW2125,Smartwater,1.6,1.54,Asia,Can,Purified,8.97,434,Filtered,Convenience Store,Online,10.9,Adults,11176
+PW2126,Smartwater,2.26,0.97,Europe,Bottle,Purified,7.15,51,Municipal,Convenience Store,Online,9.4,Children,19616
+PW2127,Nestle Pure Life,1.99,0.36,Asia,Pouch,Alkaline,7.66,426,Rainwater,Online,Offline,11.7,Teenagers,34073
+PW2128,Perrier,2.4,0.5,North America,Pouch,Purified,8.02,419,Well,Pharmacy,Offline,9.2,Elderly,15620
+PW2129,San Pellegrino,2.23,0.35,Australia,Pouch,Distilled,6.13,138,Rainwater,Convenience Store,Offline,23.9,Teenagers,48503
+PW2130,San Pellegrino,3.34,1.98,Asia,Box,Distilled,6.82,177,Municipal,Convenience Store,Online,6.3,Adults,8984
+PW2131,Perrier,2.57,1.83,Africa,Box,Sparkling,7.02,267,Well,Online,Online,24.4,Elderly,48339
+PW2132,Fiji,4.7,0.32,South America,Bottle,Distilled,7.84,107,Well,Online,Offline,6,Teenagers,44955
+PW2133,Perrier,4.4,1.82,Australia,Can,Sparkling,6.21,75,Filtered,Supermarket,Offline,20.5,Adults,43370
+PW2134,Evian,1.62,1.29,North America,Can,Sparkling,7.54,403,Rainwater,Convenience Store,Online,13.4,Teenagers,20517
+PW2135,Dasani,0.81,1.72,Europe,Can,Distilled,7.39,434,Rainwater,Convenience Store,Offline,21,Elderly,3756
+PW2136,Fiji,1.68,0.39,Asia,Box,Alkaline,8.15,148,Rainwater,Wholesale,Online,6.1,Adults,12760
+PW2137,San Pellegrino,2.66,0.53,Europe,Pouch,Mineral,8.54,279,Filtered,Pharmacy,Offline,17,Children,5231
+PW2138,Perrier,3.36,0.86,Australia,Pouch,Sparkling,8.56,462,Municipal,Pharmacy,Online,16.4,Adults,2195
+PW2139,Dasani,4.69,0.62,Australia,Bottle,Alkaline,6.26,422,Rainwater,Convenience Store,Online,4.8,Children,22734
+PW2140,Fiji,1.54,0.29,Africa,Box,Distilled,7.49,346,Rainwater,Convenience Store,Online,18.6,Teenagers,26846
+PW2141,San Pellegrino,2.48,1.56,Asia,Bottle,Distilled,6.13,228,Rainwater,Supermarket,Online,15.6,Teenagers,24888
+PW2142,Aquafina,2.57,0.7,Asia,Pouch,Spring,6.27,226,Natural Spring,Supermarket,Online,6.2,Adults,15252
+PW2143,Dasani,2.65,1.03,South America,Pouch,Spring,8.44,317,Municipal,Online,Online,14.7,Children,5417
+PW2144,Evian,1.42,0.86,Australia,Bottle,Spring,7.7,62,Filtered,Wholesale,Online,24,Children,9565
+PW2145,Aquafina,4.28,1.57,Africa,Can,Sparkling,7.03,302,Filtered,Wholesale,Online,4.7,Children,15927
+PW2146,Dasani,3.93,0.46,North America,Pouch,Sparkling,6.75,359,Municipal,Pharmacy,Online,21.2,Elderly,16451
+PW2147,Perrier,1.79,1.71,Australia,Bottle,Mineral,7.32,160,Municipal,Pharmacy,Online,21.4,Elderly,32484
+PW2148,Dasani,1.62,1.17,Australia,Can,Sparkling,8.28,431,Natural Spring,Convenience Store,Online,5.9,Adults,15559
+PW2149,San Pellegrino,4.83,0.9,North America,Box,Spring,6.87,132,Natural Spring,Convenience Store,Online,6.1,Children,47691
+PW2150,Smartwater,0.91,0.6,Asia,Pouch,Distilled,6.28,431,Natural Spring,Pharmacy,Offline,20.9,Adults,6411
+PW2151,Perrier,2.48,1.82,Australia,Bottle,Distilled,7.64,443,Natural Spring,Supermarket,Online,23,Teenagers,15430
+PW2152,Aquafina,0.89,1.11,North America,Bottle,Purified,6.35,449,Municipal,Supermarket,Offline,12.5,Children,44708
+PW2153,Fiji,3.53,0.49,Africa,Can,Distilled,6.73,225,Municipal,Convenience Store,Online,6,Elderly,26573
+PW2154,Evian,1.33,0.57,South America,Box,Alkaline,6.69,436,Rainwater,Wholesale,Online,8.8,Teenagers,10868
+PW2155,Evian,1.47,1.59,North America,Can,Mineral,6.93,463,Natural Spring,Convenience Store,Offline,8.8,Teenagers,46469
+PW2156,Nestle Pure Life,3.78,1.92,Australia,Bottle,Distilled,6.07,66,Well,Online,Online,5.5,Adults,9576
+PW2157,Aquafina,3.32,0.8,Australia,Can,Alkaline,7.73,130,Natural Spring,Pharmacy,Online,20.9,Children,21808
+PW2158,Voss,3.24,0.51,South America,Pouch,Distilled,7.27,458,Natural Spring,Pharmacy,Offline,5.9,Children,23312
+PW2159,Evian,3.51,0.92,Australia,Bottle,Mineral,7.84,260,Filtered,Pharmacy,Online,4.3,Children,6088
+PW2160,Aquafina,1.07,0.97,Europe,Box,Sparkling,8.15,493,Rainwater,Supermarket,Online,8.3,Adults,12153
+PW2161,San Pellegrino,4.89,1.59,North America,Pouch,Mineral,8.11,467,Filtered,Online,Offline,24.8,Children,41683
+PW2162,Nestle Pure Life,2.48,1.55,South America,Pouch,Purified,8.65,118,Natural Spring,Pharmacy,Offline,13.3,Adults,25679
+PW2163,Fiji,4.96,0.69,Asia,Can,Distilled,7.77,237,Filtered,Pharmacy,Online,9.9,Adults,22419
+PW2164,Smartwater,1.52,1.95,Africa,Box,Distilled,6.97,93,Natural Spring,Supermarket,Offline,10.1,Elderly,45357
+PW2165,Aquafina,1.63,0.91,Europe,Pouch,Sparkling,6.96,121,Well,Pharmacy,Offline,19.3,Children,47861
+PW2166,Perrier,4.68,0.43,Africa,Pouch,Spring,8.9,496,Rainwater,Convenience Store,Offline,23.6,Teenagers,25556
+PW2167,Fiji,3.02,1,Europe,Can,Mineral,6.21,499,Filtered,Online,Online,7.8,Children,9511
+PW2168,Voss,1.97,1.82,Africa,Box,Alkaline,6.24,315,Natural Spring,Supermarket,Online,14.8,Adults,35637
+PW2169,Evian,3.54,1.84,Asia,Box,Mineral,8.46,372,Municipal,Wholesale,Offline,14.9,Adults,37311
+PW2170,Voss,4.08,0.91,South America,Can,Spring,8.74,128,Well,Supermarket,Offline,9.6,Elderly,44490
+PW2171,Smartwater,2.31,0.42,Europe,Box,Alkaline,7.52,191,Natural Spring,Online,Online,13.4,Adults,41845
+PW2172,Dasani,4.58,1.94,Australia,Pouch,Spring,6.2,450,Well,Wholesale,Online,13,Adults,28978
+PW2173,Smartwater,4.94,1.29,South America,Bottle,Distilled,8.25,256,Natural Spring,Pharmacy,Online,17.2,Teenagers,35389
+PW2174,Evian,4.3,1.9,Australia,Box,Distilled,8.97,121,Municipal,Pharmacy,Offline,21.4,Teenagers,32287
+PW2175,San Pellegrino,2.74,0.48,North America,Bottle,Purified,7.16,494,Municipal,Pharmacy,Offline,24.2,Adults,15432
+PW2176,Fiji,4.79,1.46,Australia,Can,Purified,6.16,85,Well,Supermarket,Offline,22.5,Teenagers,41188
+PW2177,Evian,1.93,0.89,Africa,Pouch,Mineral,7.74,299,Natural Spring,Pharmacy,Online,12.3,Teenagers,42397
+PW2178,Aquafina,4.49,0.9,Asia,Box,Sparkling,6.6,160,Well,Supermarket,Online,15.2,Children,12597
+PW2179,Nestle Pure Life,3.35,0.77,Africa,Bottle,Sparkling,6.55,188,Natural Spring,Pharmacy,Online,4.4,Adults,3843
+PW2180,Voss,4.9,1.71,Europe,Bottle,Distilled,6.62,152,Well,Convenience Store,Offline,15.4,Elderly,15562
+PW2181,Nestle Pure Life,1.22,0.27,Europe,Pouch,Alkaline,7.32,207,Filtered,Pharmacy,Offline,10.9,Elderly,37403
+PW2182,Evian,3.33,1.42,Europe,Pouch,Distilled,8.79,58,Filtered,Convenience Store,Online,13.5,Elderly,6428
+PW2183,Fiji,3.72,0.96,Europe,Box,Purified,8.32,85,Natural Spring,Supermarket,Online,12.4,Elderly,8992
+PW2184,Aquafina,4.82,1.33,South America,Box,Alkaline,6.57,283,Municipal,Convenience Store,Offline,20.2,Adults,9096
+PW2185,Smartwater,4.63,0.96,Africa,Pouch,Mineral,6.69,103,Municipal,Online,Online,8.2,Adults,39619
+PW2186,Evian,0.89,1.78,South America,Pouch,Sparkling,7.02,377,Well,Wholesale,Offline,4.4,Elderly,39299
+PW2187,Fiji,1.53,0.4,Europe,Can,Mineral,6.72,374,Well,Online,Offline,12,Teenagers,5669
+PW2188,San Pellegrino,4.07,1.25,North America,Box,Purified,7.94,124,Municipal,Online,Online,17.2,Children,21696
+PW2189,Evian,3.12,1.84,South America,Can,Spring,8.28,352,Filtered,Online,Online,13.6,Elderly,33735
+PW2190,Voss,2.62,0.56,Europe,Bottle,Purified,8.35,315,Well,Online,Online,6.6,Adults,5878
+PW2191,Fiji,3.82,1.14,South America,Box,Mineral,6.61,194,Filtered,Convenience Store,Online,18.8,Teenagers,22973
+PW2192,San Pellegrino,3.81,1.14,Asia,Bottle,Purified,8.87,221,Well,Wholesale,Online,4.8,Children,47197
+PW2193,Voss,0.64,0.21,South America,Can,Alkaline,7.84,85,Filtered,Wholesale,Offline,12.4,Elderly,29534
+PW2194,Fiji,2.94,0.35,Europe,Bottle,Spring,7.49,147,Well,Wholesale,Offline,20,Elderly,49231
+PW2195,Perrier,2.19,1.51,North America,Pouch,Distilled,7.13,314,Well,Supermarket,Online,16.2,Elderly,13079
+PW2196,Dasani,2.08,0.95,Europe,Bottle,Mineral,8.32,302,Well,Pharmacy,Offline,20.3,Elderly,4088
+PW2197,Voss,3.3,0.49,Africa,Pouch,Sparkling,7.1,131,Natural Spring,Online,Online,8.4,Children,7744
+PW2198,Nestle Pure Life,1.38,0.85,Europe,Can,Purified,8.74,434,Well,Online,Offline,19.5,Elderly,16659
+PW2199,San Pellegrino,4.08,1.96,Asia,Can,Purified,6.6,60,Filtered,Supermarket,Online,23.9,Teenagers,34990
+PW2200,Aquafina,3.02,1.96,Africa,Can,Purified,6.36,425,Natural Spring,Online,Offline,20.5,Teenagers,26396
+PW2201,Nestle Pure Life,3.6,0.38,Asia,Can,Distilled,6.22,192,Rainwater,Supermarket,Offline,20.3,Elderly,44251
+PW2202,Perrier,4.16,1.51,South America,Box,Alkaline,7.37,330,Filtered,Convenience Store,Online,9.2,Teenagers,11625
+PW2203,San Pellegrino,4.21,0.78,Asia,Pouch,Distilled,8.29,457,Natural Spring,Online,Offline,20.1,Teenagers,21674
+PW2204,San Pellegrino,4.15,0.84,Europe,Box,Alkaline,8.07,91,Filtered,Wholesale,Offline,14.4,Children,48378
+PW2205,Voss,4.57,0.28,South America,Pouch,Spring,6.84,220,Well,Wholesale,Offline,17.9,Adults,39519
+PW2206,Smartwater,4.69,2,North America,Bottle,Distilled,7.36,451,Municipal,Wholesale,Online,19.1,Elderly,49627
+PW2207,Voss,1.8,1.98,Asia,Can,Spring,8.55,103,Natural Spring,Wholesale,Online,11.7,Adults,33421
+PW2208,Dasani,2.96,0.56,South America,Can,Mineral,8.13,121,Well,Convenience Store,Offline,11,Elderly,28157
+PW2209,Perrier,3.72,1.32,Africa,Box,Distilled,6.79,171,Natural Spring,Wholesale,Offline,11.4,Teenagers,25864
+PW2210,Smartwater,4.12,0.6,South America,Box,Sparkling,8.46,426,Well,Supermarket,Online,5.4,Children,24351
+PW2211,Voss,1.36,0.36,Australia,Box,Alkaline,6.03,218,Rainwater,Wholesale,Offline,7.5,Adults,29645
+PW2212,Perrier,3.12,0.54,Africa,Box,Sparkling,8.32,255,Natural Spring,Online,Offline,22.2,Elderly,31857
+PW2213,Aquafina,1.53,1.72,South America,Pouch,Mineral,8.28,437,Municipal,Supermarket,Offline,6.2,Adults,30582
+PW2214,Fiji,2.13,1.38,Africa,Can,Alkaline,8.36,376,Municipal,Wholesale,Offline,9.6,Elderly,9042
+PW2215,Evian,4.1,1.52,Europe,Bottle,Alkaline,6.85,93,Natural Spring,Pharmacy,Offline,14.5,Elderly,25439
+PW2216,San Pellegrino,4.68,1.26,South America,Bottle,Sparkling,6.92,251,Well,Convenience Store,Offline,15,Adults,29294
+PW2217,Dasani,1.37,0.48,North America,Pouch,Mineral,7.28,470,Municipal,Convenience Store,Offline,23.5,Adults,21017
+PW2218,Voss,1.74,1.52,Europe,Box,Distilled,7.17,361,Rainwater,Wholesale,Offline,21.3,Elderly,34306
+PW2219,Perrier,3.38,1.5,Europe,Bottle,Alkaline,7.64,318,Well,Online,Offline,6.6,Children,1970
+PW2220,Nestle Pure Life,3.67,1.89,North America,Box,Purified,8.55,74,Rainwater,Supermarket,Offline,10.5,Children,34528
+PW2221,Dasani,1.63,1.4,Africa,Box,Spring,8.86,495,Filtered,Wholesale,Online,9.1,Elderly,36682
+PW2222,Perrier,2.76,0.46,Africa,Box,Sparkling,7.54,366,Well,Pharmacy,Online,19.7,Elderly,6192
+PW2223,Aquafina,0.69,1.16,Australia,Box,Sparkling,7.21,295,Rainwater,Pharmacy,Offline,7.9,Adults,25803
+PW2224,San Pellegrino,1.52,1.21,Asia,Bottle,Distilled,7.69,278,Natural Spring,Supermarket,Offline,21,Children,32376
+PW2225,Smartwater,1.08,0.25,North America,Bottle,Sparkling,7.1,93,Well,Convenience Store,Online,16.2,Elderly,32001
+PW2226,San Pellegrino,1.03,1.62,Europe,Can,Spring,8.04,498,Municipal,Online,Offline,21.4,Children,27424
+PW2227,Dasani,2,1.89,Africa,Box,Spring,6.14,397,Rainwater,Wholesale,Offline,22.5,Children,1724
+PW2228,Aquafina,1.08,1.46,Asia,Bottle,Mineral,7.84,498,Natural Spring,Supermarket,Online,5.4,Elderly,23573
+PW2229,Fiji,4.4,1.55,Africa,Box,Distilled,8.65,55,Rainwater,Online,Offline,16.1,Children,26955
+PW2230,Voss,0.53,1.82,Australia,Box,Distilled,7.69,136,Filtered,Pharmacy,Online,19.1,Adults,2981
+PW2231,Evian,1.5,0.82,Europe,Bottle,Alkaline,8.16,253,Municipal,Online,Online,6.5,Elderly,36071
+PW2232,San Pellegrino,4.35,0.21,Europe,Pouch,Sparkling,8.38,456,Well,Online,Offline,16.2,Children,25806
+PW2233,San Pellegrino,3.68,0.54,Australia,Bottle,Spring,6.49,474,Rainwater,Convenience Store,Online,10.9,Teenagers,33455
+PW2234,Aquafina,2.81,0.85,North America,Bottle,Mineral,6.9,483,Filtered,Online,Offline,12.4,Adults,1423
+PW2235,Voss,2.02,1.83,Africa,Box,Distilled,6.95,72,Well,Supermarket,Offline,22.7,Children,12626
+PW2236,Aquafina,0.88,0.74,North America,Pouch,Spring,7.03,107,Natural Spring,Supermarket,Online,23.9,Adults,29010
+PW2237,Fiji,4.28,0.98,Africa,Can,Mineral,6.79,252,Well,Supermarket,Offline,15.2,Children,10472
+PW2238,Evian,0.64,1.17,North America,Box,Alkaline,8.69,350,Well,Supermarket,Online,18.4,Elderly,36656
+PW2239,Smartwater,3.89,1.85,South America,Can,Alkaline,6.77,415,Municipal,Wholesale,Offline,13.9,Elderly,24278
+PW2240,Voss,0.61,1.73,Asia,Can,Sparkling,6.09,393,Rainwater,Supermarket,Offline,16.3,Adults,24966
+PW2241,Evian,2.58,1.82,Europe,Pouch,Spring,6.72,53,Filtered,Pharmacy,Offline,8.3,Elderly,3060
+PW2242,Voss,0.94,1.34,Europe,Box,Alkaline,7.04,253,Rainwater,Convenience Store,Online,16.1,Teenagers,6933
+PW2243,Fiji,0.71,1.5,South America,Box,Sparkling,6.27,454,Well,Pharmacy,Online,7.4,Teenagers,24869
+PW2244,Voss,3.55,1.52,North America,Pouch,Alkaline,6.78,102,Rainwater,Convenience Store,Online,11.8,Teenagers,27722
+PW2245,Perrier,1.76,1.01,Australia,Bottle,Spring,7.59,252,Filtered,Online,Online,20.5,Teenagers,23468
+PW2246,Evian,1.6,1.97,Europe,Can,Mineral,8.72,188,Well,Supermarket,Offline,5.4,Children,10636
+PW2247,Voss,0.86,1.91,Australia,Pouch,Purified,8.48,466,Municipal,Convenience Store,Online,18.6,Children,48038
+PW2248,Dasani,4.58,0.88,Australia,Can,Spring,7.4,322,Municipal,Online,Online,11.6,Children,9003
+PW2249,Aquafina,1.31,0.25,Europe,Pouch,Alkaline,8.87,449,Rainwater,Wholesale,Online,6,Children,26665
+PW2250,Evian,4.38,1.1,North America,Can,Distilled,7.76,300,Natural Spring,Convenience Store,Online,14.6,Elderly,34219
+PW2251,San Pellegrino,0.73,0.41,North America,Box,Mineral,7.84,110,Municipal,Wholesale,Online,19.7,Elderly,25056
+PW2252,Smartwater,1.96,1.82,North America,Bottle,Distilled,8.06,113,Rainwater,Supermarket,Offline,8.8,Children,535
+PW2253,Nestle Pure Life,3.53,0.87,North America,Box,Spring,6.96,96,Filtered,Supermarket,Online,17.2,Children,4999
+PW2254,Dasani,0.84,1.51,Africa,Can,Sparkling,6.06,423,Rainwater,Supermarket,Online,23.8,Elderly,41708
+PW2255,Perrier,3.18,1.68,Europe,Bottle,Distilled,6.5,127,Natural Spring,Online,Online,11.3,Teenagers,1708
+PW2256,Smartwater,1.14,1.23,South America,Can,Spring,6.95,445,Rainwater,Online,Online,22.4,Elderly,25492
+PW2257,Aquafina,2.3,0.81,Europe,Box,Spring,8.74,384,Filtered,Supermarket,Online,8.8,Children,29063
+PW2258,San Pellegrino,1.39,1.77,Africa,Pouch,Alkaline,7.66,386,Natural Spring,Supermarket,Online,17,Teenagers,25016
+PW2259,Voss,2.69,0.68,Europe,Bottle,Spring,8.84,208,Rainwater,Pharmacy,Offline,7.6,Teenagers,829
+PW2260,Evian,4.61,1.41,Australia,Pouch,Alkaline,7.34,476,Rainwater,Online,Offline,5.6,Elderly,47831
+PW2261,Fiji,4.84,1.64,North America,Pouch,Purified,7.93,358,Rainwater,Pharmacy,Online,12.8,Adults,6513
+PW2262,Evian,2.06,0.37,Africa,Pouch,Sparkling,8.38,127,Municipal,Pharmacy,Offline,17,Children,38721
+PW2263,Voss,3.1,1.7,Africa,Can,Alkaline,6.24,229,Natural Spring,Convenience Store,Offline,11.3,Adults,31276
+PW2264,Nestle Pure Life,4.08,1.34,South America,Pouch,Purified,8.26,431,Filtered,Wholesale,Offline,20.3,Children,46811
+PW2265,San Pellegrino,1.57,1.56,South America,Box,Sparkling,6.9,434,Well,Pharmacy,Online,15.3,Teenagers,36387
+PW2266,San Pellegrino,3.63,1.27,Africa,Box,Spring,8.34,232,Well,Pharmacy,Online,8.8,Children,39997
+PW2267,Nestle Pure Life,3.97,1.31,North America,Box,Alkaline,7.2,230,Rainwater,Online,Online,16.9,Adults,27567
+PW2268,Dasani,4.41,1.05,Europe,Box,Alkaline,6.44,349,Municipal,Wholesale,Offline,21.3,Adults,28264
+PW2269,Aquafina,3.55,0.36,Europe,Box,Mineral,8.07,93,Well,Wholesale,Offline,13.3,Teenagers,31673
+PW2270,Smartwater,3.57,0.45,Europe,Can,Alkaline,8.95,340,Filtered,Wholesale,Online,22,Children,16773
+PW2271,Perrier,2.15,0.84,Australia,Can,Distilled,8.44,203,Well,Convenience Store,Offline,23.4,Teenagers,3248
+PW2272,Perrier,1,2,Europe,Can,Alkaline,6.14,330,Filtered,Online,Offline,13.1,Adults,31296
+PW2273,Voss,2.06,0.41,Australia,Pouch,Alkaline,6.07,474,Well,Convenience Store,Online,11.1,Teenagers,46348
+PW2274,Evian,2.09,0.39,North America,Bottle,Spring,6.42,331,Filtered,Online,Online,18.4,Adults,19300
+PW2275,Voss,1.39,0.28,Africa,Box,Purified,6.61,128,Well,Supermarket,Offline,12.1,Elderly,15143
+PW2276,Nestle Pure Life,4.97,0.22,Australia,Bottle,Purified,6.01,125,Municipal,Pharmacy,Offline,22.2,Children,25951
+PW2277,Dasani,3.21,1.47,Asia,Can,Purified,7.65,346,Well,Pharmacy,Online,9.5,Children,44755
+PW2278,Aquafina,2.38,0.47,Europe,Can,Distilled,6.97,417,Well,Pharmacy,Offline,6.2,Children,21815
+PW2279,Perrier,3.63,0.52,North America,Box,Alkaline,6.49,214,Municipal,Wholesale,Offline,24,Elderly,14072
+PW2280,Perrier,1.39,1.04,Asia,Box,Distilled,7.98,267,Filtered,Online,Offline,13.5,Adults,8007
+PW2281,Evian,2.03,1.47,Europe,Bottle,Purified,6.37,307,Well,Convenience Store,Online,9.1,Teenagers,19330
+PW2282,Dasani,2.22,1.01,South America,Pouch,Purified,6.51,212,Filtered,Pharmacy,Online,5.2,Adults,32237
+PW2283,Aquafina,3.35,0.36,Asia,Can,Purified,6.01,309,Well,Convenience Store,Online,18.7,Teenagers,5089
+PW2284,Evian,4.92,1.91,North America,Can,Spring,8.51,147,Rainwater,Online,Offline,22.3,Children,33348
+PW2285,Dasani,2.5,0.62,Asia,Can,Distilled,7.11,223,Filtered,Supermarket,Online,11.8,Children,44283
+PW2286,San Pellegrino,4.12,1.46,North America,Can,Distilled,8.94,191,Well,Convenience Store,Online,21.5,Elderly,38156
+PW2287,Voss,2.94,1.34,Asia,Bottle,Distilled,8.48,92,Filtered,Wholesale,Online,4.1,Teenagers,43151
+PW2288,Dasani,3.45,1.6,Europe,Bottle,Alkaline,6.84,112,Municipal,Wholesale,Offline,20.5,Children,10316
+PW2289,Aquafina,2.23,1.72,South America,Box,Mineral,7.79,408,Municipal,Pharmacy,Online,7.3,Children,19978
+PW2290,Smartwater,1.24,1.88,North America,Bottle,Purified,8.65,264,Filtered,Supermarket,Offline,23.7,Teenagers,40420
+PW2291,Nestle Pure Life,2.83,1.1,South America,Bottle,Purified,6.34,364,Natural Spring,Pharmacy,Offline,8,Teenagers,3970
+PW2292,Perrier,1.88,1.55,Australia,Can,Distilled,6.94,251,Filtered,Supermarket,Offline,18.4,Children,16085
+PW2293,Perrier,2.51,0.43,North America,Pouch,Mineral,6.26,418,Rainwater,Convenience Store,Offline,10.7,Elderly,17075
+PW2294,Evian,3.57,0.84,North America,Pouch,Distilled,8.21,399,Rainwater,Wholesale,Online,24.6,Children,30472
+PW2295,Voss,3.28,1.33,Europe,Can,Spring,8.44,339,Well,Supermarket,Online,7,Teenagers,3183
+PW2296,Perrier,4.03,0.92,Africa,Can,Mineral,8.51,214,Rainwater,Wholesale,Online,12.1,Adults,37321
+PW2297,Smartwater,2.15,1.36,Europe,Box,Mineral,7.65,402,Rainwater,Online,Offline,15.1,Elderly,15527
+PW2298,Smartwater,0.58,0.58,Africa,Box,Alkaline,8.39,130,Rainwater,Wholesale,Online,6.6,Children,6920
+PW2299,Evian,4.34,0.34,Australia,Pouch,Spring,7,209,Filtered,Convenience Store,Online,13.2,Elderly,19883
+PW2300,Voss,3.5,0.85,Europe,Can,Spring,8.75,103,Well,Convenience Store,Offline,13.7,Teenagers,8411
+PW2301,Fiji,2.83,0.67,South America,Bottle,Mineral,8.59,65,Natural Spring,Convenience Store,Online,24.6,Children,40966
+PW2302,Fiji,4.44,1.79,Asia,Bottle,Alkaline,6.43,342,Filtered,Supermarket,Online,23.6,Elderly,43570
+PW2303,Smartwater,0.95,1.58,Australia,Pouch,Sparkling,7.96,154,Rainwater,Supermarket,Online,13.4,Adults,28190
+PW2304,Smartwater,2.11,1.26,Asia,Pouch,Alkaline,8.31,327,Well,Wholesale,Online,7.8,Teenagers,28223
+PW2305,Fiji,1.32,0.4,Asia,Can,Mineral,8.09,488,Rainwater,Supermarket,Offline,11.4,Adults,41057
+PW2306,San Pellegrino,1.14,1.49,Australia,Bottle,Purified,6.47,275,Filtered,Pharmacy,Online,6.4,Children,27194
+PW2307,Voss,4.69,1.51,South America,Pouch,Spring,8.81,193,Natural Spring,Online,Online,12.4,Elderly,10555
+PW2308,Smartwater,1.61,0.78,Europe,Pouch,Alkaline,7.46,136,Well,Supermarket,Online,18.2,Teenagers,18077
+PW2309,Evian,0.69,1.78,Europe,Pouch,Mineral,7.82,287,Municipal,Wholesale,Offline,15.7,Adults,16626
+PW2310,Fiji,0.66,1.21,North America,Box,Mineral,7.6,85,Natural Spring,Supermarket,Offline,16.6,Children,43838
+PW2311,Fiji,3.74,1.46,North America,Pouch,Distilled,8.42,488,Filtered,Wholesale,Online,19,Elderly,1267
+PW2312,Voss,4.04,0.91,Europe,Bottle,Spring,7.72,292,Well,Convenience Store,Offline,24.4,Teenagers,40440
+PW2313,Fiji,2.06,1.46,Africa,Bottle,Distilled,6.29,292,Well,Wholesale,Online,19.4,Children,48965
+PW2314,Smartwater,2.19,0.98,Europe,Bottle,Spring,6.77,315,Well,Supermarket,Online,8.8,Elderly,10861
+PW2315,Dasani,2.8,0.42,Asia,Can,Distilled,8.62,409,Well,Wholesale,Online,15.3,Elderly,39097
+PW2316,Evian,1,1.45,Asia,Bottle,Distilled,7.6,386,Natural Spring,Wholesale,Offline,10.8,Teenagers,23966
+PW2317,Fiji,1.16,1.73,Australia,Box,Distilled,8.81,54,Rainwater,Online,Offline,5.8,Elderly,31508
+PW2318,Aquafina,2.48,1.97,Africa,Can,Alkaline,7.02,56,Rainwater,Convenience Store,Offline,20.5,Teenagers,17703
+PW2319,Smartwater,4.97,1.23,Africa,Pouch,Sparkling,8.02,241,Municipal,Pharmacy,Offline,25,Teenagers,18805
+PW2320,Aquafina,0.97,0.74,North America,Can,Sparkling,7.63,132,Filtered,Supermarket,Online,14.9,Adults,20589
+PW2321,Smartwater,1.27,0.46,Australia,Bottle,Sparkling,8.92,455,Natural Spring,Online,Offline,18.6,Teenagers,40201
+PW2322,Aquafina,2.73,1.14,South America,Can,Distilled,8.76,80,Well,Wholesale,Offline,18.7,Teenagers,32976
+PW2323,Aquafina,2.2,0.7,Africa,Pouch,Spring,7.59,423,Rainwater,Pharmacy,Online,17,Adults,10342
+PW2324,Dasani,3.43,0.26,Europe,Can,Spring,7.76,159,Filtered,Online,Offline,5,Teenagers,23794
+PW2325,Dasani,4.08,1.66,Australia,Pouch,Distilled,7.83,99,Rainwater,Supermarket,Offline,12.6,Teenagers,14053
+PW2326,Perrier,4.22,1.61,Africa,Pouch,Alkaline,7.24,438,Rainwater,Online,Online,16.2,Children,25126
+PW2327,Evian,4.48,0.98,Africa,Bottle,Mineral,7.07,64,Filtered,Online,Online,6.4,Teenagers,44430
+PW2328,Fiji,1.39,0.29,South America,Box,Purified,6.89,363,Natural Spring,Convenience Store,Offline,15.2,Children,10283
+PW2329,Perrier,2.04,1.62,Asia,Box,Sparkling,7.28,282,Filtered,Online,Online,8.9,Elderly,42083
+PW2330,Dasani,0.96,0.94,North America,Pouch,Purified,7.48,453,Municipal,Wholesale,Online,21.8,Adults,20355
+PW2331,Dasani,2.78,1.56,North America,Bottle,Distilled,8.13,371,Rainwater,Online,Online,21.9,Adults,49311
+PW2332,Nestle Pure Life,0.53,0.31,Europe,Bottle,Mineral,7,363,Rainwater,Pharmacy,Offline,11.7,Teenagers,18022
+PW2333,Perrier,4.49,1.07,Australia,Can,Alkaline,6.95,114,Natural Spring,Pharmacy,Online,20.2,Adults,1118
+PW2334,Aquafina,0.51,1.7,Australia,Pouch,Purified,7.5,343,Municipal,Wholesale,Online,8,Adults,29589
+PW2335,Voss,4.34,1.09,Europe,Bottle,Spring,6.9,340,Well,Wholesale,Offline,21.8,Adults,31453
+PW2336,Perrier,3.94,1.31,Asia,Can,Purified,7.81,158,Municipal,Online,Offline,19.5,Elderly,28981
+PW2337,Aquafina,0.68,1.57,Europe,Box,Purified,8.33,148,Rainwater,Wholesale,Offline,17.7,Teenagers,18545
+PW2338,Evian,1.71,1.86,Africa,Can,Sparkling,7.49,154,Well,Supermarket,Online,13.1,Teenagers,6783
+PW2339,Perrier,3.35,0.41,North America,Box,Spring,8.49,479,Municipal,Wholesale,Offline,5.6,Elderly,8186
+PW2340,Nestle Pure Life,0.82,1.95,Asia,Pouch,Alkaline,6.36,222,Well,Supermarket,Online,20.4,Adults,36814
+PW2341,Fiji,0.56,1.05,Asia,Bottle,Spring,8.15,171,Well,Convenience Store,Offline,7.7,Teenagers,8562
+PW2342,Voss,0.88,1.77,Africa,Bottle,Alkaline,7.22,92,Municipal,Online,Offline,23.3,Adults,32747
+PW2343,San Pellegrino,4.15,0.37,North America,Box,Mineral,6.19,313,Rainwater,Pharmacy,Offline,11.6,Adults,3473
+PW2344,Dasani,4,0.9,Asia,Pouch,Mineral,6.98,236,Rainwater,Wholesale,Online,14.6,Children,34684
+PW2345,Smartwater,0.52,1.31,Australia,Bottle,Distilled,8.48,168,Rainwater,Online,Offline,6.5,Children,25704
+PW2346,Voss,3.6,0.47,Europe,Pouch,Distilled,6.37,254,Well,Supermarket,Offline,22.9,Teenagers,38301
+PW2347,Evian,2.2,1.56,Europe,Pouch,Sparkling,7.25,146,Municipal,Pharmacy,Offline,15.2,Adults,14759
+PW2348,Aquafina,2.17,1.88,Africa,Can,Spring,7.55,125,Well,Wholesale,Online,21.5,Teenagers,47640
+PW2349,Voss,4.16,0.21,Asia,Can,Purified,6.63,414,Rainwater,Convenience Store,Offline,12.2,Adults,19787
+PW2350,Dasani,3.34,1.96,Australia,Bottle,Spring,6.79,297,Natural Spring,Supermarket,Online,16.7,Adults,37636
+PW2351,Fiji,1.91,0.23,Asia,Pouch,Sparkling,7.57,359,Filtered,Supermarket,Online,5.1,Adults,43615
+PW2352,Voss,2.57,0.61,Asia,Box,Purified,8.47,245,Filtered,Online,Online,10.3,Elderly,24946
+PW2353,Smartwater,4.76,1.39,Australia,Can,Alkaline,7.48,186,Well,Online,Online,14.6,Children,34186
+PW2354,Voss,2.16,1.8,Africa,Bottle,Alkaline,6.04,160,Municipal,Pharmacy,Online,9.7,Children,9740
+PW2355,Nestle Pure Life,2.19,0.31,Europe,Pouch,Alkaline,8.6,325,Well,Convenience Store,Online,21.4,Teenagers,35224
+PW2356,Perrier,4.5,1.7,Europe,Bottle,Purified,8.57,115,Municipal,Wholesale,Offline,16,Elderly,843
+PW2357,San Pellegrino,3.17,1.18,Europe,Can,Distilled,6.32,199,Municipal,Online,Offline,12.7,Adults,13447
+PW2358,Aquafina,2.27,1.56,Australia,Bottle,Mineral,8.36,315,Municipal,Pharmacy,Online,18.2,Children,45737
+PW2359,Aquafina,4.51,1.91,North America,Pouch,Spring,6.93,210,Natural Spring,Pharmacy,Offline,20.5,Teenagers,18471
+PW2360,Perrier,2.42,1.63,North America,Box,Spring,8.33,71,Natural Spring,Convenience Store,Online,13.2,Adults,43638
+PW2361,San Pellegrino,2.91,0.66,Africa,Box,Distilled,7.21,64,Municipal,Wholesale,Offline,13.3,Children,3943
+PW2362,Smartwater,1.09,1.61,North America,Bottle,Sparkling,6.12,277,Municipal,Supermarket,Online,17.1,Elderly,42711
+PW2363,Voss,1.01,0.86,South America,Bottle,Purified,8.17,406,Rainwater,Online,Online,12,Elderly,2226
+PW2364,San Pellegrino,2.89,0.85,Europe,Box,Mineral,8.29,496,Well,Supermarket,Online,9.2,Elderly,23379
+PW2365,Nestle Pure Life,3.48,1.7,Asia,Pouch,Spring,8.64,115,Filtered,Pharmacy,Online,10.6,Children,37339
+PW2366,Dasani,3.53,1.67,Europe,Can,Distilled,6.05,216,Natural Spring,Wholesale,Offline,16.7,Teenagers,24414
+PW2367,Evian,3.75,0.3,Africa,Box,Mineral,6.84,67,Natural Spring,Pharmacy,Online,17.8,Adults,37172
+PW2368,Aquafina,2.03,1.99,Africa,Bottle,Distilled,6.18,146,Municipal,Pharmacy,Online,12.3,Elderly,19784
+PW2369,Dasani,3.86,0.7,South America,Box,Mineral,6.17,166,Filtered,Online,Offline,14.8,Teenagers,45698
+PW2370,Smartwater,3.4,1.68,Europe,Box,Spring,6.89,106,Well,Pharmacy,Online,14.5,Elderly,7200
+PW2371,San Pellegrino,2.19,0.84,Europe,Box,Purified,6.3,320,Filtered,Online,Online,16.7,Adults,44793
+PW2372,Smartwater,4.66,0.91,Australia,Box,Sparkling,6.47,493,Natural Spring,Supermarket,Offline,21.1,Teenagers,48838
+PW2373,Dasani,4.11,0.63,Australia,Can,Alkaline,6.27,390,Well,Wholesale,Online,12.5,Teenagers,10886
+PW2374,Perrier,3.1,1.95,Europe,Bottle,Alkaline,7.79,85,Municipal,Convenience Store,Online,9.5,Children,21071
+PW2375,Voss,1.31,1.28,Australia,Can,Distilled,7.58,152,Filtered,Supermarket,Online,24.5,Adults,21149
+PW2376,Dasani,4.81,0.45,South America,Pouch,Spring,8.47,263,Natural Spring,Online,Offline,17.4,Children,19476
+PW2377,Perrier,2.18,0.74,Asia,Can,Purified,8.7,211,Municipal,Supermarket,Online,24.8,Adults,28858
+PW2378,Fiji,4.97,0.27,Australia,Can,Mineral,6.43,469,Rainwater,Pharmacy,Online,19.4,Teenagers,32026
+PW2379,San Pellegrino,4.93,0.32,South America,Box,Purified,7.89,429,Municipal,Pharmacy,Online,7.5,Children,32854
+PW2380,Nestle Pure Life,4.01,0.45,Africa,Can,Sparkling,7.22,199,Filtered,Wholesale,Offline,24,Children,7413
+PW2381,Dasani,3.8,1.45,Europe,Can,Distilled,7.5,121,Rainwater,Convenience Store,Offline,8.3,Adults,15376
+PW2382,Dasani,1.92,1.87,North America,Pouch,Distilled,7.93,304,Municipal,Supermarket,Online,22.6,Children,47792
+PW2383,Smartwater,2.14,0.5,Europe,Bottle,Purified,6.77,437,Rainwater,Convenience Store,Online,11.5,Teenagers,23989
+PW2384,Aquafina,2.5,0.35,Asia,Pouch,Alkaline,8.71,210,Filtered,Convenience Store,Online,16.3,Elderly,30673
+PW2385,Fiji,2.75,0.91,Africa,Pouch,Mineral,7.44,190,Filtered,Pharmacy,Online,17.9,Elderly,21505
+PW2386,Smartwater,1.06,0.83,North America,Can,Alkaline,8.57,87,Municipal,Convenience Store,Online,21.2,Teenagers,38344
+PW2387,Aquafina,4.8,1,Africa,Pouch,Sparkling,7.58,487,Rainwater,Online,Offline,12.4,Teenagers,6096
+PW2388,Nestle Pure Life,3.44,0.52,Europe,Can,Sparkling,8.95,327,Municipal,Convenience Store,Offline,4.2,Children,1831
+PW2389,Aquafina,4.3,1.08,South America,Bottle,Mineral,8.49,498,Well,Supermarket,Offline,21.4,Teenagers,49186
+PW2390,Fiji,2.66,1.36,Australia,Can,Distilled,8.71,183,Rainwater,Wholesale,Offline,24,Elderly,19707
+PW2391,San Pellegrino,1.7,1.69,Africa,Can,Spring,8.97,479,Rainwater,Wholesale,Online,17,Elderly,7068
+PW2392,Voss,1.29,0.88,South America,Bottle,Spring,7.77,54,Municipal,Supermarket,Online,6.9,Elderly,44932
+PW2393,Dasani,2.27,1.94,Africa,Box,Purified,8.9,359,Municipal,Supermarket,Offline,19.1,Adults,21576
+PW2394,Nestle Pure Life,1.93,0.37,South America,Bottle,Sparkling,8.02,434,Municipal,Wholesale,Online,14.2,Children,43948
+PW2395,Dasani,3.97,1.36,Asia,Bottle,Distilled,8.37,415,Filtered,Pharmacy,Online,5.6,Teenagers,2994
+PW2396,Nestle Pure Life,2.62,0.87,Africa,Box,Alkaline,7.76,142,Well,Convenience Store,Online,10.9,Teenagers,25791
+PW2397,Aquafina,2.95,1.71,Europe,Pouch,Sparkling,7.55,164,Municipal,Online,Offline,24.1,Children,1068
+PW2398,Fiji,3.61,1.58,North America,Box,Mineral,8.9,333,Municipal,Wholesale,Offline,5.5,Teenagers,6134
+PW2399,Evian,4.89,1.55,North America,Bottle,Alkaline,6.29,192,Municipal,Convenience Store,Online,23.4,Teenagers,6927
+PW2400,Nestle Pure Life,0.65,1.8,North America,Bottle,Distilled,7.03,230,Filtered,Wholesale,Online,16.5,Children,17354
+PW2401,Nestle Pure Life,1.74,1.2,Africa,Bottle,Mineral,7.12,57,Filtered,Convenience Store,Offline,6,Elderly,30208
+PW2402,Nestle Pure Life,4.16,0.48,South America,Pouch,Sparkling,6.82,185,Well,Supermarket,Online,12.8,Elderly,46461
+PW2403,Aquafina,1.34,1.1,Africa,Can,Spring,8.08,60,Filtered,Supermarket,Offline,17.8,Adults,28031
+PW2404,Aquafina,4.87,1.12,Australia,Can,Mineral,6.08,231,Municipal,Wholesale,Offline,17.4,Children,48987
+PW2405,Nestle Pure Life,3.73,0.21,Africa,Can,Sparkling,7.5,375,Natural Spring,Pharmacy,Offline,21.3,Teenagers,42330
+PW2406,Dasani,1.61,0.29,Africa,Can,Spring,7.93,380,Filtered,Convenience Store,Online,24.7,Elderly,49485
+PW2407,Dasani,2.07,0.59,Asia,Box,Distilled,6.14,62,Well,Online,Online,7.8,Teenagers,6832
+PW2408,Evian,2.43,0.55,South America,Box,Spring,8.64,282,Filtered,Wholesale,Offline,12.1,Elderly,45654
+PW2409,Smartwater,2.98,0.39,Europe,Pouch,Purified,8.57,440,Filtered,Online,Online,23.4,Adults,8648
+PW2410,Aquafina,4.68,1.25,Australia,Box,Distilled,6.96,73,Rainwater,Supermarket,Offline,16.5,Children,24860
+PW2411,San Pellegrino,2.54,0.44,Asia,Pouch,Spring,8.27,202,Rainwater,Supermarket,Online,5.9,Adults,10697
+PW2412,Perrier,4.31,1.93,Europe,Bottle,Purified,7.51,272,Rainwater,Convenience Store,Online,17.2,Children,43339
+PW2413,Nestle Pure Life,3.46,0.51,Africa,Pouch,Mineral,8.43,220,Filtered,Pharmacy,Offline,17.8,Teenagers,3548
+PW2414,Aquafina,3.41,0.47,North America,Box,Mineral,8.4,481,Natural Spring,Pharmacy,Online,14.1,Elderly,40926
+PW2415,Perrier,3.4,0.67,Europe,Can,Purified,7.6,267,Municipal,Wholesale,Online,19.3,Elderly,18262
+PW2416,Smartwater,1.5,1.87,Europe,Box,Spring,8.38,428,Well,Supermarket,Online,4.8,Adults,22792
+PW2417,Dasani,4.84,1.78,Africa,Pouch,Alkaline,7.76,199,Municipal,Online,Offline,6.5,Elderly,37428
+PW2418,Dasani,3.77,1.78,Africa,Pouch,Purified,8.79,460,Well,Pharmacy,Online,15,Adults,3650
+PW2419,Smartwater,4.19,1.89,North America,Pouch,Mineral,8.49,79,Natural Spring,Supermarket,Online,22.3,Adults,34311
+PW2420,Smartwater,0.71,1.88,Africa,Bottle,Distilled,8.98,416,Filtered,Wholesale,Offline,5.1,Elderly,31205
+PW2421,Smartwater,5,1.44,North America,Box,Purified,6.83,498,Filtered,Convenience Store,Offline,7.9,Adults,24616
+PW2422,Evian,2.5,0.94,South America,Bottle,Sparkling,8.53,227,Well,Wholesale,Online,22.1,Elderly,13655
+PW2423,Aquafina,3.28,1.33,Asia,Pouch,Distilled,8.22,321,Natural Spring,Pharmacy,Offline,5.6,Children,24433
+PW2424,Evian,3.91,0.22,Australia,Bottle,Spring,8.86,444,Well,Wholesale,Online,19,Teenagers,25282
+PW2425,San Pellegrino,4.61,0.41,Africa,Box,Distilled,6.1,77,Municipal,Online,Online,16.5,Elderly,15221
+PW2426,Perrier,4.67,1.35,Australia,Pouch,Purified,8.14,111,Rainwater,Pharmacy,Offline,5.8,Elderly,13346
+PW2427,San Pellegrino,0.52,1.6,Europe,Can,Spring,6.55,428,Well,Pharmacy,Offline,18,Elderly,28520
+PW2428,Nestle Pure Life,4.11,1.4,North America,Can,Alkaline,6.66,63,Well,Pharmacy,Online,8.4,Adults,2183
+PW2429,Smartwater,0.85,1.31,Europe,Bottle,Sparkling,7.56,351,Natural Spring,Convenience Store,Online,24.7,Teenagers,49218
+PW2430,Evian,4.19,1.57,Australia,Can,Distilled,7.57,341,Filtered,Convenience Store,Online,6.9,Teenagers,3423
+PW2431,Voss,1.01,1.51,North America,Can,Alkaline,8.61,333,Natural Spring,Online,Offline,24.9,Children,34314
+PW2432,Dasani,4.58,1.68,Australia,Box,Purified,6.34,371,Municipal,Supermarket,Offline,20.1,Adults,18548
+PW2433,Perrier,2.17,0.89,South America,Box,Mineral,6.7,283,Municipal,Wholesale,Offline,8.8,Adults,44377
+PW2434,Aquafina,1.07,0.89,Africa,Box,Mineral,6.04,206,Well,Wholesale,Online,13.3,Teenagers,37948
+PW2435,Evian,2.83,1.25,North America,Box,Mineral,8.65,223,Well,Online,Offline,16.1,Children,16725
+PW2436,Smartwater,4.73,0.47,Africa,Box,Purified,7.15,88,Municipal,Wholesale,Offline,16.3,Children,12520
+PW2437,Voss,4.29,0.51,Europe,Box,Purified,8.16,270,Municipal,Pharmacy,Offline,23.9,Elderly,45109
+PW2438,Voss,3.25,1.15,North America,Box,Alkaline,6.33,468,Well,Supermarket,Online,9.2,Children,28672
+PW2439,Aquafina,3.6,1.9,Asia,Can,Spring,7.23,114,Well,Convenience Store,Offline,4.2,Children,23019
+PW2440,Fiji,4.11,1.06,Europe,Bottle,Distilled,8.43,84,Municipal,Supermarket,Online,21.1,Elderly,35289
+PW2441,Fiji,4.25,0.55,Africa,Bottle,Alkaline,6.3,259,Filtered,Wholesale,Online,10.1,Teenagers,20701
+PW2442,Aquafina,3.21,0.71,Africa,Pouch,Mineral,7.98,261,Rainwater,Convenience Store,Online,11.5,Teenagers,5500
+PW2443,San Pellegrino,1.09,0.78,North America,Bottle,Spring,8.26,401,Natural Spring,Wholesale,Offline,11.7,Children,10163
+PW2444,Evian,0.64,1.96,North America,Bottle,Purified,6.55,82,Municipal,Online,Offline,4.9,Elderly,45194
+PW2445,Voss,4.54,1.87,Europe,Pouch,Sparkling,8.29,283,Municipal,Convenience Store,Offline,12.5,Adults,10464
+PW2446,Voss,2.9,1.36,South America,Box,Purified,6.79,81,Filtered,Pharmacy,Online,4.2,Adults,48068
+PW2447,Nestle Pure Life,3.42,0.52,Asia,Box,Spring,8.73,244,Municipal,Supermarket,Offline,23,Elderly,22400
+PW2448,Smartwater,0.57,0.94,Europe,Can,Alkaline,6.79,105,Well,Online,Online,9.8,Children,12248
+PW2449,San Pellegrino,3.85,1.35,North America,Can,Spring,6.04,383,Filtered,Convenience Store,Offline,23.1,Elderly,3758
+PW2450,Nestle Pure Life,0.71,0.43,Asia,Pouch,Purified,8.94,253,Natural Spring,Online,Online,22.5,Teenagers,25963
+PW2451,Fiji,2.29,1.43,South America,Can,Alkaline,7.44,390,Filtered,Pharmacy,Offline,20.4,Adults,4687
+PW2452,Voss,3.65,1.41,Europe,Pouch,Spring,8.49,83,Well,Online,Online,24,Adults,28311
+PW2453,Voss,3.29,1.92,North America,Can,Purified,6.8,474,Rainwater,Pharmacy,Offline,22.2,Adults,11910
+PW2454,Voss,0.9,0.6,South America,Box,Spring,6.96,322,Rainwater,Online,Offline,9,Adults,21305
+PW2455,Smartwater,2.41,0.31,North America,Bottle,Purified,7.52,289,Natural Spring,Online,Offline,7.6,Adults,23809
+PW2456,Voss,2.8,0.23,South America,Box,Spring,6.41,148,Well,Convenience Store,Online,20.8,Teenagers,37005
+PW2457,Smartwater,0.58,0.39,North America,Box,Sparkling,7.83,288,Municipal,Online,Offline,22.4,Elderly,26450
+PW2458,San Pellegrino,4.18,0.53,Australia,Pouch,Sparkling,8.88,261,Municipal,Convenience Store,Online,8.5,Elderly,39565
+PW2459,Aquafina,3.08,0.23,Africa,Pouch,Distilled,6.18,293,Well,Online,Offline,4,Elderly,22898
+PW2460,Fiji,4.78,0.37,South America,Can,Spring,8.12,188,Natural Spring,Pharmacy,Offline,21.4,Children,46379
+PW2461,Smartwater,4.55,0.43,Asia,Can,Spring,8.42,220,Municipal,Convenience Store,Online,11.9,Adults,20643
+PW2462,Aquafina,3.38,1.41,Asia,Bottle,Sparkling,7.4,177,Rainwater,Pharmacy,Online,23.8,Teenagers,30649
+PW2463,Dasani,1.62,1.2,Australia,Pouch,Sparkling,8,218,Filtered,Supermarket,Offline,9.5,Children,10734
+PW2464,Fiji,1.18,0.39,Africa,Box,Mineral,8.33,148,Filtered,Supermarket,Offline,8.1,Adults,12968
+PW2465,Nestle Pure Life,4.3,1.11,Africa,Pouch,Spring,8.42,328,Well,Online,Offline,4.6,Teenagers,46547
+PW2466,Fiji,1.48,1.64,Australia,Box,Purified,6.31,74,Municipal,Pharmacy,Online,4.6,Adults,16482
+PW2467,San Pellegrino,1.9,1.03,Africa,Pouch,Mineral,6.17,160,Rainwater,Online,Online,9.7,Elderly,41507
+PW2468,Fiji,4.22,0.49,Australia,Pouch,Distilled,7.02,489,Rainwater,Supermarket,Online,19.1,Children,807
+PW2469,Smartwater,1.03,0.59,Australia,Pouch,Alkaline,8.24,411,Municipal,Pharmacy,Offline,4.6,Children,30280
+PW2470,Fiji,2.84,1.49,Africa,Box,Spring,8.8,326,Rainwater,Convenience Store,Offline,14.6,Children,37948
+PW2471,Dasani,3.71,0.53,Asia,Box,Spring,7.58,408,Municipal,Supermarket,Online,19.3,Adults,19336
+PW2472,Aquafina,0.57,0.99,Europe,Can,Spring,6.57,396,Filtered,Pharmacy,Online,20.1,Adults,17922
+PW2473,Voss,3.99,0.61,North America,Box,Distilled,8.88,442,Municipal,Convenience Store,Offline,9.5,Teenagers,17932
+PW2474,Fiji,1.95,0.66,Australia,Bottle,Purified,7.38,308,Filtered,Wholesale,Offline,16.8,Adults,5975
+PW2475,Evian,2.52,1.88,Africa,Box,Alkaline,6.36,447,Well,Supermarket,Offline,10.5,Children,43346
+PW2476,San Pellegrino,2.06,0.9,Asia,Bottle,Alkaline,7.31,259,Rainwater,Online,Online,22.2,Teenagers,15125
+PW2477,Fiji,1.98,1.83,Europe,Bottle,Spring,6.9,116,Natural Spring,Online,Online,8.6,Teenagers,43194
+PW2478,Voss,3.11,0.33,Australia,Can,Distilled,7.93,117,Natural Spring,Convenience Store,Offline,16.6,Children,8962
+PW2479,Evian,4.46,1.52,North America,Box,Alkaline,8.82,230,Filtered,Wholesale,Online,14.4,Children,15529
+PW2480,Smartwater,1.81,0.66,South America,Pouch,Distilled,6.24,347,Municipal,Wholesale,Offline,22.5,Elderly,10549
+PW2481,Aquafina,3.29,0.22,North America,Bottle,Alkaline,8.42,148,Rainwater,Online,Offline,5.6,Children,31043
+PW2482,Aquafina,2.26,1.75,Asia,Box,Purified,6.38,165,Well,Convenience Store,Offline,11.9,Children,6099
+PW2483,Voss,1.98,0.58,South America,Bottle,Sparkling,7.36,427,Municipal,Supermarket,Online,13.3,Teenagers,9454
+PW2484,Fiji,1.58,1.77,Asia,Box,Alkaline,7.48,491,Filtered,Supermarket,Offline,16.4,Children,17674
+PW2485,Aquafina,4.11,1.39,Europe,Box,Alkaline,6.19,219,Natural Spring,Wholesale,Online,16.6,Elderly,8350
+PW2486,Aquafina,2.39,1.13,Asia,Can,Alkaline,6.76,484,Well,Wholesale,Online,16.8,Teenagers,21630
+PW2487,Voss,2.01,1.87,Australia,Box,Distilled,7.69,470,Municipal,Supermarket,Online,18.6,Adults,40168
+PW2488,Nestle Pure Life,1.7,0.87,Europe,Bottle,Distilled,8.76,375,Filtered,Wholesale,Offline,22.5,Children,44968
+PW2489,Aquafina,1.79,1.75,Europe,Box,Purified,7.71,385,Well,Pharmacy,Offline,19,Children,4755
+PW2490,Fiji,2.32,1.31,Asia,Box,Sparkling,8.87,479,Municipal,Online,Offline,11.3,Teenagers,8469
+PW2491,Evian,1.43,1.76,Europe,Bottle,Mineral,6.6,148,Municipal,Pharmacy,Online,19.2,Children,14758
+PW2492,Aquafina,4.72,1.21,Europe,Can,Distilled,6.43,492,Well,Wholesale,Online,7.8,Elderly,35023
+PW2493,Perrier,3.96,1.24,Europe,Bottle,Sparkling,8.37,90,Municipal,Pharmacy,Offline,6.8,Adults,20176
+PW2494,Perrier,4.83,0.51,Europe,Box,Sparkling,6.85,414,Well,Pharmacy,Online,19.2,Children,20275
+PW2495,Smartwater,4.57,1.99,Asia,Can,Mineral,8.39,122,Filtered,Convenience Store,Online,15.5,Elderly,34434
+PW2496,San Pellegrino,4.3,0.95,Africa,Bottle,Spring,6.55,67,Municipal,Wholesale,Online,22.2,Children,40848
+PW2497,Voss,1.83,1.1,South America,Can,Sparkling,6.14,494,Filtered,Convenience Store,Offline,5.7,Elderly,44280
+PW2498,San Pellegrino,0.55,1.96,Australia,Can,Purified,6.64,255,Municipal,Online,Offline,22,Elderly,6154
+PW2499,Perrier,4.53,1.26,South America,Pouch,Spring,6.53,433,Municipal,Pharmacy,Offline,17.9,Elderly,1254
